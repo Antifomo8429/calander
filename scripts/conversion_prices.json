@@ -117,5 +117,12 @@
     "bid_end": "2026/03/13",
     "min_price": "100.00",
     "conversion_price": "12.25"
+  },
+  {
+    "company": "保瑞藥業股份有限公司",
+    "bid_start": "2026/03/27",
+    "bid_end": "2026/03/31",
+    "min_price": "100.00",
+    "conversion_price": "453.50"
   }
 ]
