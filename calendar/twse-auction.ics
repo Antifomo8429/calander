@@ -53363,6 +53363,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f95fb76502b79d765d9dd3967d8c976f5386c24c@twse-auction-calendar
+DTSTAMP:20120528T171059Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:[TWSE競拍] 宏碁智新(7794) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：宏碁智新\n證券代
+ 號：7794\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：2
+ 8.97\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 265\n主辦券商：台新\n投標開始日：2026/04/01\n投標結束日
+ ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:156ef75a62a7aa20679355404aae8c4a2c5dc925@twse-auction-calendar
+DTSTAMP:20331202T130503Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:[TWSE競拍] 神數(7821) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：神數\n證券代號：78
+ 21\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)：32.0
+ 8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,
+ 112\n主辦券商：元大\n投標開始日：2026/04/01\n投標結束日
+ ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:59cf1f790c8326743c905cc240fe4aea351b70e1@twse-auction-calendar
 DTSTAMP:20191204T063217Z
 DTSTART;VALUE=DATE:20260402
@@ -53376,6 +53410,40 @@ DESCRIPTION:事件：開標\n證券名稱：保瑞五\n證券代號：64725
  026/03/27\n投標結束日：2026/03/31\n開標日期：2026/04/02\n撥券
  日期：2026/04/15\n資料來源：https://www.twse.com.tw/zh/announcement
  /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f718523ea218259e6291cc2549296cd9e696a209@twse-auction-calendar
+DTSTAMP:20010930T011802Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:[TWSE競拍] 宏碁智新(7794) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：宏碁智新\n證券代
+ 號：7794\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：2
+ 8.97\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 265\n主辦券商：台新\n投標開始日：2026/04/01\n投標結束日
+ ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:25b98b84423ad620d352d9fd84f9c2c528749b28@twse-auction-calendar
+DTSTAMP:20090206T155308Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:[TWSE競拍] 神數(7821) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：神數\n證券代號：78
+ 21\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)：32.0
+ 8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,
+ 112\n主辦券商：元大\n投標開始日：2026/04/01\n投標結束日
+ ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53398,6 +53466,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:54f90bf0b03e61dc6d730a24531221451261b1a0@twse-auction-calendar
+DTSTAMP:20070311T202733Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:[TWSE競拍] 宏碁智新(7794) 開標
+DESCRIPTION:事件：開標\n證券名稱：宏碁智新\n證券代號：77
+ 94\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：28.97\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：265\n主
+ 辦券商：台新\n投標開始日：2026/04/01\n投標結束日：2026/04
+ /07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6fbb921327425654377b51de90b176516e58458c@twse-auction-calendar
+DTSTAMP:20490907T141353Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:[TWSE競拍] 神數(7821) 開標
+DESCRIPTION:事件：開標\n證券名稱：神數\n證券代號：7821\n
+ 發行市場：集中交易市場\n發行性質：初上市\n競拍方式
+ ：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)：32.08\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,112
+ \n主辦券商：元大\n投標開始日：2026/04/01\n投標結束日：20
+ 26/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:01c43e480424cc4d154e73a3f3b602f7c7c29567@twse-auction-calendar
 DTSTAMP:20150919T114634Z
 DTSTART;VALUE=DATE:20260415
@@ -53411,6 +53513,40 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：保瑞五\n證券代號
  始日：2026/03/27\n投標結束日：2026/03/31\n開標日期：2026/04/0
  2\n撥券日期：2026/04/15\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:275a2b0e9e542e965b6e45f72ee943d6bed50afe@twse-auction-calendar
+DTSTAMP:20001129T030728Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:[TWSE競拍] 宏碁智新(7794) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：宏碁智新\n證券代
+ 號：7794\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：2
+ 8.97\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 265\n主辦券商：台新\n投標開始日：2026/04/01\n投標結束日
+ ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6c7957018d558a400eeeb0e58ca7912c74733b@twse-auction-calendar
+DTSTAMP:20300410T175354Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:[TWSE競拍] 神數(7821) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：神數\n證券代號：7
+ 821\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)：32.0
+ 8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,
+ 112\n主辦券商：元大\n投標開始日：2026/04/01\n投標結束日
+ ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
