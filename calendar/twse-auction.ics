@@ -53534,6 +53534,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f939497e706bb36b90266a4872cda0cc66c9a1c4@twse-auction-calendar
+DTSTAMP:20101216T201708Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:[TWSE競拍] 立盈(7820) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：立盈\n證券代號：78
+ 20\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,326\n最低投標價格(元)：102.56\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：310\n
+ 主辦券商：元大\n投標開始日：2026/04/10\n投標結束日：2026
+ /04/14\n開標日期：2026/04/16\n撥券日期：2026/04/27\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:4086ad0125297763b65d9d56e997a2959e9729e4@twse-auction-calendar
 DTSTAMP:20150612T113549Z
 DTSTART;VALUE=DATE:20260413
@@ -53545,6 +53562,23 @@ DESCRIPTION:事件：開標\n證券名稱：創新服務\n證券代號：78
  最低每標單投標數量(張)：1\n最高投(得)標數量(張)：328\n
  主辦券商：凱基\n投標開始日：2026/04/07\n投標結束日：2026
  /04/09\n開標日期：2026/04/13\n撥券日期：2026/04/22\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7eece6722cf6b5253242d7cb50c3eedbf5f5bd9@twse-auction-calendar
+DTSTAMP:20280712T205338Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:[TWSE競拍] 立盈(7820) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：立盈\n證券代號：78
+ 20\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,326\n最低投標價格(元)：102.56\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：310\n
+ 主辦券商：元大\n投標開始日：2026/04/10\n投標結束日：2026
+ /04/14\n開標日期：2026/04/16\n撥券日期：2026/04/27\n資料來源
  ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -53564,6 +53598,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：保瑞五\n證券代號
  始日：2026/03/27\n投標結束日：2026/03/31\n開標日期：2026/04/0
  2\n撥券日期：2026/04/15\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:167ee1f7567687ac0d4abc122a27b816a4bcea35@twse-auction-calendar
+DTSTAMP:20290811T234741Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:[TWSE競拍] 立盈(7820) 開標
+DESCRIPTION:事件：開標\n證券名稱：立盈\n證券代號：7820\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：2\,326\n最低投標價格(元)：102.56\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：310\n主
+ 辦券商：元大\n投標開始日：2026/04/10\n投標結束日：2026/04
+ /14\n開標日期：2026/04/16\n撥券日期：2026/04/27\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53615,6 +53666,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：創新服務\n證券代
  ：328\n主辦券商：凱基\n投標開始日：2026/04/07\n投標結束
  日：2026/04/09\n開標日期：2026/04/13\n撥券日期：2026/04/22\n資
  料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:447cc719a5b1ab03a1db0a7775874ab4b2a9a7c6@twse-auction-calendar
+DTSTAMP:20140619T015139Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:[TWSE競拍] 立盈(7820) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：立盈\n證券代號：7
+ 820\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,326\n最低投標價格(元)：102.56\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：310\n
+ 主辦券商：元大\n投標開始日：2026/04/10\n投標結束日：2026
+ /04/14\n開標日期：2026/04/16\n撥券日期：2026/04/27\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
