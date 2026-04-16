@@ -124,5 +124,12 @@
     "bid_end": "2026/03/31",
     "min_price": "100.00",
     "conversion_price": "453.50"
+  },
+  {
+    "company": "永捷創新科技股份有限公司",
+    "bid_start": "2026/04/16",
+    "bid_end": "2026/04/20",
+    "min_price": "100.00",
+    "conversion_price": "14.65"
   }
 ]
