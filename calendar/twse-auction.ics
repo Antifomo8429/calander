@@ -53916,6 +53916,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:c2badf286ac7d7d8e759021447e7abbf61d296e6@twse-auction-calendar
+DTSTAMP:20161105T193859Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:[TWSE競拍] 耀穎(7772) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：耀穎\n證券代號：77
+ 72\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,646\n最低投標價格(元)：50\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：212\n主辦
+ 券商：台新\n投標開始日：2026/04/22\n投標結束日：2026/04/24
+ \n開標日期：2026/04/28\n撥券日期：2026/05/08\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:6ad80662f1d888afe573b818c04194e44371f945@twse-auction-calendar
 DTSTAMP:20310829T015612Z
 DTSTART;VALUE=DATE:20260423
@@ -53968,6 +53985,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:588a81e8a6589641f8ffaa43b48c616aef906d8c@twse-auction-calendar
+DTSTAMP:20311020T041512Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:[TWSE競拍] 耀穎(7772) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：耀穎\n證券代號：77
+ 72\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,646\n最低投標價格(元)：50\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：212\n主辦
+ 券商：台新\n投標開始日：2026/04/22\n投標結束日：2026/04/24
+ \n開標日期：2026/04/28\n撥券日期：2026/05/08\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:447cc719a5b1ab03a1db0a7775874ab4b2a9a7c6@twse-auction-calendar
 DTSTAMP:20140619T015139Z
 DTSTART;VALUE=DATE:20260427
@@ -54014,6 +54048,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：享溫馨\n證券代號
  )：519\n主辦券商：台新\n投標開始日：2026/04/13\n投標結束
  日：2026/04/15\n開標日期：2026/04/17\n撥券日期：2026/04/28\n資
  料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1b113e2b4866926678c8c5f777bf5a2209a8c4@twse-auction-calendar
+DTSTAMP:20440305T192048Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:[TWSE競拍] 耀穎(7772) 開標
+DESCRIPTION:事件：開標\n證券名稱：耀穎\n證券代號：7772\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：1\,646\n最低投標價格(元)：50\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：212\n主辦券
+ 商：台新\n投標開始日：2026/04/22\n投標結束日：2026/04/24\n
+ 開標日期：2026/04/28\n撥券日期：2026/05/08\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54102,6 +54153,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：頌勝科技\n證券代
  張)：737\n主辦券商：元大\n投標開始日：2026/04/21\n投標結
  束日：2026/04/23\n開標日期：2026/04/27\n撥券日期：2026/05/07\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0039763c6311cc7762eda7fdff305945da689c@twse-auction-calendar
+DTSTAMP:20370817T055406Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:[TWSE競拍] 耀穎(7772) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：耀穎\n證券代號：7
+ 772\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,646\n最低投標價格(元)：50\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：212\n主辦
+ 券商：台新\n投標開始日：2026/04/22\n投標結束日：2026/04/24
+ \n開標日期：2026/04/28\n撥券日期：2026/05/08\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
