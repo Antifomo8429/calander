@@ -138,5 +138,12 @@
     "bid_end": "2026/04/21",
     "min_price": "101.00",
     "conversion_price": "156"
+  },
+  {
+    "company": "JPP Holding Company Limited(經寶精密控股股份有限公司-KY)",
+    "bid_start": "2026/04/23",
+    "bid_end": "2026/04/27",
+    "min_price": "101.00",
+    "conversion_price": "318.5"
   }
 ]

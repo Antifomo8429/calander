@@ -53934,17 +53934,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cb238ddcefbfd628dd3738ed0a178a3f20e63898@twse-auction-calendar
-DTSTAMP:20430413T062327Z
+DTSTAMP:20350414T000828Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:[TWSE競拍] jpp五KY(52845) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：jpp五KY\n證券代號：
  52845\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債
- \n競拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標結
- 束日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n轉換價(元)：318.5\n競拍方式：美國標\n競拍數量(張)：3\,
+ 000\n最低投標價格(元)：101\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：300\n主辦券商：凱基\n投標開始日
+ ：2026/04/23\n投標結束日：2026/04/27\n開標日期：2026/04/29\n撥
+ 券日期：2026/05/11\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54054,17 +54055,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6d11cb2eb6caf1cafbdb836e3247100cb7dbd6c9@twse-auction-calendar
-DTSTAMP:20021024T063735Z
+DTSTAMP:20090812T032538Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:[TWSE競拍] jpp五KY(52845) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：jpp五KY\n證券代號：
  52845\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債
- \n競拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標結
- 束日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n轉換價(元)：318.5\n競拍方式：美國標\n競拍數量(張)：3\,
+ 000\n最低投標價格(元)：101\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：300\n主辦券商：凱基\n投標開始日
+ ：2026/04/23\n投標結束日：2026/04/27\n開標日期：2026/04/29\n撥
+ 券日期：2026/05/11\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54116,6 +54118,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：立盈\n證券代號：7
  主辦券商：元大\n投標開始日：2026/04/10\n投標結束日：2026
  /04/14\n開標日期：2026/04/16\n撥券日期：2026/04/27\n資料來源
  ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:410b8160b09e4f5cc4420c6a23928d7f01749bf9@twse-auction-calendar
+DTSTAMP:20140706T055802Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:[TWSE競拍] 金雨一(45031) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：金雨一\n證券代號
+ ：45031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
+ 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標
+ 結束日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/1
+ 3\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54173,17 +54192,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:364189c02d20e78271a99f730262612a2a2effb0@twse-auction-calendar
-DTSTAMP:20050104T001024Z
+DTSTAMP:20311020T122300Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:[TWSE競拍] jpp五KY(52845) 開標
 DESCRIPTION:事件：開標\n證券名稱：jpp五KY\n證券代號：52845\
- n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價格(元)
- ：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標結束
- 日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：318.5\n競拍方式：美國標\n競拍數量(張)：3\,000\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：300\n主辦券商：凱基\n投標開始日：2026
+ /04/23\n投標結束日：2026/04/27\n開標日期：2026/04/29\n撥券日
+ 期：2026/05/11\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54223,6 +54243,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ad3d3efaf064fc5153ceeba39b8de48afaa4f7e3@twse-auction-calendar
+DTSTAMP:20081230T094804Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:[TWSE競拍] 金雨一(45031) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：金雨一\n證券代號
+ ：45031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
+ 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標
+ 結束日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/1
+ 3\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:c064351e3816c4eed27471cf3b137c6013bfec30@twse-auction-calendar
 DTSTAMP:20490308T024721Z
 DTSTART;VALUE=DATE:20260430
@@ -54254,6 +54291,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：永捷八\n證券代號
  日：2026/04/16\n投標結束日：2026/04/20\n開標日期：2026/04/22\n
  撥券日期：2026/05/04\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c2af16db8fb7d4fc28640679c5d0db520bbbb57@twse-auction-calendar
+DTSTAMP:20030710T084001Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:[TWSE競拍] 金雨一(45031) 開標
+DESCRIPTION:事件：開標\n證券名稱：金雨一\n證券代號：45031
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(元)
+ ：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標結束
+ 日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/13\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54329,17 +54383,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5025c8123c6318e49253d1ded07a9c8a64f341a3@twse-auction-calendar
-DTSTAMP:20080622T175836Z
+DTSTAMP:20401116T000842Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:[TWSE競拍] jpp五KY(52845) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：jpp五KY\n證券代號
  ：52845\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價
- 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標
- 結束日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/1
- 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：318.5\n競拍方式：美國標\n競拍數量(張)：
+ 3\,000\n最低投標價格(元)：101\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：300\n主辦券商：凱基\n投標開始
+ 日：2026/04/23\n投標結束日：2026/04/27\n開標日期：2026/04/29\n
+ 撥券日期：2026/05/11\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54374,6 +54429,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：天能綠電\n證券代
  312\n主辦券商：永豐金\n投標開始日：2026/04/23\n投標結束
  日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n資
  料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:159a05c1b0638345a2bd2fbe7555a6408f2a9b93@twse-auction-calendar
+DTSTAMP:20251109T230324Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:[TWSE競拍] 金雨一(45031) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：金雨一\n證券代號
+ ：45031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
+ 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標
+ 結束日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/1
+ 3\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
