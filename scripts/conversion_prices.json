@@ -145,5 +145,12 @@
     "bid_end": "2026/04/27",
     "min_price": "101.00",
     "conversion_price": "318.5"
+  },
+  {
+    "company": "金雨企業股份有限公司",
+    "bid_start": "2026/04/27",
+    "bid_end": "2026/04/29",
+    "min_price": "101.00",
+    "conversion_price": "46"
   }
 ]
