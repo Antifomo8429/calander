@@ -54476,6 +54476,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:9645b83ae5f75eef19b7c6cad84a5958be375c6a@twse-auction-calendar
+DTSTAMP:20140208T104312Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:[TWSE競拍] 雲象科技(7803) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：雲象科技\n證券代
+ 號：7803\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：4\,721\n最低投標價格(
+ 元)：20\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：472\n主辦券商：兆豐\n投標開始日：2026/05/05\n投標結
+ 束日：2026/05/07\n開標日期：2026/05/11\n撥券日期：2026/05/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:248c4471acd0712a4c25b4e56dcf3018d9f01db3@twse-auction-calendar
 DTSTAMP:20470425T172826Z
 DTSTART;VALUE=DATE:20260506
@@ -54505,6 +54522,23 @@ DESCRIPTION:事件：開標\n證券名稱：溢泰實業\n證券代號：78
  ,540\n主辦券商：凱基\n投標開始日：2026/04/30\n投標結束日
  ：2026/05/05\n開標日期：2026/05/07\n撥券日期：2026/05/18\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9093936525ca20d129839ba644cb3cf5c59d54@twse-auction-calendar
+DTSTAMP:20040626T080315Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:[TWSE競拍] 雲象科技(7803) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：雲象科技\n證券代
+ 號：7803\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：4\,721\n最低投標價格(
+ 元)：20\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：472\n主辦券商：兆豐\n投標開始日：2026/05/05\n投標結
+ 束日：2026/05/07\n開標日期：2026/05/11\n撥券日期：2026/05/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54596,6 +54630,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:76188a9f634e6fbf167ef9e0a9d6cf661a1c5b5d@twse-auction-calendar
+DTSTAMP:20120104T063749Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:[TWSE競拍] 雲象科技(7803) 開標
+DESCRIPTION:事件：開標\n證券名稱：雲象科技\n證券代號：78
+ 03\n發行市場：創新板\n發行性質：創新板初上市\n競拍方
+ 式：美國標\n競拍數量(張)：4\,721\n最低投標價格(元)：20\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：472\n
+ 主辦券商：兆豐\n投標開始日：2026/05/05\n投標結束日：2026
+ /05/07\n開標日期：2026/05/11\n撥券日期：2026/05/20\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:159a05c1b0638345a2bd2fbe7555a6408f2a9b93@twse-auction-calendar
 DTSTAMP:20080419T125522Z
 DTSTART;VALUE=DATE:20260513
@@ -54662,6 +54713,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：溢泰實業\n證券代
  (張)：1\,540\n主辦券商：凱基\n投標開始日：2026/04/30\n投標
  結束日：2026/05/05\n開標日期：2026/05/07\n撥券日期：2026/05/1
  8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a548565fa017f2399c13c1cdfc713d0c8e56ede@twse-auction-calendar
+DTSTAMP:20450327T003745Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:[TWSE競拍] 雲象科技(7803) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：雲象科技\n證券代
+ 號：7803\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：4\,721\n最低投標價格(
+ 元)：20\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：472\n主辦券商：兆豐\n投標開始日：2026/05/05\n投標結
+ 束日：2026/05/07\n開標日期：2026/05/11\n撥券日期：2026/05/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
