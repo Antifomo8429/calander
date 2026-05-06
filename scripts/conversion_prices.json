@@ -166,5 +166,19 @@
     "bid_end": "2026/04/30",
     "min_price": "100.00",
     "conversion_price": "40.50"
+  },
+  {
+    "company": "家登精密工業股份有限公司",
+    "bid_start": "2026/05/06",
+    "bid_end": "2026/05/08",
+    "min_price": "102.00",
+    "conversion_price": "501"
+  },
+  {
+    "company": "崑鼎綠能環保股份有限公司",
+    "bid_start": "2026/05/06",
+    "bid_end": "2026/05/08",
+    "min_price": "102.00",
+    "conversion_price": "289"
   }
 ]

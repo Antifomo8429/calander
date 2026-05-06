@@ -54494,34 +54494,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ba6ad6a7836b13f678e462658e0b16bea95c173d@twse-auction-calendar
-DTSTAMP:20041122T125747Z
+DTSTAMP:20171017T023929Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:[TWSE競拍] 家登六(36806) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：家登六\n證券代號
  ：36806\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：13\,050\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,305\n主辦券商：凱基\n投標開始日：2026/05/06\n投
- 標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
- 5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：289\n競拍方式：美國標\n競拍數量(張)：13
+ \,050\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：1\,305\n主辦券商：凱基\n投標開始
+ 日：2026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n
+ 撥券日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:988510042086015fa728d63b2119e689b283e443@twse-auction-calendar
-DTSTAMP:20250710T025418Z
+DTSTAMP:20300115T173334Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:[TWSE競拍] 崑鼎二(68032) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：崑鼎二\n證券代號
  ：68032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：17\,008\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,700\n主辦券商：國泰\n投標開始日：2026/05/06\n投
- 標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
- 5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：289\n競拍方式：美國標\n競拍數量(張)：17
+ \,008\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：1\,700\n主辦券商：國泰\n投標開始
+ 日：2026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n
+ 撥券日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54613,34 +54615,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ea601a00c5ad8adf8bfe60d12ed5e1cf95e181ec@twse-auction-calendar
-DTSTAMP:20480911T223247Z
+DTSTAMP:20160718T211936Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:[TWSE競拍] 家登六(36806) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：家登六\n證券代號
  ：36806\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：13\,050\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,305\n主辦券商：凱基\n投標開始日：2026/05/06\n投
- 標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
- 5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：289\n競拍方式：美國標\n競拍數量(張)：13
+ \,050\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：1\,305\n主辦券商：凱基\n投標開始
+ 日：2026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n
+ 撥券日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:77439a058d931fd4adc945ceb6f1ce1d0d94ddb2@twse-auction-calendar
-DTSTAMP:20180316T163329Z
+DTSTAMP:20281122T001401Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:[TWSE競拍] 崑鼎二(68032) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：崑鼎二\n證券代號
  ：68032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：17\,008\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,700\n主辦券商：國泰\n投標開始日：2026/05/06\n投
- 標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
- 5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：289\n競拍方式：美國標\n競拍數量(張)：17
+ \,008\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：1\,700\n主辦券商：國泰\n投標開始
+ 日：2026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n
+ 撥券日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54658,6 +54662,41 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：耀穎\n證券代號：7
  券商：台新\n投標開始日：2026/04/22\n投標結束日：2026/04/24
  \n開標日期：2026/04/28\n撥券日期：2026/05/08\n資料來源：http
  s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:679e0dbf248a989943317ad2010b5a87393f1931@twse-auction-calendar
+DTSTAMP:20040721T221025Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:[TWSE競拍] 華洋精機(6983) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：華洋精機\n證券代
+ 號：6983\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,442\n最低投標價格(元)：8
+ 0.19\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 180\n主辦券商：福邦\n投標開始日：2026/05/08\n投標結束日
+ ：2026/05/12\n開標日期：2026/05/14\n撥券日期：2026/05/25\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbd80e6dc2dba47724f15abbafb97203e9bbe18@twse-auction-calendar
+DTSTAMP:20100123T150601Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:[TWSE競拍] 霖宏二(54642) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：霖宏二\n證券代號
+ ：54642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n
+ 投標結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：202
+ 6/05/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54750,34 +54789,71 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e2e838f7f579d49d1d1326229c07060872ed6437@twse-auction-calendar
-DTSTAMP:20110811T174025Z
+DTSTAMP:20060822T190348Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:[TWSE競拍] 家登六(36806) 開標
 DESCRIPTION:事件：開標\n證券名稱：家登六\n證券代號：36806
- \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：13\,050\n最低投標價格(元)
- ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：1\,305\n主辦券商：凱基\n投標開始日：2026/05/06\n投標結
- 束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/05/21\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：289\n競拍方式：美國標\n競拍數量(張)：13\,050\n
+ 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：1\,305\n主辦券商：凱基\n投標開始日：2
+ 026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n撥券
+ 日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5459af273c76eba1196b4e5e83057b79b44d9543@twse-auction-calendar
-DTSTAMP:20000512T021935Z
+DTSTAMP:20280401T123813Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:[TWSE競拍] 崑鼎二(68032) 開標
 DESCRIPTION:事件：開標\n證券名稱：崑鼎二\n證券代號：68032
- \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：17\,008\n最低投標價格(元)
- ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：1\,700\n主辦券商：國泰\n投標開始日：2026/05/06\n投標結
- 束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/05/21\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：289\n競拍方式：美國標\n競拍數量(張)：17\,008\n
+ 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：1\,700\n主辦券商：國泰\n投標開始日：2
+ 026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n撥券
+ 日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:60e650fcbe8258968a4af60b92a70958d46b4bd1@twse-auction-calendar
+DTSTAMP:20311118T013100Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:[TWSE競拍] 華洋精機(6983) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：華洋精機\n證券代
+ 號：6983\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,442\n最低投標價格(元)：8
+ 0.19\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 180\n主辦券商：福邦\n投標開始日：2026/05/08\n投標結束日
+ ：2026/05/12\n開標日期：2026/05/14\n撥券日期：2026/05/25\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93599def153d1b53e8bb70186ed8941882b402ab@twse-auction-calendar
+DTSTAMP:20420927T214121Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:[TWSE競拍] 霖宏二(54642) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：霖宏二\n證券代號
+ ：54642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n
+ 投標結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：202
+ 6/05/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54836,6 +54912,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:02b1616f9693c22644a2ab238b541053d7a2417f@twse-auction-calendar
+DTSTAMP:20161227T133558Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:[TWSE競拍] 華洋精機(6983) 開標
+DESCRIPTION:事件：開標\n證券名稱：華洋精機\n證券代號：69
+ 83\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,442\n最低投標價格(元)：80.19\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：180\n主
+ 辦券商：福邦\n投標開始日：2026/05/08\n投標結束日：2026/05
+ /12\n開標日期：2026/05/14\n撥券日期：2026/05/25\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:1f666a1aa44bac0ab973c275dde30362c60cd797@twse-auction-calendar
 DTSTAMP:20440408T033156Z
 DTSTART;VALUE=DATE:20260514
@@ -54849,6 +54942,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：鉅橡六\n證券代號
  日：2026/04/28\n投標結束日：2026/04/30\n開標日期：2026/05/05\n
  撥券日期：2026/05/14\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2980dc023f6f7312f96af6a79803eff820d40bc@twse-auction-calendar
+DTSTAMP:20040515T041750Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:[TWSE競拍] 霖宏二(54642) 開標
+DESCRIPTION:事件：開標\n證券名稱：霖宏二\n證券代號：54642
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n投標
+ 結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：2026/05/2
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54889,34 +54999,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:b018a4626b44b644380265c6a5396f1b53872c93@twse-auction-calendar
-DTSTAMP:20350911T134516Z
+DTSTAMP:20140803T082130Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:[TWSE競拍] 家登六(36806) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：家登六\n證券代號
  ：36806\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：13\,050\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,305\n主辦券商：凱基\n投標開始日：2026/05/06\n投
- 標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
- 5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：289\n競拍方式：美國標\n競拍數量(張)：13
+ \,050\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：1\,305\n主辦券商：凱基\n投標開始
+ 日：2026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n
+ 撥券日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:242e174a89940295d0f5432230e867e87f57b210@twse-auction-calendar
-DTSTAMP:20251016T025712Z
+DTSTAMP:20410305T225749Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:[TWSE競拍] 崑鼎二(68032) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：崑鼎二\n證券代號
  ：68032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：17\,008\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,700\n主辦券商：國泰\n投標開始日：2026/05/06\n投
- 標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
- 5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：289\n競拍方式：美國標\n競拍數量(張)：17
+ \,008\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：1\,700\n主辦券商：國泰\n投標開始
+ 日：2026/05/06\n投標結束日：2026/05/08\n開標日期：2026/05/12\n
+ 撥券日期：2026/05/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54934,6 +55046,41 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：聚恆\n證券代號：4
  主辦券商：統一\n投標開始日：2026/05/07\n投標結束日：2026
  /05/11\n開標日期：2026/05/13\n撥券日期：2026/05/22\n資料來源
  ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fd1c14530f2e0415556b54d938a943b8badbd6@twse-auction-calendar
+DTSTAMP:20090419T133820Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:[TWSE競拍] 華洋精機(6983) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：華洋精機\n證券代
+ 號：6983\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,442\n最低投標價格(元)：8
+ 0.19\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 180\n主辦券商：福邦\n投標開始日：2026/05/08\n投標結束日
+ ：2026/05/12\n開標日期：2026/05/14\n撥券日期：2026/05/25\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d7336a6257669fb1d30c444e36f95823d9a6569a@twse-auction-calendar
+DTSTAMP:20300323T004456Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:[TWSE競拍] 霖宏二(54642) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：霖宏二\n證券代號
+ ：54642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n
+ 投標結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：202
+ 6/05/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
