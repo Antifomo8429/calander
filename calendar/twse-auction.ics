@@ -54685,18 +54685,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bdbd80e6dc2dba47724f15abbafb97203e9bbe18@twse-auction-calendar
-DTSTAMP:20100123T150601Z
+DTSTAMP:20100924T200204Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:[TWSE競拍] 霖宏二(54642) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：霖宏二\n證券代號
  ：54642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n
- 投標結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：202
- 6/05/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：35.9\n競拍方式：美國標\n競拍數量(張)：2
+ \,560\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：256\n主辦券商：群益金鼎\n投標開
+ 始日：2026/05/08\n投標結束日：2026/05/12\n開標日期：2026/05/1
+ 4\n撥券日期：2026/05/25\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54824,6 +54824,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:283f2108a89bc5ebe7b600be71cc6a8b96c63991@twse-auction-calendar
+DTSTAMP:20060824T163958Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:[TWSE競拍] 精誠金融(7819) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：精誠金融\n證券代
+ 號：7819\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,376\n最低投標價格(元)：4
+ 2.8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：3
+ 07\n主辦券商：元大\n投標開始日：2026/05/12\n投標結束日：
+ 2026/05/14\n開標日期：2026/05/18\n撥券日期：2026/05/27\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:60e650fcbe8258968a4af60b92a70958d46b4bd1@twse-auction-calendar
 DTSTAMP:20311118T013100Z
 DTSTART;VALUE=DATE:20260512
@@ -54842,18 +54859,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:93599def153d1b53e8bb70186ed8941882b402ab@twse-auction-calendar
-DTSTAMP:20420927T214121Z
+DTSTAMP:20180701T041536Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:[TWSE競拍] 霖宏二(54642) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：霖宏二\n證券代號
  ：54642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n
- 投標結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：202
- 6/05/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：35.9\n競拍方式：美國標\n競拍數量(張)：2
+ \,560\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：256\n主辦券商：群益金鼎\n投標開
+ 始日：2026/05/08\n投標結束日：2026/05/12\n開標日期：2026/05/1
+ 4\n撥券日期：2026/05/25\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54912,6 +54929,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:4efe37c47ee26bd7430689b5c1b66ce89b85cf90@twse-auction-calendar
+DTSTAMP:20040504T003337Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:[TWSE競拍] 精誠金融(7819) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：精誠金融\n證券代
+ 號：7819\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,376\n最低投標價格(元)：4
+ 2.8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：3
+ 07\n主辦券商：元大\n投標開始日：2026/05/12\n投標結束日：
+ 2026/05/14\n開標日期：2026/05/18\n撥券日期：2026/05/27\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:02b1616f9693c22644a2ab238b541053d7a2417f@twse-auction-calendar
 DTSTAMP:20161227T133558Z
 DTSTART;VALUE=DATE:20260514
@@ -54948,17 +54982,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e2980dc023f6f7312f96af6a79803eff820d40bc@twse-auction-calendar
-DTSTAMP:20040515T041750Z
+DTSTAMP:20140316T065401Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:[TWSE競拍] 霖宏二(54642) 開標
 DESCRIPTION:事件：開標\n證券名稱：霖宏二\n證券代號：54642
- \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n投標
- 結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：2026/05/2
- 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
+ 換價(元)：35.9\n競拍方式：美國標\n競拍數量(張)：2\,560\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：256\n主辦券商：群益金鼎\n投標開始日
+ ：2026/05/08\n投標結束日：2026/05/12\n開標日期：2026/05/14\n撥
+ 券日期：2026/05/25\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54976,6 +55011,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：溢泰實業\n證券代
  (張)：1\,540\n主辦券商：凱基\n投標開始日：2026/04/30\n投標
  結束日：2026/05/05\n開標日期：2026/05/07\n撥券日期：2026/05/1
  8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b12fe50d5a96688b5921e17ff3282ac3e18f71f@twse-auction-calendar
+DTSTAMP:20280302T092157Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:[TWSE競拍] 精誠金融(7819) 開標
+DESCRIPTION:事件：開標\n證券名稱：精誠金融\n證券代號：78
+ 19\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,376\n最低投標價格(元)：42.8\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：307\n主
+ 辦券商：元大\n投標開始日：2026/05/12\n投標結束日：2026/05
+ /14\n開標日期：2026/05/18\n撥券日期：2026/05/27\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55069,18 +55121,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d7336a6257669fb1d30c444e36f95823d9a6569a@twse-auction-calendar
-DTSTAMP:20300323T004456Z
+DTSTAMP:20270823T072918Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:[TWSE競拍] 霖宏二(54642) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：霖宏二\n證券代號
  ：54642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：2\,560\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：256\n主辦券商：群益金鼎\n投標開始日：2026/05/08\n
- 投標結束日：2026/05/12\n開標日期：2026/05/14\n撥券日期：202
- 6/05/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：35.9\n競拍方式：美國標\n競拍數量(張)：2
+ \,560\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：256\n主辦券商：群益金鼎\n投標開
+ 始日：2026/05/08\n投標結束日：2026/05/12\n開標日期：2026/05/1
+ 4\n撥券日期：2026/05/25\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a311a9a40b59b8d60e3b57b6f319cc3da434cb@twse-auction-calendar
+DTSTAMP:20030824T005806Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:[TWSE競拍] 精誠金融(7819) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：精誠金融\n證券代
+ 號：7819\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,376\n最低投標價格(元)：4
+ 2.8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：3
+ 07\n主辦券商：元大\n投標開始日：2026/05/12\n投標結束日：
+ 2026/05/14\n開標日期：2026/05/18\n撥券日期：2026/05/27\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
