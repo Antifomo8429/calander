@@ -54929,6 +54929,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:850efece4e4a5921b31f30cbe16e34998364f558@twse-auction-calendar
+DTSTAMP:20331027T090237Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:[TWSE競拍] 新盛力一(49311) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：新盛力一\n證券代
+ 號：49311\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標
+ 價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：595\n主辦券商：台新\n投標開始日：2026/05/14\n投
+ 標結束日：2026/05/18\n開標日期：2026/05/20\n撥券日期：2026/0
+ 5/29\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:d2ebe7b0bd97879a40c59d6dad9d782bc1f2095b@twse-auction-calendar
 DTSTAMP:20270123T114224Z
 DTSTART;VALUE=DATE:20260514
@@ -55035,6 +55052,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:8c3607e18dad2d959ab3de7987be2049daa7b449@twse-auction-calendar
+DTSTAMP:20190522T224117Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:[TWSE競拍] 新盛力一(49311) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：新盛力一\n證券代
+ 號：49311\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標
+ 價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：595\n主辦券商：台新\n投標開始日：2026/05/14\n投
+ 標結束日：2026/05/18\n開標日期：2026/05/20\n撥券日期：2026/0
+ 5/29\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:e454950102bfdecb618a281e0f22114e775ec554@twse-auction-calendar
 DTSTAMP:20170203T220343Z
 DTSTART;VALUE=DATE:20260518
@@ -55081,6 +55115,23 @@ DESCRIPTION:事件：開標\n證券名稱：新應材一\n證券代號：47
  張)：1\,700\n主辦券商：兆豐\n投標開始日：2026/05/13\n投標
  結束日：2026/05/15\n開標日期：2026/05/19\n撥券日期：2026/05/2
  8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d605ed5ca64efc646d3dbe020ef1f52b8cea2a1d@twse-auction-calendar
+DTSTAMP:20320418T071350Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:[TWSE競拍] 新盛力一(49311) 開標
+DESCRIPTION:事件：開標\n證券名稱：新盛力一\n證券代號：49
+ 311\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標價格(
+ 元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：595\n主辦券商：台新\n投標開始日：2026/05/14\n投標結
+ 束日：2026/05/18\n開標日期：2026/05/20\n撥券日期：2026/05/29\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55221,6 +55272,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：新應材一\n證券代
  投標結束日：2026/05/15\n開標日期：2026/05/19\n撥券日期：202
  6/05/28\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
  l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58f83982f1dfd60f64967a2a8a6eee1c3d1a324a@twse-auction-calendar
+DTSTAMP:20220604T123533Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:[TWSE競拍] 新盛力一(49311) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：新盛力一\n證券代
+ 號：49311\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標
+ 價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：595\n主辦券商：台新\n投標開始日：2026/05/14\n投
+ 標結束日：2026/05/18\n開標日期：2026/05/20\n撥券日期：2026/0
+ 5/29\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
