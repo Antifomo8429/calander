@@ -55228,6 +55228,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:169e223309e1b7b5a747d7cce8c6a448677917b0@twse-auction-calendar
+DTSTAMP:20430216T140838Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:[TWSE競拍] 長興二(17172) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：長興二\n證券代號
+ ：17172\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,700\n主辦券商：台新\n投標開始日：2026/05/22\n投
+ 標結束日：2026/05/26\n開標日期：2026/05/28\n撥券日期：2026/0
+ 6/08\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:66b1eacd0a73e5d67fb273e3e4eb1114b45d11da@twse-auction-calendar
 DTSTAMP:20360126T134311Z
 DTSTART;VALUE=DATE:20260525
@@ -55275,6 +55292,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：霖宏二\n證券代號
  始日：2026/05/08\n投標結束日：2026/05/12\n開標日期：2026/05/1
  4\n撥券日期：2026/05/25\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52f534605f679486494515a93224c74612a2c25b@twse-auction-calendar
+DTSTAMP:20380222T134324Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:[TWSE競拍] 長興二(17172) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：長興二\n證券代號
+ ：17172\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,700\n主辦券商：台新\n投標開始日：2026/05/22\n投
+ 標結束日：2026/05/26\n開標日期：2026/05/28\n撥券日期：2026/0
+ 6/08\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55332,6 +55366,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:e4f191fe761e9d1209d149e0c15cf95eb97ead3b@twse-auction-calendar
+DTSTAMP:20471112T034607Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:[TWSE競拍] 長興二(17172) 開標
+DESCRIPTION:事件：開標\n證券名稱：長興二\n證券代號：17172
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：1\,700\n主辦券商：台新\n投標開始日：2026/05/22\n投標結
+ 束日：2026/05/26\n開標日期：2026/05/28\n撥券日期：2026/06/08\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:58f83982f1dfd60f64967a2a8a6eee1c3d1a324a@twse-auction-calendar
 DTSTAMP:20491127T143926Z
 DTSTART;VALUE=DATE:20260529
@@ -55362,6 +55413,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：圓祥生技\n證券代
  ,020\n主辦券商：元大\n投標開始日：2026/05/21\n投標結束日
  ：2026/05/25\n開標日期：2026/05/27\n撥券日期：2026/06/05\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a23b64ca5b03e7c92d54b9a3f7f8412e5a7f5b@twse-auction-calendar
+DTSTAMP:20050722T231409Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:[TWSE競拍] 長興二(17172) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：長興二\n證券代號
+ ：17172\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,700\n主辦券商：台新\n投標開始日：2026/05/22\n投
+ 標結束日：2026/05/26\n開標日期：2026/05/28\n撥券日期：2026/0
+ 6/08\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
