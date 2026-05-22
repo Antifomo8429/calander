@@ -201,5 +201,12 @@
     "bid_end": "2026/05/18",
     "min_price": "102.00",
     "conversion_price": "162.10"
+  },
+  {
+    "company": "長興材料工業股份有限公司",
+    "bid_start": "2026/05/22",
+    "bid_end": "2026/05/26",
+    "min_price": "100.00",
+    "conversion_price": "73.80"
   }
 ]
