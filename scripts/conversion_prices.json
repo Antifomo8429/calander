@@ -208,5 +208,12 @@
     "bid_end": "2026/05/26",
     "min_price": "100.00",
     "conversion_price": "73.80"
+  },
+  {
+    "company": "昇達科技股份有限公司",
+    "bid_start": "2026/05/25",
+    "bid_end": "2026/05/27",
+    "min_price": "102.00",
+    "conversion_price": "1765"
   }
 ]
