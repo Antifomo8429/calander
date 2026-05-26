@@ -215,5 +215,12 @@
     "bid_end": "2026/05/27",
     "min_price": "102.00",
     "conversion_price": "1765"
+  },
+  {
+    "company": "岳豐科技股份有限公司",
+    "bid_start": "2026/05/26",
+    "bid_end": "2026/05/28",
+    "min_price": "102.00",
+    "conversion_price": "31.05"
   }
 ]
