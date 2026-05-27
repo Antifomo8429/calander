@@ -55494,6 +55494,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:864499bb02fda2e4b1b1d799ecb51a81de65075e@twse-auction-calendar
+DTSTAMP:20340428T101112Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:[TWSE競拍] 達人網(7839) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：達人網\n證券代號
+ ：7839\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方
+ 式：美國標\n競拍數量(張)：1\,282\n最低投標價格(元)：27.9
+ 1\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：170
+ \n主辦券商：福邦\n投標開始日：2026/05/29\n投標結束日：20
+ 26/06/02\n開標日期：2026/06/04\n撥券日期：2026/06/15\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:5c6d94f5e5041152e9cae59ef89289539e7c896b@twse-auction-calendar
 DTSTAMP:20481206T170045Z
 DTSTART;VALUE=DATE:20260601
@@ -55507,6 +55524,40 @@ DESCRIPTION:事件：開標\n證券名稱：岳豐十\n證券代號：62201
  026/05/26\n投標結束日：2026/05/28\n開標日期：2026/06/01\n撥券
  日期：2026/06/10\n資料來源：https://www.twse.com.tw/zh/announcement
  /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ef63bb586ce87d493cf99dd100294fb1c8a336@twse-auction-calendar
+DTSTAMP:20350520T194441Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:[TWSE競拍] 達人網(7839) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：達人網\n證券代號
+ ：7839\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方
+ 式：美國標\n競拍數量(張)：1\,282\n最低投標價格(元)：27.9
+ 1\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：170
+ \n主辦券商：福邦\n投標開始日：2026/05/29\n投標結束日：20
+ 26/06/02\n開標日期：2026/06/04\n撥券日期：2026/06/15\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb474d6a6f46f287bbec6152a79196bec662cdcc@twse-auction-calendar
+DTSTAMP:20110423T172652Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:[TWSE競拍] 達人網(7839) 開標
+DESCRIPTION:事件：開標\n證券名稱：達人網\n證券代號：7839\
+ n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：1\,282\n最低投標價格(元)：27.91\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：170\n主辦
+ 券商：福邦\n投標開始日：2026/05/29\n投標結束日：2026/06/02
+ \n開標日期：2026/06/04\n撥券日期：2026/06/15\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55578,6 +55629,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：岳豐十\n證券代號
  始日：2026/05/26\n投標結束日：2026/05/28\n開標日期：2026/06/0
  1\n撥券日期：2026/06/10\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d4defc43e1bfec1c1dd0d54905266207c03ca76@twse-auction-calendar
+DTSTAMP:20280420T213003Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:[TWSE競拍] 達人網(7839) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：達人網\n證券代號
+ ：7839\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方
+ 式：美國標\n競拍數量(張)：1\,282\n最低投標價格(元)：27.9
+ 1\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：170
+ \n主辦券商：福邦\n投標開始日：2026/05/29\n投標結束日：20
+ 26/06/02\n開標日期：2026/06/04\n撥券日期：2026/06/15\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
