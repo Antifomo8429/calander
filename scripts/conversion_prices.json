@@ -222,5 +222,12 @@
     "bid_end": "2026/05/28",
     "min_price": "102.00",
     "conversion_price": "31.05"
+  },
+  {
+    "company": "英濟股份有限公司",
+    "bid_start": "2026/06/03",
+    "bid_end": "2026/06/05",
+    "min_price": "100.00",
+    "conversion_price": "39.35"
   }
 ]

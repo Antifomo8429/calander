@@ -55564,17 +55564,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:95c364e5d4715651d9d86bd662906f816f5fe49a@twse-auction-calendar
-DTSTAMP:20110305T161550Z
+DTSTAMP:20331214T150339Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:[TWSE競拍] 英濟三(32943) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：英濟三\n證券代號
  ：32943\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：台新\n投標開始日：2026/06/03\n投標
- 結束日：2026/06/05\n開標日期：2026/06/09\n撥券日期：2026/06/1
- 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：39.35\n競拍方式：美國標\n競拍數量(張)：
+ 2\,550\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：255\n主辦券商：台新\n投標開始
+ 日：2026/06/03\n投標結束日：2026/06/05\n開標日期：2026/06/09\n
+ 撥券日期：2026/06/18\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55632,17 +55633,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae48c299c1e479b343c722b29015e178bf3c000@twse-auction-calendar
-DTSTAMP:20081116T061643Z
+DTSTAMP:20270112T095403Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:[TWSE競拍] 英濟三(32943) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：英濟三\n證券代號
  ：32943\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：台新\n投標開始日：2026/06/03\n投標
- 結束日：2026/06/05\n開標日期：2026/06/09\n撥券日期：2026/06/1
- 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：39.35\n競拍方式：美國標\n競拍數量(張)：
+ 2\,550\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：255\n主辦券商：台新\n投標開始
+ 日：2026/06/03\n投標結束日：2026/06/05\n開標日期：2026/06/09\n
+ 撥券日期：2026/06/18\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55702,17 +55704,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:edd461605e8292a9e72f8b88deaee7bd410b26c1@twse-auction-calendar
-DTSTAMP:20290914T234542Z
+DTSTAMP:20200918T224200Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:[TWSE競拍] 英濟三(32943) 開標
 DESCRIPTION:事件：開標\n證券名稱：英濟三\n證券代號：32943
- \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：255\n主辦券商：台新\n投標開始日：2026/06/03\n投標結束
- 日：2026/06/05\n開標日期：2026/06/09\n撥券日期：2026/06/18\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
+ 換價(元)：39.35\n競拍方式：美國標\n競拍數量(張)：2\,550\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：255\n主辦券商：台新\n投標開始日：2026
+ /06/03\n投標結束日：2026/06/05\n開標日期：2026/06/09\n撥券日
+ 期：2026/06/18\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55771,17 +55774,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d1d283fa3a0369180b3af9bd75bfc80067a6fbf4@twse-auction-calendar
-DTSTAMP:20100326T105840Z
+DTSTAMP:20430319T054245Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:[TWSE競拍] 英濟三(32943) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：英濟三\n證券代號
  ：32943\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：台新\n投標開始日：2026/06/03\n投標
- 結束日：2026/06/05\n開標日期：2026/06/09\n撥券日期：2026/06/1
- 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：39.35\n競拍方式：美國標\n競拍數量(張)：
+ 2\,550\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：255\n主辦券商：台新\n投標開始
+ 日：2026/06/03\n投標結束日：2026/06/05\n開標日期：2026/06/09\n
+ 撥券日期：2026/06/18\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
