@@ -55721,6 +55721,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:aa79201342aaf82e25342a386c10f59791b1a7a6@twse-auction-calendar
+DTSTAMP:20210131T012311Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:[TWSE競拍] 和迅(6986) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：和迅\n證券代號：69
+ 86\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：4\,172\n最低投標價格(元)：40.25\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：531\n主
+ 辦券商：台新\n投標開始日：2026/06/10\n投標結束日：2026/06
+ /12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ecf1a434f1a527e453e9a9512c72e9d4699e6413@twse-auction-calendar
 DTSTAMP:20190403T010822Z
 DTSTART;VALUE=DATE:20260610
@@ -55739,6 +55756,57 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:32d29f01ba8d2b193c1b7451d75eba1340d5d503@twse-auction-calendar
+DTSTAMP:20230117T222339Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:[TWSE競拍] 海昌生技(7814) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：海昌生技\n證券代
+ 號：7814\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
+ 6.67\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 458\n主辦券商：永豐金\n投標開始日：2026/06/10\n投標結束
+ 日：2026/06/12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d0135b552c3aa7abcae3163cb0d60a7ae374ab2@twse-auction-calendar
+DTSTAMP:20040606T031613Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:[TWSE競拍] 和迅(6986) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：和迅\n證券代號：69
+ 86\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：4\,172\n最低投標價格(元)：40.25\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：531\n主
+ 辦券商：台新\n投標開始日：2026/06/10\n投標結束日：2026/06
+ /12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:828a64bd5de912d16cc42427e0276ebeb0897940@twse-auction-calendar
+DTSTAMP:20030402T205452Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:[TWSE競拍] 海昌生技(7814) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：海昌生技\n證券代
+ 號：7814\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
+ 6.67\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 458\n主辦券商：永豐金\n投標開始日：2026/06/10\n投標結束
+ 日：2026/06/12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:8d4defc43e1bfec1c1dd0d54905266207c03ca76@twse-auction-calendar
 DTSTAMP:20280420T213003Z
 DTSTART;VALUE=DATE:20260615
@@ -55751,6 +55819,40 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：達人網\n證券代號
  \n主辦券商：福邦\n投標開始日：2026/05/29\n投標結束日：20
  26/06/02\n開標日期：2026/06/04\n撥券日期：2026/06/15\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbada3902ff7795a478fbf6d3fae69c1d1aa055d@twse-auction-calendar
+DTSTAMP:20100223T122426Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:[TWSE競拍] 和迅(6986) 開標
+DESCRIPTION:事件：開標\n證券名稱：和迅\n證券代號：6986\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：4\,172\n最低投標價格(元)：40.25\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：531\n主辦
+ 券商：台新\n投標開始日：2026/06/10\n投標結束日：2026/06/12
+ \n開標日期：2026/06/16\n撥券日期：2026/06/26\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8692afc4c4cd0927c29e2ad33d4ba2617f1a003f@twse-auction-calendar
+DTSTAMP:20070411T033951Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:[TWSE競拍] 海昌生技(7814) 開標
+DESCRIPTION:事件：開標\n證券名稱：海昌生技\n證券代號：78
+ 14\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：26.67\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：458\n主
+ 辦券商：永豐金\n投標開始日：2026/06/10\n投標結束日：2026
+ /06/12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55786,6 +55888,40 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：英濟三\n證券代號
  日：2026/06/03\n投標結束日：2026/06/05\n開標日期：2026/06/09\n
  撥券日期：2026/06/18\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2232c5baca2f3f19648fa771818a11e41091aca5@twse-auction-calendar
+DTSTAMP:20490822T172222Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:[TWSE競拍] 和迅(6986) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：和迅\n證券代號：6
+ 986\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：4\,172\n最低投標價格(元)：40.25\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：531\n主
+ 辦券商：台新\n投標開始日：2026/06/10\n投標結束日：2026/06
+ /12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fedc2b60e30df5586dd78fcdbc7a81d2bd02fa@twse-auction-calendar
+DTSTAMP:20331213T143138Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:[TWSE競拍] 海昌生技(7814) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：海昌生技\n證券代
+ 號：7814\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
+ 6.67\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 458\n主辦券商：永豐金\n投標開始日：2026/06/10\n投標結束
+ 日：2026/06/12\n開標日期：2026/06/16\n撥券日期：2026/06/26\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
