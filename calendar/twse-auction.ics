@@ -55842,6 +55842,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:e9c9bdae283b169556c511ef8f4134f7ed0c9817@twse-auction-calendar
+DTSTAMP:20010811T114442Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:[TWSE競拍] 宜鼎二(52892) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：宜鼎二\n證券代號
+ ：52892\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：26\,555\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,655\n主辦券商：凱基\n投標開始日：2026/06/15\n投
+ 標結束日：2026/06/17\n開標日期：2026/06/22\n撥券日期：2026/0
+ 7/01\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:8d4defc43e1bfec1c1dd0d54905266207c03ca76@twse-auction-calendar
 DTSTAMP:20280420T213003Z
 DTSTART;VALUE=DATE:20260615
@@ -55928,6 +55945,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:7dd0d195d23208d7896c4c07b36315d48c349680@twse-auction-calendar
+DTSTAMP:20271005T000946Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:[TWSE競拍] 宜鼎二(52892) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：宜鼎二\n證券代號
+ ：52892\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：26\,555\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,655\n主辦券商：凱基\n投標開始日：2026/06/15\n投
+ 標結束日：2026/06/17\n開標日期：2026/06/22\n撥券日期：2026/0
+ 7/01\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:c946061227aa4d3ad150df43e73126064fdb890a@twse-auction-calendar
 DTSTAMP:20170911T025104Z
 DTSTART;VALUE=DATE:20260617
@@ -55997,6 +56031,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:0c012c79a8d3ead0949ea5bc700fb1685f10c853@twse-auction-calendar
+DTSTAMP:20120826T023640Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:[TWSE競拍] 宜鼎二(52892) 開標
+DESCRIPTION:事件：開標\n證券名稱：宜鼎二\n證券代號：52892
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：26\,555\n最低投標價格(元)
+ ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：2\,655\n主辦券商：凱基\n投標開始日：2026/06/15\n投標結
+ 束日：2026/06/17\n開標日期：2026/06/22\n撥券日期：2026/07/01\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2232c5baca2f3f19648fa771818a11e41091aca5@twse-auction-calendar
 DTSTAMP:20490822T172222Z
 DTSTART;VALUE=DATE:20260626
@@ -56061,6 +56112,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：正基三\n證券代號
  量(張)：176\n主辦券商：凱基\n投標開始日：2026/06/12\n投標
  結束日：2026/06/16\n開標日期：2026/06/18\n撥券日期：2026/06/3
  0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2fde98fa0cf0020f7e99bfb0701193d5bfa41687@twse-auction-calendar
+DTSTAMP:20430819T040029Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:[TWSE競拍] 宜鼎二(52892) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：宜鼎二\n證券代號
+ ：52892\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：26\,555\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,655\n主辦券商：凱基\n投標開始日：2026/06/15\n投
+ 標結束日：2026/06/17\n開標日期：2026/06/22\n撥券日期：2026/0
+ 7/01\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
