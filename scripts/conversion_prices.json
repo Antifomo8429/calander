@@ -229,5 +229,19 @@
     "bid_end": "2026/06/05",
     "min_price": "100.00",
     "conversion_price": "39.35"
+  },
+  {
+    "company": "正基科技股份有限公司",
+    "bid_start": "2026/06/12",
+    "bid_end": "2026/06/16",
+    "min_price": "105.00",
+    "conversion_price": "73.40"
+  },
+  {
+    "company": "佐登妮絲集團股份有限公司",
+    "bid_start": "2026/06/12",
+    "bid_end": "2026/06/16",
+    "min_price": "100.00",
+    "conversion_price": "24.90"
   }
 ]
