@@ -55949,17 +55949,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:db3c906b0c56210ff6214e2260a75d71c49f506b@twse-auction-calendar
-DTSTAMP:20020129T155524Z
+DTSTAMP:20000827T095231Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:[TWSE競拍] 萬潤六(61876) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：萬潤六\n證券代號
  ：61876\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：2\,550\n主辦券商：元大\n投標開始日：2026/06/16\n投
- 標結束日：2026/06/18\n開標日期：2026/06/23\n撥券日期：2026/0
- 7/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：1150\n競拍方式：美國標\n競拍數量(張)：2
+ 5\,500\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：2\,550\n主辦券商：元大\n投標開
+ 始日：2026/06/16\n投標結束日：2026/06/18\n開標日期：2026/06/2
+ 3\n撥券日期：2026/07/02\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56055,17 +56056,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:325194dbb4aa5100a1a7f014d0f8da335e14c48d@twse-auction-calendar
-DTSTAMP:20080614T011222Z
+DTSTAMP:20000512T195417Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:[TWSE競拍] 萬潤六(61876) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：萬潤六\n證券代號
  ：61876\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：2\,550\n主辦券商：元大\n投標開始日：2026/06/16\n投
- 標結束日：2026/06/18\n開標日期：2026/06/23\n撥券日期：2026/0
- 7/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：1150\n競拍方式：美國標\n競拍數量(張)：2
+ 5\,500\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：2\,550\n主辦券商：元大\n投標開
+ 始日：2026/06/16\n投標結束日：2026/06/18\n開標日期：2026/06/2
+ 3\n撥券日期：2026/07/02\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56090,17 +56092,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2d16c33b02b4fe3deb15844082ab05b625278cea@twse-auction-calendar
-DTSTAMP:20300403T212530Z
+DTSTAMP:20380921T034528Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:[TWSE競拍] 萬潤六(61876) 開標
 DESCRIPTION:事件：開標\n證券名稱：萬潤六\n證券代號：61876
- \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：25\,500\n最低投標價格(元)
- ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：2\,550\n主辦券商：元大\n投標開始日：2026/06/16\n投標結
- 束日：2026/06/18\n開標日期：2026/06/23\n撥券日期：2026/07/02\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：1150\n競拍方式：美國標\n競拍數量(張)：25\,500\n
+ 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：2\,550\n主辦券商：元大\n投標開始日：2
+ 026/06/16\n投標結束日：2026/06/18\n開標日期：2026/06/23\n撥券
+ 日期：2026/07/02\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56195,17 +56198,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:13a49caa290b1b72b73ed81da808dc7d6a45098b@twse-auction-calendar
-DTSTAMP:20060313T120004Z
+DTSTAMP:20091223T133728Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:[TWSE競拍] 萬潤六(61876) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：萬潤六\n證券代號
  ：61876\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：2\,550\n主辦券商：元大\n投標開始日：2026/06/16\n投
- 標結束日：2026/06/18\n開標日期：2026/06/23\n撥券日期：2026/0
- 7/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：1150\n競拍方式：美國標\n競拍數量(張)：2
+ 5\,500\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：2\,550\n主辦券商：元大\n投標開
+ 始日：2026/06/16\n投標結束日：2026/06/18\n開標日期：2026/06/2
+ 3\n撥券日期：2026/07/02\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

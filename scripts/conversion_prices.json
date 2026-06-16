@@ -250,5 +250,12 @@
     "bid_end": "2026/06/16",
     "min_price": "100.00",
     "conversion_price": "24.90"
+  },
+  {
+    "company": "萬潤科技股份有限公司",
+    "bid_start": "2026/06/16",
+    "bid_end": "2026/06/18",
+    "min_price": "102.00",
+    "conversion_price": "1150"
   }
 ]
