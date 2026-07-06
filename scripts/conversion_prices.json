@@ -271,5 +271,12 @@
     "bid_end": "2026/07/06",
     "min_price": "100.00",
     "conversion_price": "32.85"
+  },
+  {
+    "company": "安國國際科技股份有限公司",
+    "bid_start": "2026/07/06",
+    "bid_end": "2026/07/08",
+    "min_price": "100.00",
+    "conversion_price": "119.0"
   }
 ]
