@@ -278,5 +278,19 @@
     "bid_end": "2026/07/08",
     "min_price": "100.00",
     "conversion_price": "119.0"
+  },
+  {
+    "company": "威宏控股股份有限公司-KY",
+    "bid_start": "2026/07/09",
+    "bid_end": "2026/07/13",
+    "min_price": "100.00",
+    "conversion_price": "42.5"
+  },
+  {
+    "company": "雲豹能源科技股份有限公司",
+    "bid_start": "2026/07/09",
+    "bid_end": "2026/07/13",
+    "min_price": "100.00",
+    "conversion_price": "70.90"
   }
 ]
