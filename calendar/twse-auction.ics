@@ -56198,7 +56198,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c53a2a09bab2bfb97faec5a6df7f355e76b95c47@twse-auction-calendar
-DTSTAMP:20330824T215605Z
+DTSTAMP:20341229T082202Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:[TWSE競拍] 海昌生技(7814) 投標開始
@@ -56207,7 +56207,7 @@ DESCRIPTION:事件：投標開始\n證券名稱：海昌生技\n證券代
  方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
  5\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：458
  \n主辦券商：永豐金\n投標開始日：2026/06/30\n投標結束日
- ：2026/07/02\n開標日期：2026/07/06\n撥券日期：2026/07/15\n資料
+ ：2026/07/02\n開標日期：2026/07/06\n撥券日期：2026/07/16\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56251,7 +56251,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ad4380a40257968b4503253d150eecc1aafef7b6@twse-auction-calendar
-DTSTAMP:20281225T082021Z
+DTSTAMP:20050109T031932Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:[TWSE競拍] 海昌生技(7814) 投標截止
@@ -56260,7 +56260,7 @@ DESCRIPTION:事件：投標截止\n證券名稱：海昌生技\n證券代
  方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
  5\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：458
  \n主辦券商：永豐金\n投標開始日：2026/06/30\n投標結束日
- ：2026/07/02\n開標日期：2026/07/06\n撥券日期：2026/07/15\n資料
+ ：2026/07/02\n開標日期：2026/07/06\n撥券日期：2026/07/16\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56268,7 +56268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5deaf58cd83852553b60ffad4e2b85c0f8c5cf89@twse-auction-calendar
-DTSTAMP:20480508T010336Z
+DTSTAMP:20411001T234301Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:[TWSE競拍] 萬旭三(61343) 投標開始
@@ -56278,7 +56278,7 @@ DESCRIPTION:事件：投標開始\n證券名稱：萬旭三\n證券代號
  2\,550\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
  \n最高投(得)標數量(張)：255\n主辦券商：中國信託\n投標
  開始日：2026/07/02\n投標結束日：2026/07/06\n開標日期：2026/0
- 7/08\n撥券日期：2026/07/17\n資料來源：https://www.twse.com.tw/zh/
+ 7/08\n撥券日期：2026/07/20\n資料來源：https://www.twse.com.tw/zh/
  announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56322,7 +56322,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:890f91df949111b7d8d3c2a2cc8d1ca339a803b6@twse-auction-calendar
-DTSTAMP:20061219T102526Z
+DTSTAMP:20380410T233106Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:[TWSE競拍] 安國一(80541) 投標開始
@@ -56331,8 +56331,8 @@ DESCRIPTION:事件：投標開始\n證券名稱：安國一\n證券代號
  債\n轉換價(元)：119.0\n競拍方式：美國標\n競拍數量(張)：
  3\,400\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
  \n最高投(得)標數量(張)：340\n主辦券商：福邦\n投標開始
- 日：2026/07/06\n投標結束日：2026/07/08\n開標日期：2026/07/10\n
- 撥券日期：2026/07/21\n資料來源：https://www.twse.com.tw/zh/announ
+ 日：2026/07/06\n投標結束日：2026/07/08\n開標日期：2026/07/13\n
+ 撥券日期：2026/07/22\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56340,7 +56340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:149c615cc29202b397550be2685219cc81cbd2bf@twse-auction-calendar
-DTSTAMP:20060527T000548Z
+DTSTAMP:20190916T084553Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:[TWSE競拍] 海昌生技(7814) 開標
@@ -56349,7 +56349,7 @@ DESCRIPTION:事件：開標\n證券名稱：海昌生技\n證券代號：78
  美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：25\n最低
  每標單投標數量(張)：1\n最高投(得)標數量(張)：458\n主辦
  券商：永豐金\n投標開始日：2026/06/30\n投標結束日：2026/07
- /02\n開標日期：2026/07/06\n撥券日期：2026/07/15\n資料來源：h
+ /02\n開標日期：2026/07/06\n撥券日期：2026/07/16\n資料來源：h
  ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56357,7 +56357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9d5c3905a1863f05977e02f88fec8428d05c2886@twse-auction-calendar
-DTSTAMP:20331116T032849Z
+DTSTAMP:20000821T070002Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:[TWSE競拍] 萬旭三(61343) 投標截止
@@ -56367,7 +56367,7 @@ DESCRIPTION:事件：投標截止\n證券名稱：萬旭三\n證券代號
  2\,550\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
  \n最高投(得)標數量(張)：255\n主辦券商：中國信託\n投標
  開始日：2026/07/02\n投標結束日：2026/07/06\n開標日期：2026/0
- 7/08\n撥券日期：2026/07/17\n資料來源：https://www.twse.com.tw/zh/
+ 7/08\n撥券日期：2026/07/20\n資料來源：https://www.twse.com.tw/zh/
  announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56375,7 +56375,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e2ca15a6d5de98bc23c58d16d67ecd3a33efef8d@twse-auction-calendar
-DTSTAMP:20190622T061021Z
+DTSTAMP:20410724T235632Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:[TWSE競拍] 台鎔科技(6947) 投標開始
@@ -56384,15 +56384,15 @@ DESCRIPTION:事件：投標開始\n證券名稱：台鎔科技\n證券代
  競拍方式：美國標\n競拍數量(張)：8\,491\n最低投標價格(
  元)：55\n最低每標單投標數量(張)：1\n最高投(得)標數量(
  張)：1\,071\n主辦券商：永豐金\n投標開始日：2026/07/07\n投
- 標結束日：2026/07/09\n開標日期：2026/07/13\n撥券日期：2026/0
- 7/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 標結束日：2026/07/09\n開標日期：2026/07/14\n撥券日期：2026/0
+ 7/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:86e9939b02c918acb72d4254b6f1acd713f95f40@twse-auction-calendar
-DTSTAMP:20170504T070840Z
+DTSTAMP:20060429T135000Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:[TWSE競拍] 安國一(80541) 投標截止
@@ -56401,8 +56401,8 @@ DESCRIPTION:事件：投標截止\n證券名稱：安國一\n證券代號
  債\n轉換價(元)：119.0\n競拍方式：美國標\n競拍數量(張)：
  3\,400\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
  \n最高投(得)標數量(張)：340\n主辦券商：福邦\n投標開始
- 日：2026/07/06\n投標結束日：2026/07/08\n開標日期：2026/07/10\n
- 撥券日期：2026/07/21\n資料來源：https://www.twse.com.tw/zh/announ
+ 日：2026/07/06\n投標結束日：2026/07/08\n開標日期：2026/07/13\n
+ 撥券日期：2026/07/22\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56410,7 +56410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:85200c1d2416ee5bafb71225358e9d1b19184221@twse-auction-calendar
-DTSTAMP:20430316T041359Z
+DTSTAMP:20260705T133354Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:[TWSE競拍] 永悅健康(7835) 投標開始
@@ -56419,7 +56419,7 @@ DESCRIPTION:事件：投標開始\n證券名稱：永悅健康\n證券代
  競拍方式：美國標\n競拍數量(張)：2\,075\n最低投標價格(
  元)：46.51\n最低每標單投標數量(張)：1\n最高投(得)標數量
  (張)：237\n主辦券商：台新\n投標開始日：2026/07/08\n投標結
- 束日：2026/07/10\n開標日期：2026/07/14\n撥券日期：2026/07/23\n
+ 束日：2026/07/13\n開標日期：2026/07/15\n撥券日期：2026/07/24\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56427,7 +56427,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:697f8bf085cf4580c822e368a71533144ee28b1f@twse-auction-calendar
-DTSTAMP:20230909T094538Z
+DTSTAMP:20040218T163858Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:[TWSE競拍] 萬旭三(61343) 開標
@@ -56437,7 +56437,7 @@ DESCRIPTION:事件：開標\n證券名稱：萬旭三\n證券代號：61343
  最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
  投(得)標數量(張)：255\n主辦券商：中國信託\n投標開始日
  ：2026/07/02\n投標結束日：2026/07/06\n開標日期：2026/07/08\n撥
- 券日期：2026/07/17\n資料來源：https://www.twse.com.tw/zh/announcem
+ 券日期：2026/07/20\n資料來源：https://www.twse.com.tw/zh/announcem
  ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -56445,7 +56445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aef388dc9884e7bc30c1b06707d9ef4ebc4bf4f3@twse-auction-calendar
-DTSTAMP:20190803T130444Z
+DTSTAMP:20011109T185511Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:[TWSE競拍] 台鎔科技(6947) 投標截止
@@ -56454,8 +56454,8 @@ DESCRIPTION:事件：投標截止\n證券名稱：台鎔科技\n證券代
  競拍方式：美國標\n競拍數量(張)：8\,491\n最低投標價格(
  元)：55\n最低每標單投標數量(張)：1\n最高投(得)標數量(
  張)：1\,071\n主辦券商：永豐金\n投標開始日：2026/07/07\n投
- 標結束日：2026/07/09\n開標日期：2026/07/13\n撥券日期：2026/0
- 7/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 標結束日：2026/07/09\n開標日期：2026/07/14\n撥券日期：2026/0
+ 7/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56497,58 +56497,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:941572785cf8a5db480ef768790096260f5b5780@twse-auction-calendar
-DTSTAMP:20120130T005351Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[TWSE競拍] 安國一(80541) 開標
-DESCRIPTION:事件：開標\n證券名稱：安國一\n證券代號：80541
- \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：119.0\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：福邦\n投標開始日：2026
- /07/06\n投標結束日：2026/07/08\n開標日期：2026/07/10\n撥券日
- 期：2026/07/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a468682723f640b65a60517b14885caa1205b86f@twse-auction-calendar
-DTSTAMP:20410716T050757Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:[TWSE競拍] 永悅健康(7835) 投標截止
-DESCRIPTION:事件：投標截止\n證券名稱：永悅健康\n證券代
- 號：7835\n發行市場：創新板\n發行性質：創新板初上市\n
- 競拍方式：美國標\n競拍數量(張)：2\,075\n最低投標價格(
- 元)：46.51\n最低每標單投標數量(張)：1\n最高投(得)標數量
- (張)：237\n主辦券商：台新\n投標開始日：2026/07/08\n投標結
- 束日：2026/07/10\n開標日期：2026/07/14\n撥券日期：2026/07/23\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fbb91a0ed097cac2fea07facfa5518b1e5d8c8e3@twse-auction-calendar
-DTSTAMP:20390220T140752Z
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:[TWSE競拍] 台鎔科技(6947) 開標
-DESCRIPTION:事件：開標\n證券名稱：台鎔科技\n證券代號：69
- 47\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
- 式：美國標\n競拍數量(張)：8\,491\n最低投標價格(元)：55\n
- 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,071
- \n主辦券商：永豐金\n投標開始日：2026/07/07\n投標結束日
- ：2026/07/09\n開標日期：2026/07/13\n撥券日期：2026/07/22\n資料
- 來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:1c8f491d46464c750a7408094c7bd283f7445714@twse-auction-calendar
 DTSTAMP:20341220T103912Z
 DTSTART;VALUE=DATE:20260713
@@ -56584,6 +56532,41 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:db68d1218722e64f5cf25717c0d82babc4a1f246@twse-auction-calendar
+DTSTAMP:20410902T040900Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:[TWSE競拍] 安國一(80541) 開標
+DESCRIPTION:事件：開標\n證券名稱：安國一\n證券代號：80541
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
+ 換價(元)：119.0\n競拍方式：美國標\n競拍數量(張)：3\,400\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：340\n主辦券商：福邦\n投標開始日：2026
+ /07/06\n投標結束日：2026/07/08\n開標日期：2026/07/13\n撥券日
+ 期：2026/07/22\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb40de64940cfcbdbbaa9d50288d7a5ade3291cb@twse-auction-calendar
+DTSTAMP:20381213T034027Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:[TWSE競拍] 永悅健康(7835) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：永悅健康\n證券代
+ 號：7835\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：2\,075\n最低投標價格(
+ 元)：46.51\n最低每標單投標數量(張)：1\n最高投(得)標數量
+ (張)：237\n主辦券商：台新\n投標開始日：2026/07/08\n投標結
+ 束日：2026/07/13\n開標日期：2026/07/15\n撥券日期：2026/07/24\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:51789ffff46ceb4fc96ea95a3cca459d77248990@twse-auction-calendar
 DTSTAMP:20210602T221651Z
 DTSTART;VALUE=DATE:20260713
@@ -56602,6 +56585,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:38e80290fcd61843c40362554241f14b5e5e59d1@twse-auction-calendar
+DTSTAMP:20251209T204748Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:[TWSE競拍] 台鎔科技(6947) 開標
+DESCRIPTION:事件：開標\n證券名稱：台鎔科技\n證券代號：69
+ 47\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：8\,491\n最低投標價格(元)：55\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,071
+ \n主辦券商：永豐金\n投標開始日：2026/07/07\n投標結束日
+ ：2026/07/09\n開標日期：2026/07/14\n撥券日期：2026/07/23\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:18ecde4a056b1484a0fa1478b0d77c41c46585dd@twse-auction-calendar
 DTSTAMP:20200921T212043Z
 DTSTART;VALUE=DATE:20260714
@@ -56615,23 +56615,6 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：擎亞三\n證券代號
  日：2026/06/29\n投標結束日：2026/07/01\n開標日期：2026/07/03\n
  撥券日期：2026/07/14\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:55232c0445131e548508ad8954969aabfc679088@twse-auction-calendar
-DTSTAMP:20260516T092056Z
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:[TWSE競拍] 永悅健康(7835) 開標
-DESCRIPTION:事件：開標\n證券名稱：永悅健康\n證券代號：78
- 35\n發行市場：創新板\n發行性質：創新板初上市\n競拍方
- 式：美國標\n競拍數量(張)：2\,075\n最低投標價格(元)：46.5
- 1\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：237
- \n主辦券商：台新\n投標開始日：2026/07/08\n投標結束日：20
- 26/07/10\n開標日期：2026/07/14\n撥券日期：2026/07/23\n資料來
- 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56672,18 +56655,18 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a8547c72334884fc370a106bfac01f9c41eec856@twse-auction-calendar
-DTSTAMP:20040829T080947Z
+UID:3e538702089889ec5d86742d86e74d19b6503605@twse-auction-calendar
+DTSTAMP:20010801T053040Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:[TWSE競拍] 海昌生技(7814) 撥券/掛牌
-DESCRIPTION:事件：撥券/掛牌\n證券名稱：海昌生技\n證券代
- 號：7814\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
- 方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
- 5\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：458
- \n主辦券商：永豐金\n投標開始日：2026/06/30\n投標結束日
- ：2026/07/02\n開標日期：2026/07/06\n撥券日期：2026/07/15\n資料
- 來源：https://www.twse.com.tw/zh/announcement/auction.html
+SUMMARY:[TWSE競拍] 永悅健康(7835) 開標
+DESCRIPTION:事件：開標\n證券名稱：永悅健康\n證券代號：78
+ 35\n發行市場：創新板\n發行性質：創新板初上市\n競拍方
+ 式：美國標\n競拍數量(張)：2\,075\n最低投標價格(元)：46.5
+ 1\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：237
+ \n主辦券商：台新\n投標開始日：2026/07/08\n投標結束日：20
+ 26/07/13\n開標日期：2026/07/15\n撥券日期：2026/07/24\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56707,6 +56690,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:9ac536b139e0b2ce4fd8ffe88ddf865fba209baa@twse-auction-calendar
+DTSTAMP:20291220T190602Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:[TWSE競拍] 海昌生技(7814) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：海昌生技\n證券代
+ 號：7814\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：3\,600\n最低投標價格(元)：2
+ 5\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：458
+ \n主辦券商：永豐金\n投標開始日：2026/06/30\n投標結束日
+ ：2026/07/02\n開標日期：2026/07/06\n撥券日期：2026/07/16\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:be4d3cd7c689c017faac9f179f0689263d141c65@twse-auction-calendar
 DTSTAMP:20270615T021517Z
 DTSTART;VALUE=DATE:20260717
@@ -56724,10 +56724,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:70f53b0774a734010f3b4de3c4955519a13ed992@twse-auction-calendar
-DTSTAMP:20031127T010050Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
+UID:d53e74423ddb65d6d70f7e07137405507ddb8c8f@twse-auction-calendar
+DTSTAMP:20180216T203254Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
 SUMMARY:[TWSE競拍] 萬旭三(61343) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：萬旭三\n證券代號
  ：61343\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
@@ -56735,60 +56735,43 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：萬旭三\n證券代號
  2\,550\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
  \n最高投(得)標數量(張)：255\n主辦券商：中國信託\n投標
  開始日：2026/07/02\n投標結束日：2026/07/06\n開標日期：2026/0
- 7/08\n撥券日期：2026/07/17\n資料來源：https://www.twse.com.tw/zh/
+ 7/08\n撥券日期：2026/07/20\n資料來源：https://www.twse.com.tw/zh/
  announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4966d1e7cb1a4925a3c9a85ba92051d15c5a7a32@twse-auction-calendar
-DTSTAMP:20010515T161254Z
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
+UID:51b8fe43ddeb82a7be4cac86dbbaaa31a21e6421@twse-auction-calendar
+DTSTAMP:20010303T004635Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
 SUMMARY:[TWSE競拍] 安國一(80541) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：安國一\n證券代號
  ：80541\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
  債\n轉換價(元)：119.0\n競拍方式：美國標\n競拍數量(張)：
  3\,400\n最低投標價格(元)：100\n最低每標單投標數量(張)：1
  \n最高投(得)標數量(張)：340\n主辦券商：福邦\n投標開始
- 日：2026/07/06\n投標結束日：2026/07/08\n開標日期：2026/07/10\n
- 撥券日期：2026/07/21\n資料來源：https://www.twse.com.tw/zh/announ
+ 日：2026/07/06\n投標結束日：2026/07/08\n開標日期：2026/07/13\n
+ 撥券日期：2026/07/22\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:565d1f58d0d2962afedcb4779ee5bae831ec62f2@twse-auction-calendar
-DTSTAMP:20360526T161515Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
+UID:97f75327d56510425b43ef1a12cc18040070bd17@twse-auction-calendar
+DTSTAMP:20230322T223845Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
 SUMMARY:[TWSE競拍] 台鎔科技(6947) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：台鎔科技\n證券代
  號：6947\n發行市場：集中交易市場\n發行性質：初上市\n
  競拍方式：美國標\n競拍數量(張)：8\,491\n最低投標價格(
  元)：55\n最低每標單投標數量(張)：1\n最高投(得)標數量(
  張)：1\,071\n主辦券商：永豐金\n投標開始日：2026/07/07\n投
- 標結束日：2026/07/09\n開標日期：2026/07/13\n撥券日期：2026/0
- 7/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:275902a53c79e55ad226953bdfe3d2fa30811270@twse-auction-calendar
-DTSTAMP:20330213T063822Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:[TWSE競拍] 永悅健康(7835) 撥券/掛牌
-DESCRIPTION:事件：撥券/掛牌\n證券名稱：永悅健康\n證券代
- 號：7835\n發行市場：創新板\n發行性質：創新板初上市\n
- 競拍方式：美國標\n競拍數量(張)：2\,075\n最低投標價格(
- 元)：46.51\n最低每標單投標數量(張)：1\n最高投(得)標數量
- (張)：237\n主辦券商：台新\n投標開始日：2026/07/08\n投標結
- 束日：2026/07/10\n開標日期：2026/07/14\n撥券日期：2026/07/23\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 標結束日：2026/07/09\n開標日期：2026/07/14\n撥券日期：2026/0
+ 7/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56807,6 +56790,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：威宏三KY\n證券代
  始日：2026/07/09\n投標結束日：2026/07/13\n開標日期：2026/07/1
  5\n撥券日期：2026/07/24\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1283f9cab92ee8f50600d9d8056c8bba55044d03@twse-auction-calendar
+DTSTAMP:20050106T184906Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[TWSE競拍] 永悅健康(7835) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：永悅健康\n證券代
+ 號：7835\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：2\,075\n最低投標價格(
+ 元)：46.51\n最低每標單投標數量(張)：1\n最高投(得)標數量
+ (張)：237\n主辦券商：台新\n投標開始日：2026/07/08\n投標結
+ 束日：2026/07/13\n開標日期：2026/07/15\n撥券日期：2026/07/24\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
