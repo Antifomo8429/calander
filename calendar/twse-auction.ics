@@ -56742,6 +56742,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:7056546d7e420d6519e4bb9f479a84a4d654c89e@twse-auction-calendar
+DTSTAMP:20170427T054004Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:[TWSE競拍] 昶昕一(84381) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：昶昕一\n證券代號
+ ：84381\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：255\n主辦券商：台新\n投標開始日：2026/07/21\n投標
+ 結束日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/0
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:993408fd0b0b61107c76cbce3573afec6e6d4c10@twse-auction-calendar
+DTSTAMP:20410423T010909Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:[TWSE競拍] 雙鍵二(47642) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：雙鍵二\n證券代號
+ ：47642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：4\,430\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：443\n主辦券商：凱基\n投標開始日：2026/07/21\n投標
+ 結束日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/0
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:51b8fe43ddeb82a7be4cac86dbbaaa31a21e6421@twse-auction-calendar
 DTSTAMP:20010303T004635Z
 DTSTART;VALUE=DATE:20260722
@@ -56772,6 +56806,40 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：台鎔科技\n證券代
  張)：1\,071\n主辦券商：永豐金\n投標開始日：2026/07/07\n投
  標結束日：2026/07/09\n開標日期：2026/07/14\n撥券日期：2026/0
  7/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32fa6d36489cefe7198d3b321fc66a5a42cc967e@twse-auction-calendar
+DTSTAMP:20071003T235756Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[TWSE競拍] 昶昕一(84381) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：昶昕一\n證券代號
+ ：84381\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：255\n主辦券商：台新\n投標開始日：2026/07/21\n投標
+ 結束日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/0
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cbfb58ac67f4b60732cd70b3c4dd8f63cbee6089@twse-auction-calendar
+DTSTAMP:20040318T171155Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[TWSE競拍] 雙鍵二(47642) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：雙鍵二\n證券代號
+ ：47642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：4\,430\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：443\n主辦券商：凱基\n投標開始日：2026/07/21\n投標
+ 結束日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/0
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56830,6 +56898,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:880c4a3ab72dcf61253a0899c09f136e6035f37e@twse-auction-calendar
+DTSTAMP:20490929T123409Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:[TWSE競拍] 昶昕一(84381) 開標
+DESCRIPTION:事件：開標\n證券名稱：昶昕一\n證券代號：84381
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：255\n主辦券商：台新\n投標開始日：2026/07/21\n投標結束
+ 日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/05\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6885922c13432972b84d6c1b62131076bbc597@twse-auction-calendar
+DTSTAMP:20390629T013535Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:[TWSE競拍] 雙鍵二(47642) 開標
+DESCRIPTION:事件：開標\n證券名稱：雙鍵二\n證券代號：47642
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：4\,430\n最低投標價格(元)
+ ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：443\n主辦券商：凱基\n投標開始日：2026/07/21\n投標結束
+ 日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/05\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:9733fcc896e454e5417905795fd269a2668dedf4@twse-auction-calendar
 DTSTAMP:20130419T181434Z
 DTSTART;VALUE=DATE:20260728
@@ -56842,6 +56944,40 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：大鵬科\n證券代號
  張)：522\n主辦券商：富邦\n投標開始日：2026/07/13\n投標結
  束日：2026/07/15\n開標日期：2026/07/17\n撥券日期：2026/07/28\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7d4677b0c6d34e77336372fc8836fd6eba577e@twse-auction-calendar
+DTSTAMP:20070712T223242Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:[TWSE競拍] 昶昕一(84381) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：昶昕一\n證券代號
+ ：84381\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：255\n主辦券商：台新\n投標開始日：2026/07/21\n投標
+ 結束日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/0
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c98515638c0f6f7e03b4b7b103fb2796e885ad77@twse-auction-calendar
+DTSTAMP:20130104T140433Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:[TWSE競拍] 雙鍵二(47642) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：雙鍵二\n證券代號
+ ：47642\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：4\,430\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：443\n主辦券商：凱基\n投標開始日：2026/07/21\n投標
+ 結束日：2026/07/23\n開標日期：2026/07/27\n撥券日期：2026/08/0
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
