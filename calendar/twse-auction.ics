@@ -56813,6 +56813,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:30a3023f465dd2bc86e439154ef439a62105a37d@twse-auction-calendar
+DTSTAMP:20321007T100912Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:[TWSE競拍] 巨漢二(69032) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：巨漢二\n證券代號
+ ：69032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
+ 結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:32fa6d36489cefe7198d3b321fc66a5a42cc967e@twse-auction-calendar
 DTSTAMP:20370104T021636Z
 DTSTART;VALUE=DATE:20260723
@@ -56902,6 +56919,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:89f7eaaebc2e664e4c4efbdb88a984aef473a184@twse-auction-calendar
+DTSTAMP:20281223T152440Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:[TWSE競拍] 巨漢二(69032) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：巨漢二\n證券代號
+ ：69032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
+ 結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:880c4a3ab72dcf61253a0899c09f136e6035f37e@twse-auction-calendar
 DTSTAMP:20410904T220826Z
 DTSTART;VALUE=DATE:20260727
@@ -56955,6 +56989,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f4a62fd50f4d58c71c9b92eba6f99d3d3be7772f@twse-auction-calendar
+DTSTAMP:20401127T051208Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:[TWSE競拍] 巨漢二(69032) 開標
+DESCRIPTION:事件：開標\n證券名稱：巨漢二\n證券代號：69032
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)
+ ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標結束
+ 日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/07\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fe7d4677b0c6d34e77336372fc8836fd6eba577e@twse-auction-calendar
 DTSTAMP:20100607T062416Z
 DTSTART;VALUE=DATE:20260805
@@ -56986,6 +57037,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：雙鍵二\n證券代號
  日：2026/07/21\n投標結束日：2026/07/23\n開標日期：2026/07/27\n
  撥券日期：2026/08/05\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5f6eefa4b1fc39d96d46d8cf3c2fc11e53c9b7@twse-auction-calendar
+DTSTAMP:20180115T004450Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:[TWSE競拍] 巨漢二(69032) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：巨漢二\n證券代號
+ ：69032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
+ 結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
