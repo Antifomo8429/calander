@@ -56901,6 +56901,41 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:3669dcc13928dcb9594e0db0af5024c65ac5e4ab@twse-auction-calendar
+DTSTAMP:20390304T001916Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[TWSE競拍] 華德動能(2237) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：華德動能\n證券代
+ 號：2237\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：5\,159\n最低投標價格(
+ 元)：22\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：694\n主辦券商：群益金鼎\n投標開始日：2026/07/24\n投
+ 標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/0
+ 8/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4081735d33ffc6e168eb13cabdee94c20c837a70@twse-auction-calendar
+DTSTAMP:20471124T054502Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:[TWSE競拍] 雍智科技一(66831) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：雍智科技一\n證券
+ 代號：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
+ 公司債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投
+ 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/2
+ 4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
+ 2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:912f7fb31b5a76866ea49821e20527de004a08f3@twse-auction-calendar
 DTSTAMP:20200924T000048Z
 DTSTART;VALUE=DATE:20260724
@@ -56989,6 +57024,41 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:34016a269df8dacc664a04ab14d0e2c9f1961a1c@twse-auction-calendar
+DTSTAMP:20300323T194601Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:[TWSE競拍] 華德動能(2237) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：華德動能\n證券代
+ 號：2237\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：5\,159\n最低投標價格(
+ 元)：22\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：694\n主辦券商：群益金鼎\n投標開始日：2026/07/24\n投
+ 標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/0
+ 8/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6362e950f56fd6307622b2f5ca40060ec61e19f@twse-auction-calendar
+DTSTAMP:20010510T071649Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:[TWSE競拍] 雍智科技一(66831) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：雍智科技一\n證券
+ 代號：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
+ 公司債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投
+ 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/2
+ 4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
+ 2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f4a62fd50f4d58c71c9b92eba6f99d3d3be7772f@twse-auction-calendar
 DTSTAMP:20401127T051208Z
 DTSTART;VALUE=DATE:20260729
@@ -57001,6 +57071,40 @@ DESCRIPTION:事件：開標\n證券名稱：巨漢二\n證券代號：69032
  ：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標結束
  日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/07\n資
  料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c04c97b0f84283fe463de031f83f965c6be9e36c@twse-auction-calendar
+DTSTAMP:20351010T083312Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[TWSE競拍] 華德動能(2237) 開標
+DESCRIPTION:事件：開標\n證券名稱：華德動能\n證券代號：22
+ 37\n發行市場：創新板\n發行性質：創新板初上市\n競拍方
+ 式：美國標\n競拍數量(張)：5\,159\n最低投標價格(元)：22\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：694\n
+ 主辦券商：群益金鼎\n投標開始日：2026/07/24\n投標結束日
+ ：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/08/10\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3750d267444a38cf58addc6fd3d4543f85a010@twse-auction-calendar
+DTSTAMP:20370510T091258Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[TWSE競拍] 雍智科技一(66831) 開標
+DESCRIPTION:事件：開標\n證券名稱：雍智科技一\n證券代號
+ ：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/24\n投
+ 標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/0
+ 8/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57054,6 +57158,41 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：巨漢二\n證券代號
  量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
  結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
  7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a4ad90279e71480c650431f29926a92ed7be3942@twse-auction-calendar
+DTSTAMP:20211011T170129Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:[TWSE競拍] 華德動能(2237) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：華德動能\n證券代
+ 號：2237\n發行市場：創新板\n發行性質：創新板初上市\n
+ 競拍方式：美國標\n競拍數量(張)：5\,159\n最低投標價格(
+ 元)：22\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：694\n主辦券商：群益金鼎\n投標開始日：2026/07/24\n投
+ 標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/0
+ 8/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8185c14664b926228e04bc4d09a70eccb86bc3e7@twse-auction-calendar
+DTSTAMP:20040628T041512Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:[TWSE競拍] 雍智科技一(66831) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：雍智科技一\n證券
+ 代號：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
+ 公司債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投
+ 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/2
+ 4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
+ 2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
