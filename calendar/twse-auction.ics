@@ -56814,17 +56814,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:30a3023f465dd2bc86e439154ef439a62105a37d@twse-auction-calendar
-DTSTAMP:20321007T100912Z
+DTSTAMP:20440308T082253Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:[TWSE競拍] 巨漢二(69032) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：巨漢二\n證券代號
  ：69032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
- 結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
- 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：369.8\n競拍方式：美國標\n競拍數量(張)：
+ 8\,500\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：850\n主辦券商：富邦\n投標開始
+ 日：2026/07/23\n投標結束日：2026/07/27\n開標日期：2026/07/29\n
+ 撥券日期：2026/08/07\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56954,18 +56955,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fce7ad7a0a6d8290e0883433e90b3b59d9f328ef@twse-auction-calendar
+DTSTAMP:20260422T201654Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:[TWSE競拍] 和運租車(7855) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：和運租車\n證券代
+ 號：7855\n發行市場：集中交易市場\n發行性質：初上市\n
+ 競拍方式：美國標\n競拍數量(張)：57\,649\n最低投標價格(
+ 元)：35.59\n最低每標單投標數量(張)：1\n最高投(得)標數量
+ (張)：7\,206\n主辦券商：台新\n投標開始日：2026/07/27\n投標
+ 結束日：2026/07/29\n開標日期：2026/07/31\n撥券日期：2026/08/1
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:89f7eaaebc2e664e4c4efbdb88a984aef473a184@twse-auction-calendar
-DTSTAMP:20281223T152440Z
+DTSTAMP:20250803T205136Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 SUMMARY:[TWSE競拍] 巨漢二(69032) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：巨漢二\n證券代號
  ：69032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
- 結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
- 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：369.8\n競拍方式：美國標\n競拍數量(張)：
+ 8\,500\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：850\n主辦券商：富邦\n投標開始
+ 日：2026/07/23\n投標結束日：2026/07/27\n開標日期：2026/07/29\n
+ 撥券日期：2026/08/07\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57059,18 +57078,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f810902bdf7c175c9b2fb31b127d99a80fd0dc82@twse-auction-calendar
+DTSTAMP:20030720T233110Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:[TWSE競拍] 和運租車(7855) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：和運租車\n證券代
+ 號：7855\n發行市場：集中交易市場\n發行性質：初上市\n
+ 競拍方式：美國標\n競拍數量(張)：57\,649\n最低投標價格(
+ 元)：35.59\n最低每標單投標數量(張)：1\n最高投(得)標數量
+ (張)：7\,206\n主辦券商：台新\n投標開始日：2026/07/27\n投標
+ 結束日：2026/07/29\n開標日期：2026/07/31\n撥券日期：2026/08/1
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f4a62fd50f4d58c71c9b92eba6f99d3d3be7772f@twse-auction-calendar
-DTSTAMP:20401127T051208Z
+DTSTAMP:20060512T215354Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:[TWSE競拍] 巨漢二(69032) 開標
 DESCRIPTION:事件：開標\n證券名稱：巨漢二\n證券代號：69032
- \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
- 拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)
- ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標結束
- 日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/07\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：369.8\n競拍方式：美國標\n競拍數量(張)：8\,500\n
+ 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：850\n主辦券商：富邦\n投標開始日：2026
+ /07/23\n投標結束日：2026/07/27\n開標日期：2026/07/29\n撥券日
+ 期：2026/08/07\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57105,6 +57142,23 @@ DESCRIPTION:事件：開標\n證券名稱：雍智科技一\n證券代號
  量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/24\n投
  標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/0
  8/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe339e8318c0434eaf93ba2f3c7273e1cc0e42e8@twse-auction-calendar
+DTSTAMP:20250908T201722Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:[TWSE競拍] 和運租車(7855) 開標
+DESCRIPTION:事件：開標\n證券名稱：和運租車\n證券代號：78
+ 55\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：57\,649\n最低投標價格(元)：35.
+ 59\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：7\
+ ,206\n主辦券商：台新\n投標開始日：2026/07/27\n投標結束日
+ ：2026/07/29\n開標日期：2026/07/31\n撥券日期：2026/08/11\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57147,17 +57201,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6e5f6eefa4b1fc39d96d46d8cf3c2fc11e53c9b7@twse-auction-calendar
-DTSTAMP:20180115T004450Z
+DTSTAMP:20060412T160020Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:[TWSE競拍] 巨漢二(69032) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：巨漢二\n證券代號
  ：69032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：850\n主辦券商：富邦\n投標開始日：2026/07/23\n投標
- 結束日：2026/07/27\n開標日期：2026/07/29\n撥券日期：2026/08/0
- 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：369.8\n競拍方式：美國標\n競拍數量(張)：
+ 8\,500\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：850\n主辦券商：富邦\n投標開始
+ 日：2026/07/23\n投標結束日：2026/07/27\n開標日期：2026/07/29\n
+ 撥券日期：2026/08/07\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57193,6 +57248,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：雍智科技一\n證券
  4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
  2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
  html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0261c35883b7d94acfce5f745c58b8c390572d7d@twse-auction-calendar
+DTSTAMP:20470818T205715Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:[TWSE競拍] 和運租車(7855) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：和運租車\n證券代
+ 號：7855\n發行市場：集中交易市場\n發行性質：初上市\n
+ 競拍方式：美國標\n競拍數量(張)：57\,649\n最低投標價格(
+ 元)：35.59\n最低每標單投標數量(張)：1\n最高投(得)標數量
+ (張)：7\,206\n主辦券商：台新\n投標開始日：2026/07/27\n投標
+ 結束日：2026/07/29\n開標日期：2026/07/31\n撥券日期：2026/08/1
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

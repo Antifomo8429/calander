@@ -306,5 +306,12 @@
     "bid_end": "2026/07/23",
     "min_price": "100.00",
     "conversion_price": "89.00"
+  },
+  {
+    "company": "巨漢系統科技股份有限公司",
+    "bid_start": "2026/07/23",
+    "bid_end": "2026/07/27",
+    "min_price": "102.00",
+    "conversion_price": "369.8"
   }
 ]
