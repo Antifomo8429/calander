@@ -56920,18 +56920,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4081735d33ffc6e168eb13cabdee94c20c837a70@twse-auction-calendar
-DTSTAMP:20471124T054502Z
+DTSTAMP:20420419T201310Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:[TWSE競拍] 雍智科技一(66831) 投標開始
 DESCRIPTION:事件：投標開始\n證券名稱：雍智科技一\n證券
  代號：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
- 公司債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投
- 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
- 標數量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/2
- 4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
- 2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
- html
+ 公司債\n轉換價(元)：1105.00\n競拍方式：美國標\n競拍數量
+ (張)：12\,750\n最低投標價格(元)：102\n最低每標單投標數量
+ (張)：1\n最高投(得)標數量(張)：1\,275\n主辦券商：凱基\n
+ 投標開始日：2026/07/24\n投標結束日：2026/07/28\n開標日期：
+ 2026/07/30\n撥券日期：2026/08/10\n資料來源：https://www.twse.com.
+ tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57043,6 +57043,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:a585058309776727b62c24a9c717abe2e6c1f0f9@twse-auction-calendar
+DTSTAMP:20411222T005026Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:[TWSE競拍] 聯亞一(30811) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：聯亞一\n證券代號
+ ：30811\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：10\,788\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,078\n主辦券商：元大\n投標開始日：2026/07/28\n投
+ 標結束日：2026/07/30\n開標日期：2026/08/03\n撥券日期：2026/0
+ 8/12\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:34016a269df8dacc664a04ab14d0e2c9f1961a1c@twse-auction-calendar
 DTSTAMP:20300323T194601Z
 DTSTART;VALUE=DATE:20260728
@@ -57061,18 +57078,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a6362e950f56fd6307622b2f5ca40060ec61e19f@twse-auction-calendar
-DTSTAMP:20010510T071649Z
+DTSTAMP:20170329T101654Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
 SUMMARY:[TWSE競拍] 雍智科技一(66831) 投標截止
 DESCRIPTION:事件：投標截止\n證券名稱：雍智科技一\n證券
  代號：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
- 公司債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投
- 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
- 標數量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/2
- 4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
- 2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
- html
+ 公司債\n轉換價(元)：1105.00\n競拍方式：美國標\n競拍數量
+ (張)：12\,750\n最低投標價格(元)：102\n最低每標單投標數量
+ (張)：1\n最高投(得)標數量(張)：1\,275\n主辦券商：凱基\n
+ 投標開始日：2026/07/24\n投標結束日：2026/07/28\n開標日期：
+ 2026/07/30\n撥券日期：2026/08/10\n資料來源：https://www.twse.com.
+ tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57113,6 +57130,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:86a94d2cf0b731a66752989c092c10bbc36e8845@twse-auction-calendar
+DTSTAMP:20410819T220134Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:[TWSE競拍] 聯亞一(30811) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：聯亞一\n證券代號
+ ：30811\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：10\,788\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,078\n主辦券商：元大\n投標開始日：2026/07/28\n投
+ 標結束日：2026/07/30\n開標日期：2026/08/03\n撥券日期：2026/0
+ 8/12\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:c04c97b0f84283fe463de031f83f965c6be9e36c@twse-auction-calendar
 DTSTAMP:20351010T083312Z
 DTSTART;VALUE=DATE:20260730
@@ -57131,17 +57165,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9b3750d267444a38cf58addc6fd3d4543f85a010@twse-auction-calendar
-DTSTAMP:20370510T091258Z
+DTSTAMP:20210810T031702Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:[TWSE競拍] 雍智科技一(66831) 開標
 DESCRIPTION:事件：開標\n證券名稱：雍智科技一\n證券代號
  ：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投標價
- 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/24\n投
- 標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：2026/0
- 8/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：1105.00\n競拍方式：美國標\n競拍數量(張)
+ ：12\,750\n最低投標價格(元)：102\n最低每標單投標數量(張)
+ ：1\n最高投(得)標數量(張)：1\,275\n主辦券商：凱基\n投標
+ 開始日：2026/07/24\n投標結束日：2026/07/28\n開標日期：2026/0
+ 7/30\n撥券日期：2026/08/10\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57159,6 +57194,23 @@ DESCRIPTION:事件：開標\n證券名稱：和運租車\n證券代號：78
  ,206\n主辦券商：台新\n投標開始日：2026/07/27\n投標結束日
  ：2026/07/29\n開標日期：2026/07/31\n撥券日期：2026/08/11\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70c61e1438f591c26333fa4f17213f4429a61f53@twse-auction-calendar
+DTSTAMP:20331005T072036Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:[TWSE競拍] 聯亞一(30811) 開標
+DESCRIPTION:事件：開標\n證券名稱：聯亞一\n證券代號：30811
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：10\,788\n最低投標價格(元)
+ ：105\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：1\,078\n主辦券商：元大\n投標開始日：2026/07/28\n投標結
+ 束日：2026/07/30\n開標日期：2026/08/03\n撥券日期：2026/08/12\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57236,18 +57288,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8185c14664b926228e04bc4d09a70eccb86bc3e7@twse-auction-calendar
-DTSTAMP:20040628T041512Z
+DTSTAMP:20060131T174711Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:[TWSE競拍] 雍智科技一(66831) 撥券/掛牌
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：雍智科技一\n證券
  代號：66831\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
- 公司債\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投
- 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
- 標數量(張)：1\,275\n主辦券商：凱基\n投標開始日：2026/07/2
- 4\n投標結束日：2026/07/28\n開標日期：2026/07/30\n撥券日期：
- 2026/08/10\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
- html
+ 公司債\n轉換價(元)：1105.00\n競拍方式：美國標\n競拍數量
+ (張)：12\,750\n最低投標價格(元)：102\n最低每標單投標數量
+ (張)：1\n最高投(得)標數量(張)：1\,275\n主辦券商：凱基\n
+ 投標開始日：2026/07/24\n投標結束日：2026/07/28\n開標日期：
+ 2026/07/30\n撥券日期：2026/08/10\n資料來源：https://www.twse.com.
+ tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57265,6 +57317,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：和運租車\n證券代
  (張)：7\,206\n主辦券商：台新\n投標開始日：2026/07/27\n投標
  結束日：2026/07/29\n開標日期：2026/07/31\n撥券日期：2026/08/1
  1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f525d2ba93b897a17ca3934c641f74767e1c14b2@twse-auction-calendar
+DTSTAMP:20340411T045325Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:[TWSE競拍] 聯亞一(30811) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：聯亞一\n證券代號
+ ：30811\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：10\,788\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,078\n主辦券商：元大\n投標開始日：2026/07/28\n投
+ 標結束日：2026/07/30\n開標日期：2026/08/03\n撥券日期：2026/0
+ 8/12\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
