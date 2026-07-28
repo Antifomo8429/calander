@@ -320,5 +320,12 @@
     "bid_end": "2026/07/28",
     "min_price": "102.00",
     "conversion_price": "1105.00"
+  },
+  {
+    "company": "聯亞光電工業股份有限公司",
+    "bid_start": "2026/07/28",
+    "bid_end": "2026/07/30",
+    "min_price": "105.00",
+    "conversion_price": "1757.9"
   }
 ]
