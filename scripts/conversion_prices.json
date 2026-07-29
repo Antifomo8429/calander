@@ -327,5 +327,12 @@
     "bid_end": "2026/07/30",
     "min_price": "105.00",
     "conversion_price": "1757.9"
+  },
+  {
+    "company": "博智電子股份有限公司",
+    "bid_start": "2026/07/29",
+    "bid_end": "2026/07/31",
+    "min_price": "105.00",
+    "conversion_price": "324.5"
   }
 ]
