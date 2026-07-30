@@ -57271,6 +57271,41 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:610e069a3d7d9377d5c7644262412e46ad3451c0@twse-auction-calendar
+DTSTAMP:20200616T000040Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:[TWSE競拍] 十銓五(49675) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：十銓五\n證券代號
+ ：49675\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：25\,932\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,593\n主辦券商：永豐金\n投標開始日：2026/08/03\n
+ 投標結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：202
+ 6/08/18\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f94943d2a0ff0ff097eaa4195d3e0395fa586b3b@twse-auction-calendar
+DTSTAMP:20461203T204117Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:[TWSE競拍] 皇龍二(35122) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：皇龍二\n證券代號
+ ：35122\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：510\n主辦券商：台新\n投標開始日：2026/08/03\n投標
+ 結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：2026/08/1
+ 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:70c61e1438f591c26333fa4f17213f4429a61f53@twse-auction-calendar
 DTSTAMP:20400204T172334Z
 DTSTART;VALUE=DATE:20260803
@@ -57341,6 +57376,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:6d1c5bf6899a8214cab8083e9aa804e3269d6722@twse-auction-calendar
+DTSTAMP:20010721T032748Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:[TWSE競拍] 十銓五(49675) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：十銓五\n證券代號
+ ：49675\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：25\,932\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,593\n主辦券商：永豐金\n投標開始日：2026/08/03\n
+ 投標結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：202
+ 6/08/18\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fe7d4677b0c6d34e77336372fc8836fd6eba577e@twse-auction-calendar
 DTSTAMP:20100607T062416Z
 DTSTART;VALUE=DATE:20260805
@@ -57354,6 +57407,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：昶昕一\n證券代號
  日：2026/07/21\n投標結束日：2026/07/23\n開標日期：2026/07/27\n
  撥券日期：2026/08/05\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa49712cf6f6bf19270767c2dba8eedf3a3390d6@twse-auction-calendar
+DTSTAMP:20111023T163857Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:[TWSE競拍] 皇龍二(35122) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：皇龍二\n證券代號
+ ：35122\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：510\n主辦券商：台新\n投標開始日：2026/08/03\n投標
+ 結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：2026/08/1
+ 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57411,6 +57481,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:673013db9ef0c6fd6137b5945cf947d3ffaf6da8@twse-auction-calendar
+DTSTAMP:20450221T125537Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:[TWSE競拍] 十銓五(49675) 開標
+DESCRIPTION:事件：開標\n證券名稱：十銓五\n證券代號：49675
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：25\,932\n最低投標價格(元)
+ ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：2\,593\n主辦券商：永豐金\n投標開始日：2026/08/03\n投標
+ 結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：2026/08/1
+ 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:6e5f6eefa4b1fc39d96d46d8cf3c2fc11e53c9b7@twse-auction-calendar
 DTSTAMP:20060412T160020Z
 DTSTART;VALUE=DATE:20260807
@@ -57424,6 +57511,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：巨漢二\n證券代號
  日：2026/07/23\n投標結束日：2026/07/27\n開標日期：2026/07/29\n
  撥券日期：2026/08/07\n資料來源：https://www.twse.com.tw/zh/announ
  cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:295540ad1934310697dc11b144f286b24b5b8ddc@twse-auction-calendar
+DTSTAMP:20250512T054220Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:[TWSE競拍] 皇龍二(35122) 開標
+DESCRIPTION:事件：開標\n證券名稱：皇龍二\n證券代號：35122
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n競
+ 拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：510\n主辦券商：台新\n投標開始日：2026/08/03\n投標結束
+ 日：2026/08/05\n開標日期：2026/08/07\n撥券日期：2026/08/18\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57546,6 +57650,41 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：聖暉三\n證券代號
  量(張)：1\,275\n主辦券商：國票\n投標開始日：2026/07/31\n投
  標結束日：2026/08/04\n開標日期：2026/08/06\n撥券日期：2026/0
  8/17\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4a41d2de707c7ff18d6bb8c3eef22286c90548@twse-auction-calendar
+DTSTAMP:20471230T170043Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:[TWSE競拍] 十銓五(49675) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：十銓五\n證券代號
+ ：49675\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：25\,932\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,593\n主辦券商：永豐金\n投標開始日：2026/08/03\n
+ 投標結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：202
+ 6/08/18\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d52088343d5e7c172e0be0cdfc0089123e3a4d99@twse-auction-calendar
+DTSTAMP:20140830T181130Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:[TWSE競拍] 皇龍二(35122) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：皇龍二\n證券代號
+ ：35122\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：510\n主辦券商：台新\n投標開始日：2026/08/03\n投標
+ 結束日：2026/08/05\n開標日期：2026/08/07\n撥券日期：2026/08/1
+ 8\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
