@@ -16,10 +16,19 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
+import conversion_price_index
+import trading_calendar
+
 API_BASE = "https://www.twse.com.tw/rwd/zh/announcement"
 SNAPSHOT_PATH = Path("calendar/snapshot.json")
 
-IGNORE_FIELDS = {"序號"}
+# 可轉債拆解日：掛牌（撥券）當天算第 1 個交易日，往後數到第 6 個交易日。
+SPLIT_TRADING_DAY_NTH = 6
+
+IGNORE_FIELDS = {"序號", "轉換價來源"}
+
+# 證交所 API 沒有、由本專案自己補上的欄位
+SYNTHETIC_FIELDS = {"轉換價", "拆解日"}
 
 FIELD_LABELS = {
     "開標日期": "開標日期",
@@ -48,7 +57,39 @@ FIELD_LABELS = {
     "實際承銷價格(元)": "實際承銷價格",
     "取消競價拍賣(流標或取消)": "取消競價拍賣",
     "轉換價": "轉換價格",
+    "拆解日": "拆解日",
 }
+
+
+def enrich_row(
+    row: dict,
+    price_index: conversion_price_index.ConversionPriceIndex,
+    calendar: trading_calendar.TradingCalendar,
+) -> dict:
+    """補上證交所 API 沒有、但我們自己算得出來的欄位。
+
+    這兩個欄位一起進快照，轉換價之後才補到（承銷公告晚上架）時，
+    下一次排程就會以「資料更新」的形式通知。
+    """
+    if "轉換公司債" not in row.get("發行性質", ""):
+        return row
+
+    price, source = price_index.lookup(row)
+    row["轉換價"] = price or ""
+    row["轉換價來源"] = source or ""
+
+    listing_date = trading_calendar.parse_date(
+        row.get("撥券日期(上市、上櫃日期)", "")
+    )
+    if listing_date is not None:
+        try:
+            split_day, estimated = calendar.nth_trading_day(
+                listing_date, SPLIT_TRADING_DAY_NTH
+            )
+            row["拆解日"] = split_day.strftime("%Y/%m/%d") + ("(推估)" if estimated else "")
+        except Exception:
+            row["拆解日"] = ""
+    return row
 
 
 def row_key(row: dict) -> str:
@@ -80,10 +121,13 @@ def fetch_json(url: str, *, retries: int = 3, timeout: int = 20) -> dict:
 
 
 def fetch_all_rows() -> list[dict]:
-    """從 TWSE API 取得所有年份的原始資料列。"""
+    """從 TWSE API 取得所有年份的原始資料列，並補上轉換價與拆解日。"""
     year_info = fetch_json(f"{API_BASE}/auctionYear?response=json")
     start = int(year_info["startYear"])
     end = int(year_info["endYear"])
+
+    price_index = conversion_price_index.load_index()
+    calendar = trading_calendar.load_calendar()
 
     all_rows: list[dict] = []
     for year in range(start, end + 1):
@@ -95,7 +139,7 @@ def fetch_all_rows() -> list[dict]:
             row = {}
             for idx, key in enumerate(fields):
                 row[key] = str(raw_row[idx]).strip() if idx < len(raw_row) else ""
-            all_rows.append(row)
+            all_rows.append(enrich_row(row, price_index, calendar))
 
     print(f"已從 API 取得 {len(all_rows)} 筆拍賣資料（{start}~{end}）")
     return all_rows
@@ -134,6 +178,9 @@ def diff_data(
         for field in sorted(set(list(old_row.keys()) + list(new_row.keys()))):
             if field in IGNORE_FIELDS:
                 continue
+            if field in SYNTHETIC_FIELDS and field not in old_row:
+                # 舊快照還沒有這些自算欄位，第一次跑不要把整張表當成變動洗版。
+                continue
             old_val = old_row.get(field, "").strip()
             new_val = new_row.get(field, "").strip()
             if old_val != new_val:
@@ -167,9 +214,21 @@ def send_discord(
             {"name": "競拍數量", "value": f"{row.get('競拍數量(張)', '-')} 張", "inline": True},
             {"name": "最低投標價格", "value": f"{row.get('最低投標價格(元)', '-')} 元", "inline": True},
         ]
-        conversion_price = row.get("轉換價", "").strip()
-        if "轉換公司債" in issue_type and conversion_price:
-            fields_list.append({"name": "轉換價格", "value": f"{conversion_price} 元", "inline": True})
+        if "轉換公司債" in issue_type:
+            conversion_price = row.get("轉換價", "").strip()
+            source = row.get("轉換價來源", "").strip()
+            fields_list.append({
+                "name": "轉換價格",
+                "value": f"{conversion_price} 元（{source}）" if conversion_price else "尚未取得",
+                "inline": True,
+            })
+            split_day = row.get("拆解日", "").strip()
+            if split_day:
+                fields_list.append({
+                    "name": "拆解日（掛牌日起算第6個交易日）",
+                    "value": split_day,
+                    "inline": True,
+                })
         embeds.append({
             "title": f"🆕 新增拍賣｜{name}（{code}）",
             "color": 0x22C55E,

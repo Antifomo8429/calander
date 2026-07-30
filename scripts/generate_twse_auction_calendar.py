@@ -14,27 +14,18 @@ from typing import Iterable
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
+import conversion_price_index
+import trading_calendar
+
 API_BASE = "https://www.twse.com.tw/rwd/zh/announcement"
 SOURCE_PAGE = "https://www.twse.com.tw/zh/announcement/auction.html"
 
-CONVERSION_PRICES_PATH = Path(__file__).parent / "conversion_prices.json"
+# 可轉債拆解日：掛牌（撥券）當天算第 1 個交易日，往後數到第 6 個交易日。
+SPLIT_TRADING_DAY_NTH = 6
 
-
-def load_conversion_price_index() -> dict[tuple[str, str], str]:
-    """Load conversion_prices.json and index by (bid_start, bid_end)."""
-    if not CONVERSION_PRICES_PATH.exists():
-        return {}
-    try:
-        entries = json.loads(CONVERSION_PRICES_PATH.read_text("utf-8"))
-    except Exception:
-        return {}
-    index: dict[tuple[str, str], str] = {}
-    for entry in entries:
-        price = entry.get("conversion_price")
-        if price:
-            key = (entry.get("bid_start", ""), entry.get("bid_end", ""))
-            index[key] = price
-    return index
+# 拆解日與「轉換價尚未取得」這類提示只對近期案件有意義，
+# 太舊的案子（證交所資料回溯到 2016 年）加上去只是灌爆行事曆。
+RECENT_WINDOW_DAYS = 180
 
 
 @dataclass(frozen=True)
@@ -153,12 +144,25 @@ def value_or_dash(row: dict[str, str], key: str) -> str:
     return value if value else "-"
 
 
+def split_date(
+    listing_date: date, calendar: trading_calendar.TradingCalendar
+) -> tuple[date, bool] | None:
+    """拆解日 = 掛牌日起算（掛牌日為第 1 天）第 6 個交易日。回傳 (日期, 是否為推估值)。"""
+    try:
+        return calendar.nth_trading_day(listing_date, SPLIT_TRADING_DAY_NTH)
+    except Exception as exc:
+        print(f"無法推算拆解日（掛牌日 {listing_date}）：{exc}")
+        return None
+
+
 def build_events(
     fields: list[str],
     rows: list[list[str]],
-    conversion_price_index: dict[tuple[str, str], str] | None = None,
+    price_index: conversion_price_index.ConversionPriceIndex,
+    calendar: trading_calendar.TradingCalendar,
 ) -> list[CalendarEvent]:
     events: list[CalendarEvent] = []
+    recent_cutoff = date.today() - timedelta(days=RECENT_WINDOW_DAYS)
     for raw_row in rows:
         row = normalize_row(fields, raw_row)
         security_name = value_or_dash(row, "證券名稱")
@@ -175,24 +179,37 @@ def build_events(
         bid_end = value_or_dash(row, "投標結束日")
         open_date = value_or_dash(row, "開標日期")
         allotment_date = value_or_dash(row, "撥券日期(上市、上櫃日期)")
-        conversion_price = row.get("轉換價", "").strip()
-
         is_convertible = "轉換公司債" in issue_type
 
-        # Supplement with conversion_prices.json when API does not provide the value
-        if is_convertible and not conversion_price and conversion_price_index:
-            bid_start_raw = row.get("投標開始日", "").strip()
-            bid_end_raw = row.get("投標結束日", "").strip()
-            conversion_price = conversion_price_index.get(
-                (bid_start_raw, bid_end_raw), ""
-            )
+        # 證交所競拍 API 沒有轉換價欄位，一律從承銷商公會公告比對而來。
+        conversion_price, price_source = ("", None)
+        if is_convertible:
+            conversion_price, price_source = price_index.lookup(row)
+            conversion_price = conversion_price or ""
 
-        for date_field, event_type in EVENT_DATE_FIELDS:
-            event_date = parse_twse_date(row.get(date_field, ""))
+        # 拆解日：只有可轉債才有，掛牌（撥券）後第 6 個交易日。
+        split_info = None
+        listing_date = parse_twse_date(row.get("撥券日期(上市、上櫃日期)", ""))
+        is_recent = listing_date is not None and listing_date >= recent_cutoff
+        if is_convertible and is_recent:
+            split_info = split_date(listing_date, calendar)
+
+        date_fields = list(EVENT_DATE_FIELDS)
+        if split_info is not None:
+            date_fields.append((None, "拆解日"))
+
+        for date_field, event_type in date_fields:
+            if event_type == "拆解日":
+                event_date, estimated = split_info
+            else:
+                event_date = parse_twse_date(row.get(date_field, ""))
+                estimated = False
             if event_date is None:
                 continue
 
             summary = f"[TWSE競拍] {security_name}({security_code}) {event_type}"
+            if is_convertible and conversion_price:
+                summary += f"｜轉換價 {conversion_price}"
             desc_lines = [
                 f"事件：{event_type}",
                 f"證券名稱：{security_name}",
@@ -200,8 +217,21 @@ def build_events(
                 f"發行市場：{market}",
                 f"發行性質：{issue_type}",
             ]
-            if is_convertible and conversion_price:
-                desc_lines.append(f"轉換價(元)：{conversion_price}")
+            if is_convertible:
+                if conversion_price:
+                    desc_lines.append(f"轉換價(元)：{conversion_price}（來源：{price_source}）")
+                elif is_recent:
+                    desc_lines.append("轉換價(元)：尚未取得（承銷商公會公告未上架）")
+            if event_type == "拆解日":
+                note = "掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日"
+                if estimated:
+                    note += "，休市日曆尚未公告該年度，此為排除週末的推估值"
+                desc_lines.append(f"拆解日說明：{note}")
+            if split_info is not None:
+                desc_lines.append(
+                    f"拆解日：{split_info[0].strftime('%Y/%m/%d')}"
+                    + ("（推估）" if split_info[1] else "")
+                )
             desc_lines += [
                 f"競拍方式：{auction_method}",
                 f"競拍數量(張)：{quantity}",
@@ -216,12 +246,16 @@ def build_events(
                 f"資料來源：{SOURCE_PAGE}",
             ]
             description = "\n".join(desc_lines)
+            # 拆解日是算出來的，休市日曆更新後日期可能微調；
+            # UID 綁掛牌日而不是綁事件日，訂閱端才會是「同一個事件被移動」
+            # 而不是「舊事件消失、新事件出現」。
+            uid_date = listing_date if event_type == "拆解日" else event_date
             uid_source = "|".join(
                 [
                     security_code,
                     security_name,
                     event_type,
-                    event_date.isoformat(),
+                    uid_date.isoformat(),
                     market,
                     issue_type,
                 ]
@@ -285,7 +319,8 @@ def resolve_year_range(start_year: int | None, end_year: int | None) -> tuple[in
 
 
 def fetch_all_events(start_year: int, end_year: int) -> list[CalendarEvent]:
-    conversion_price_index = load_conversion_price_index()
+    price_index = conversion_price_index.load_index()
+    calendar = trading_calendar.load_calendar()
     all_events: list[CalendarEvent] = []
     for year in range(start_year, end_year + 1):
         payload = fetch_json(f"{API_BASE}/auction?date={year}&response=json")
@@ -296,7 +331,7 @@ def fetch_all_events(start_year: int, end_year: int) -> list[CalendarEvent]:
         rows = payload.get("data", [])
         if not isinstance(fields, list) or not isinstance(rows, list):
             continue
-        all_events.extend(build_events(fields, rows, conversion_price_index))
+        all_events.extend(build_events(fields, rows, price_index, calendar))
 
     # Deduplicate in case TWSE data overlaps between years.
     unique_by_uid: dict[str, CalendarEvent] = {}
