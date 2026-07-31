@@ -37,7 +37,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "SIXXON TECH.CO.,LTD.(英屬開曼群島商六方科技股份有限公司-KY)",
@@ -217,7 +218,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "旭軟電子科技股份有限公司",
@@ -313,7 +315,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "冠星集團控股有限公司",
@@ -437,7 +440,8 @@
     "bid_start": "2025/03/10",
     "bid_end": "2025/03/12",
     "min_price": "100.00",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "綠茵生技股份有限公司",
@@ -519,7 +523,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "良維科技股份有限公司",
@@ -587,7 +592,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "聯合骨科器材股份有限公司",
@@ -655,7 +661,8 @@
     "bid_start": "2025/05/22",
     "bid_end": "2025/05/26",
     "min_price": "102.00",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "台灣氣立股份有限公司",
@@ -919,7 +926,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "大華建設股份有限公司(第四次)",
@@ -1267,7 +1275,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "World Known MFG (Cayman) Limited(英屬開曼群島光隆精密股份有限公司-KY)",
@@ -1405,7 +1414,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "寶緯工業股份有限公司(第一次)",
@@ -1431,7 +1441,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "雷科股份有限公司",
@@ -1681,7 +1692,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "安集科技股份有限公司",
@@ -1707,7 +1719,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "鮮活控股股份有限公司-KY",
@@ -1719,7 +1732,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "安集科技股份有限公司",
@@ -1941,7 +1955,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "聯上實業股份有限公司",
@@ -2037,7 +2052,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "金像電子股份有限公司",
@@ -2049,7 +2065,8 @@
     "bid_start": "2025/11/06",
     "bid_end": "2025/11/10",
     "min_price": "107.00",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "偉訓科技股份有限公司",
@@ -2117,7 +2134,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "光紅建聖股份有限公司",
@@ -2185,7 +2203,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "光紅建聖股份有限公司",
@@ -2365,7 +2384,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "州巧科技股份有限公司",
@@ -2461,7 +2481,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "威剛科技股份有限公司",
@@ -2473,7 +2494,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "志聖工業股份有限公司",
@@ -2611,7 +2633,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "尖點科技股份有限公司",
@@ -2649,7 +2672,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "騰輝電子國際集團股份有限公司-KY",
@@ -2703,7 +2727,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "勤誠興業股份有限公司",
@@ -2715,7 +2740,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "宇隆科技股份有限公司",
@@ -2965,7 +2991,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "雙鴻科技股份有限公司",
@@ -2991,7 +3018,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "三集瑞科技國際集團股份有限公司",
@@ -3003,7 +3031,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "雙鴻科技股份有限公司",
@@ -3253,7 +3282,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "宇瞻科技股份有限公司",
@@ -3587,7 +3617,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "勤凱科技股份有限公司",
@@ -3655,7 +3686,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "新盛力科技股份有限公司",
@@ -4197,7 +4229,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "一詮精密工業股份有限公司",
@@ -4223,7 +4256,8 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "邑昇實業股份有限公司",
@@ -4352,6 +4386,51 @@
     "premium_rate": 102.0
   },
   {
+    "company": "巨漢系統科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115295",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/27",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "369.8",
+    "base_price": "362.5",
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
+    "company": "晶宏半導體股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115293",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/27",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "63.01",
+    "base_price": null,
+    "premium_rate": 105.01,
+    "attempts": 0
+  },
+  {
+    "company": "聯華電子股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115294",
+    "underwriter": "宏遠證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/27",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "146",
+    "base_price": "121.7",
+    "premium_rate": 119.97,
+    "attempts": 0
+  },
+  {
     "company": "聯亞光電工業股份有限公司",
     "bid_start": "2026/07/28",
     "bid_end": "2026/07/30",
@@ -4378,5 +4457,35 @@
     "announce_date": "",
     "base_price": "311.2",
     "premium_rate": 102.19
+  },
+  {
+    "company": "國統國際股份有限公司(第五次)",
+    "source": "Auction",
+    "seq": "115054",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/07/31",
+    "bid_end": "2026/08/04",
+    "min_price": "102.00",
+    "conversion_price": "55",
+    "base_price": "53.1",
+    "premium_rate": 103.58,
+    "attempts": 0
+  },
+  {
+    "company": "聖暉工程科技股份有限公司",
+    "source": "Auction",
+    "seq": "115055",
+    "underwriter": "國票綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/07/31",
+    "bid_end": "2026/08/04",
+    "min_price": "102.00",
+    "conversion_price": "1158",
+    "base_price": "1105",
+    "premium_rate": 104.796,
+    "attempts": 0
   }
 ]

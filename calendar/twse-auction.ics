@@ -58140,19 +58140,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fe24ed14ae051eb73d8281905ac73790d0ada95c@twse-auction-calendar
-DTSTAMP:20170907T144103Z
+DTSTAMP:20180809T161144Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:[TWSE競拍] 國統五(89365) 投標開始
+SUMMARY:[TWSE競拍] 國統五(89365) 投標開始｜轉換價 55
 DESCRIPTION:事件：投標開始\n證券名稱：國統五\n證券代號
  ：89365\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/08/24\n競拍方式：美國標\n競拍數量(張)：5\,100\n
- 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：510\n主辦券商：台新\n投標開始日：2026
- /07/31\n投標結束日：2026/08/04\n開標日期：2026/08/06\n撥券日
- 期：2026/08/17\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：55（來源：競拍公告）\n拆解日：2026/08/24
+ \n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價格(
+ 元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：510\n主辦券商：台新\n投標開始日：2026/07/31\n投標結
+ 束日：2026/08/04\n開標日期：2026/08/06\n撥券日期：2026/08/17\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58179,13 +58178,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9e2c85acd936f5778c3e64318a21c386f9fa01af@twse-auction-calendar
-DTSTAMP:20230618T030828Z
+DTSTAMP:20100113T154001Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:[TWSE競拍] 聖暉三(55363) 投標開始｜轉換價 1178
+SUMMARY:[TWSE競拍] 聖暉三(55363) 投標開始｜轉換價 1158
 DESCRIPTION:事件：投標開始\n證券名稱：聖暉三\n證券代號
  ：55363\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：1178（來源：承銷公告）\n拆解日：2026/08/
+ 債\n轉換價(元)：1158（來源：競拍公告）\n拆解日：2026/08/
  24\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投標價
  格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,275\n主辦券商：國票\n投標開始日：2026/07/31\n投
@@ -58291,32 +58290,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:eb0cfaa1aca180c1262af0597ca8b269a6d54b0e@twse-auction-calendar
-DTSTAMP:20100823T074154Z
+DTSTAMP:20070916T061943Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:[TWSE競拍] 國統五(89365) 投標截止
+SUMMARY:[TWSE競拍] 國統五(89365) 投標截止｜轉換價 55
 DESCRIPTION:事件：投標截止\n證券名稱：國統五\n證券代號
  ：89365\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/08/24\n競拍方式：美國標\n競拍數量(張)：5\,100\n
- 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：510\n主辦券商：台新\n投標開始日：2026
- /07/31\n投標結束日：2026/08/04\n開標日期：2026/08/06\n撥券日
- 期：2026/08/17\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：55（來源：競拍公告）\n拆解日：2026/08/24
+ \n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價格(
+ 元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：510\n主辦券商：台新\n投標開始日：2026/07/31\n投標結
+ 束日：2026/08/04\n開標日期：2026/08/06\n撥券日期：2026/08/17\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:65dd96c6d7ad70993b4887ba690ac535546979a2@twse-auction-calendar
-DTSTAMP:20281007T073945Z
+DTSTAMP:20110402T041732Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-SUMMARY:[TWSE競拍] 聖暉三(55363) 投標截止｜轉換價 1178
+SUMMARY:[TWSE競拍] 聖暉三(55363) 投標截止｜轉換價 1158
 DESCRIPTION:事件：投標截止\n證券名稱：聖暉三\n證券代號
  ：55363\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：1178（來源：承銷公告）\n拆解日：2026/08/
+ 債\n轉換價(元)：1158（來源：競拍公告）\n拆解日：2026/08/
  24\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投標價
  格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,275\n主辦券商：國票\n投標開始日：2026/07/31\n投
@@ -58402,32 +58400,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:329fa0b5f63f8a63ccedb084e45ac1c1f838fbf7@twse-auction-calendar
-DTSTAMP:20211218T085726Z
+DTSTAMP:20340104T180841Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:[TWSE競拍] 國統五(89365) 開標
+SUMMARY:[TWSE競拍] 國統五(89365) 開標｜轉換價 55
 DESCRIPTION:事件：開標\n證券名稱：國統五\n證券代號：89365
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/08/24\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低
- 投標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：510\n主辦券商：台新\n投標開始日：2026/07/
- 31\n投標結束日：2026/08/04\n開標日期：2026/08/06\n撥券日期
- ：2026/08/17\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 換價(元)：55（來源：競拍公告）\n拆解日：2026/08/24\n競拍
+ 方式：美國標\n競拍數量(張)：5\,100\n最低投標價格(元)：1
+ 02\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：51
+ 0\n主辦券商：台新\n投標開始日：2026/07/31\n投標結束日：2
+ 026/08/04\n開標日期：2026/08/06\n撥券日期：2026/08/17\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:39789c2962e74e3381d87f53d8cb8c43e19d8669@twse-auction-calendar
-DTSTAMP:20451020T214215Z
+DTSTAMP:20160405T121018Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:[TWSE競拍] 聖暉三(55363) 開標｜轉換價 1178
+SUMMARY:[TWSE競拍] 聖暉三(55363) 開標｜轉換價 1158
 DESCRIPTION:事件：開標\n證券名稱：聖暉三\n證券代號：55363
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：1178（來源：承銷公告）\n拆解日：2026/08/24\n競
+ 換價(元)：1158（來源：競拍公告）\n拆解日：2026/08/24\n競
  拍方式：美國標\n競拍數量(張)：12\,750\n最低投標價格(元)
  ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
  ：1\,275\n主辦券商：國票\n投標開始日：2026/07/31\n投標結
@@ -58646,32 +58643,31 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7e47cba3ec2b540a9296aeabdd2548c655dcaa6b@twse-auction-calendar
-DTSTAMP:20201229T190707Z
+DTSTAMP:20390513T023751Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:[TWSE競拍] 國統五(89365) 撥券/掛牌
+SUMMARY:[TWSE競拍] 國統五(89365) 撥券/掛牌｜轉換價 55
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：國統五\n證券代號
  ：89365\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/08/24\n競拍方式：美國標\n競拍數量(張)：5\,100\n
- 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：510\n主辦券商：台新\n投標開始日：2026
- /07/31\n投標結束日：2026/08/04\n開標日期：2026/08/06\n撥券日
- 期：2026/08/17\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：55（來源：競拍公告）\n拆解日：2026/08/24
+ \n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價格(
+ 元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：510\n主辦券商：台新\n投標開始日：2026/07/31\n投標結
+ 束日：2026/08/04\n開標日期：2026/08/06\n撥券日期：2026/08/17\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:87616209ad089c9e5e307175e4a4d81f775adbf3@twse-auction-calendar
-DTSTAMP:20160817T070321Z
+DTSTAMP:20120908T093442Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:[TWSE競拍] 聖暉三(55363) 撥券/掛牌｜轉換價 1178
+SUMMARY:[TWSE競拍] 聖暉三(55363) 撥券/掛牌｜轉換價 1158
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：聖暉三\n證券代號
  ：55363\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：1178（來源：承銷公告）\n拆解日：2026/08/
+ 債\n轉換價(元)：1158（來源：競拍公告）\n拆解日：2026/08/
  24\n競拍方式：美國標\n競拍數量(張)：12\,750\n最低投標價
  格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,275\n主辦券商：國票\n投標開始日：2026/07/31\n投
@@ -58781,33 +58777,33 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:842436bdf67c0c437c1b7f778fdc6454c072515d@twse-auction-calendar
-DTSTAMP:20070321T183310Z
+DTSTAMP:20201229T201417Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-SUMMARY:[TWSE競拍] 國統五(89365) 拆解日
+SUMMARY:[TWSE競拍] 國統五(89365) 拆解日｜轉換價 55
 DESCRIPTION:事件：拆解日\n證券名稱：國統五\n證券代號：89
  365\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/08/24\n競拍方式：美國標\n競拍數量(
- 張)：5\,100\n最低投標價格(元)：102\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：510\n主辦券商：台新\n投標
- 開始日：2026/07/31\n投標結束日：2026/08/04\n開標日期：2026/0
- 8/06\n撥券日期：2026/08/17\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 轉換價(元)：55（來源：競拍公告）\n拆解日說明：掛牌日
+ 起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解日
+ ：2026/08/24\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低
+ 投標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：510\n主辦券商：台新\n投標開始日：2026/07/
+ 31\n投標結束日：2026/08/04\n開標日期：2026/08/06\n撥券日期
+ ：2026/08/17\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:741f491ab226537831e44cc2b112bc2620e4c35e@twse-auction-calendar
-DTSTAMP:20330129T075418Z
+DTSTAMP:20430111T064338Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-SUMMARY:[TWSE競拍] 聖暉三(55363) 拆解日｜轉換價 1178
+SUMMARY:[TWSE競拍] 聖暉三(55363) 拆解日｜轉換價 1158
 DESCRIPTION:事件：拆解日\n證券名稱：聖暉三\n證券代號：55
  363\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：1178（來源：承銷公告）\n拆解日說明：掛牌
+ 轉換價(元)：1158（來源：競拍公告）\n拆解日說明：掛牌
  日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
  日：2026/08/24\n競拍方式：美國標\n競拍數量(張)：12\,750\n
  最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
