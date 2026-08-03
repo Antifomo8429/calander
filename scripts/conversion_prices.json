@@ -4330,6 +4330,21 @@
     "premium_rate": 102.02
   },
   {
+    "company": "雍智科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115297",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/21",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "1127.1",
+    "base_price": "1105",
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
     "company": "雙鍵化工股份有限公司",
     "bid_start": "2026/07/21",
     "bid_end": "2026/07/23",
@@ -4486,6 +4501,36 @@
     "conversion_price": "1158",
     "base_price": "1105",
     "premium_rate": 104.796,
+    "attempts": 0
+  },
+  {
+    "company": "十銓科技股份有限公司",
+    "source": "Auction",
+    "seq": "115056",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/03",
+    "bid_end": "2026/08/05",
+    "min_price": "102.00",
+    "conversion_price": "213.5",
+    "base_price": null,
+    "premium_rate": null,
+    "attempts": 0
+  },
+  {
+    "company": "皇龍開發股份有限公司",
+    "source": "Auction",
+    "seq": "115057",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/03",
+    "bid_end": "2026/08/05",
+    "min_price": "100.00",
+    "conversion_price": "20.5",
+    "base_price": "19.55",
+    "premium_rate": 104.86,
     "attempts": 0
   }
 ]
