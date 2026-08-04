@@ -52019,18 +52019,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f8dad293b5f54226bb0dbd80605e1b79ddcd3c5f@twse-auction-calendar
-DTSTAMP:20060516T191035Z
+DTSTAMP:20070119T010226Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:[TWSE競拍] 閎康二(35872) 投標開始｜轉換價 198
 DESCRIPTION:事件：投標開始\n證券名稱：閎康二\n證券代號
  ：35872\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：198（來源：競拍公告）\n拆解日：2026/02/1
- 1\n競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標價格
- (元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：595\n主辦券商：元大\n投標開始日：2026/01/20\n投標結
- 束日：2026/01/22\n開標日期：2026/01/26\n撥券日期：2026/02/04\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：198（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：5\,950\n最低投標價格(元)：102\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：595\n主辦券
+ 商：元大\n投標開始日：2026/01/20\n投標結束日：2026/01/22\n
+ 開標日期：2026/01/26\n撥券日期：2026/02/04\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52248,18 +52248,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:64eb621a0002d66ae0675cf00548f82bfbb3205a@twse-auction-calendar
-DTSTAMP:20280216T120216Z
+DTSTAMP:20320326T082210Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:[TWSE競拍] 閎康二(35872) 投標截止｜轉換價 198
 DESCRIPTION:事件：投標截止\n證券名稱：閎康二\n證券代號
  ：35872\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：198（來源：競拍公告）\n拆解日：2026/02/1
- 1\n競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標價格
- (元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：595\n主辦券商：元大\n投標開始日：2026/01/20\n投標結
- 束日：2026/01/22\n開標日期：2026/01/26\n撥券日期：2026/02/04\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：198（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：5\,950\n最低投標價格(元)：102\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：595\n主辦券
+ 商：元大\n投標開始日：2026/01/20\n投標結束日：2026/01/22\n
+ 開標日期：2026/01/26\n撥券日期：2026/02/04\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52356,18 +52356,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8f6f1aed700d8db6d5dfcbd39d3c75674f5ebf43@twse-auction-calendar
-DTSTAMP:20400516T122413Z
+DTSTAMP:20251109T172304Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 SUMMARY:[TWSE競拍] 閎康二(35872) 開標｜轉換價 198
 DESCRIPTION:事件：開標\n證券名稱：閎康二\n證券代號：35872
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：198（來源：競拍公告）\n拆解日：2026/02/11\n競
- 拍方式：美國標\n競拍數量(張)：5\,950\n最低投標價格(元)
- ：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：595\n主辦券商：元大\n投標開始日：2026/01/20\n投標結束
- 日：2026/01/22\n開標日期：2026/01/26\n撥券日期：2026/02/04\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：198（來源：競拍公告）\n競拍方式：美國標\n競
+ 拍數量(張)：5\,950\n最低投標價格(元)：102\n最低每標單投
+ 標數量(張)：1\n最高投(得)標數量(張)：595\n主辦券商：元
+ 大\n投標開始日：2026/01/20\n投標結束日：2026/01/22\n開標日
+ 期：2026/01/26\n撥券日期：2026/02/04\n資料來源：https://www.tws
+ e.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52567,18 +52567,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:65b47268b37fa52b5e9138fd7c1214bf3ca60b47@twse-auction-calendar
-DTSTAMP:20280503T133726Z
+DTSTAMP:20131113T103542Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 SUMMARY:[TWSE競拍] 閎康二(35872) 撥券/掛牌｜轉換價 198
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：閎康二\n證券代號
  ：35872\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：198（來源：競拍公告）\n拆解日：2026/02/1
- 1\n競拍方式：美國標\n競拍數量(張)：5\,950\n最低投標價格
- (元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：595\n主辦券商：元大\n投標開始日：2026/01/20\n投標結
- 束日：2026/01/22\n開標日期：2026/01/26\n撥券日期：2026/02/04\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：198（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：5\,950\n最低投標價格(元)：102\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：595\n主辦券
+ 商：元大\n投標開始日：2026/01/20\n投標結束日：2026/01/22\n
+ 開標日期：2026/01/26\n撥券日期：2026/02/04\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52616,26 +52616,6 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：穎崴二\n證券代號
  投標結束日：2026/01/23\n開標日期：2026/01/27\n撥券日期：202
  6/02/05\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
  l
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d2457fde40233b42a882b2b9800f685d1b86b9c9@twse-auction-calendar
-DTSTAMP:20470203T144622Z
-DTSTART;VALUE=DATE:20260211
-DTEND;VALUE=DATE:20260212
-SUMMARY:[TWSE競拍] 閎康二(35872) 拆解日｜轉換價 198
-DESCRIPTION:事件：拆解日\n證券名稱：閎康二\n證券代號：35
- 872\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：198（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/02/11\n競拍方式：美國標\n競拍數量(張)：5\,950\n最
- 低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：595\n主辦券商：元大\n投標開始日：2026/01
- /20\n投標結束日：2026/01/22\n開標日期：2026/01/26\n撥券日期
- ：2026/02/04\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
