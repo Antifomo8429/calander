@@ -52107,19 +52107,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f8a1b989f547e2a1d730e4174c839bed822dbc8a@twse-auction-calendar
-DTSTAMP:20341009T174011Z
+DTSTAMP:20470801T203103Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:[TWSE競拍] 穎崴二(65152) 投標開始｜轉換價 3540.4
 DESCRIPTION:事件：投標開始\n證券名稱：穎崴二\n證券代號
  ：65152\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：3540.4（來源：競拍公告）\n拆解日：2026/0
- 2/23\n競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標
- 價格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標
- 數量(張)：2\,550\n主辦券商：凱基\n投標開始日：2026/01/21\n
- 投標結束日：2026/01/23\n開標日期：2026/01/27\n撥券日期：202
- 6/02/05\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：3540.4（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：25\,500\n最低投標價格(元)：103\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：2\,550\n主
+ 辦券商：凱基\n投標開始日：2026/01/21\n投標結束日：2026/01
+ /23\n開標日期：2026/01/27\n撥券日期：2026/02/05\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52319,19 +52318,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8fefb14293ee1481a14ff6fd285b8df3714695dd@twse-auction-calendar
-DTSTAMP:20430503T143146Z
+DTSTAMP:20110123T135121Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:[TWSE競拍] 穎崴二(65152) 投標截止｜轉換價 3540.4
 DESCRIPTION:事件：投標截止\n證券名稱：穎崴二\n證券代號
  ：65152\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：3540.4（來源：競拍公告）\n拆解日：2026/0
- 2/23\n競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標
- 價格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標
- 數量(張)：2\,550\n主辦券商：凱基\n投標開始日：2026/01/21\n
- 投標結束日：2026/01/23\n開標日期：2026/01/27\n撥券日期：202
- 6/02/05\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：3540.4（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：25\,500\n最低投標價格(元)：103\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：2\,550\n主
+ 辦券商：凱基\n投標開始日：2026/01/21\n投標結束日：2026/01
+ /23\n開標日期：2026/01/27\n撥券日期：2026/02/05\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52410,18 +52408,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a3328ff976e90181fda4c2d9422101a5cbc715@twse-auction-calendar
-DTSTAMP:20490601T015013Z
+DTSTAMP:20440429T222833Z
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
 SUMMARY:[TWSE競拍] 穎崴二(65152) 開標｜轉換價 3540.4
 DESCRIPTION:事件：開標\n證券名稱：穎崴二\n證券代號：65152
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：3540.4（來源：競拍公告）\n拆解日：2026/02/23\n
- 競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標價格(
- 元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：2\,550\n主辦券商：凱基\n投標開始日：2026/01/21\n投標
- 結束日：2026/01/23\n開標日期：2026/01/27\n撥券日期：2026/02/0
- 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：3540.4（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：25\,500\n最低投標價格(元)：103\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：2\,550\n主辦券商
+ ：凱基\n投標開始日：2026/01/21\n投標結束日：2026/01/23\n開
+ 標日期：2026/01/27\n撥券日期：2026/02/05\n資料來源：https://w
+ ww.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52603,39 +52601,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a254ca9cda446eedbe6c5521cd2c206be2b5296c@twse-auction-calendar
-DTSTAMP:20460425T120248Z
+DTSTAMP:20141008T140612Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:[TWSE競拍] 穎崴二(65152) 撥券/掛牌｜轉換價 3540.4
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：穎崴二\n證券代號
  ：65152\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：3540.4（來源：競拍公告）\n拆解日：2026/0
- 2/23\n競拍方式：美國標\n競拍數量(張)：25\,500\n最低投標
- 價格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標
- 數量(張)：2\,550\n主辦券商：凱基\n投標開始日：2026/01/21\n
- 投標結束日：2026/01/23\n開標日期：2026/01/27\n撥券日期：202
- 6/02/05\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c5805daa334eaf3e8a10382cd41aee6e960f33ce@twse-auction-calendar
-DTSTAMP:20370109T021825Z
-DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260224
-SUMMARY:[TWSE競拍] 穎崴二(65152) 拆解日｜轉換價 3540.4
-DESCRIPTION:事件：拆解日\n證券名稱：穎崴二\n證券代號：65
- 152\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：3540.4（來源：競拍公告）\n拆解日說明：掛
- 牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆
- 解日：2026/02/23\n競拍方式：美國標\n競拍數量(張)：25\,500\
- n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：2\,550\n主辦券商：凱基\n投標開始日
- ：2026/01/21\n投標結束日：2026/01/23\n開標日期：2026/01/27\n撥
- 券日期：2026/02/05\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：3540.4（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：25\,500\n最低投標價格(元)：103\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：2\,550\n主
+ 辦券商：凱基\n投標開始日：2026/01/21\n投標結束日：2026/01
+ /23\n開標日期：2026/01/27\n撥券日期：2026/02/05\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

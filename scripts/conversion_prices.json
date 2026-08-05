@@ -4474,6 +4474,21 @@
     "premium_rate": 102.19
   },
   {
+    "company": "聯亞光電工業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115307",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/07/30",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "1757.9",
+    "base_price": "1665",
+    "premium_rate": 105.58,
+    "attempts": 0
+  },
+  {
     "company": "國統國際股份有限公司(第五次)",
     "source": "Auction",
     "seq": "115054",
