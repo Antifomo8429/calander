@@ -4387,6 +4387,21 @@
     "premium_rate": 102.02
   },
   {
+    "company": "博智電子股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115308",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/24",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "318",
+    "base_price": "311.2",
+    "premium_rate": 102.19,
+    "attempts": 0
+  },
+  {
     "company": "雍智科技股份有限公司",
     "bid_start": "2026/07/24",
     "bid_end": "2026/07/28",
@@ -4489,6 +4504,21 @@
     "attempts": 0
   },
   {
+    "company": "聯亞光電工業股份有限公司(第一次)",
+    "source": "UnderwritingNotice",
+    "seq": "115307",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/07/30",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "1757.9",
+    "base_price": "1665",
+    "premium_rate": 105.58,
+    "attempts": 0
+  },
+  {
     "company": "國統國際股份有限公司(第五次)",
     "source": "Auction",
     "seq": "115054",
@@ -4517,6 +4547,19 @@
     "base_price": "1105",
     "premium_rate": 104.796,
     "attempts": 0
+  },
+  {
+    "company": "聯亞光電工業股份有限公司(第二次)",
+    "source": "UnderwritingNotice",
+    "seq": "115310",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/31",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
   },
   {
     "company": "十銓科技股份有限公司",
