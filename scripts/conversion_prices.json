@@ -4559,7 +4559,7 @@
     "bid_end": "",
     "min_price": "",
     "conversion_price": null,
-    "attempts": 2
+    "attempts": 3
   },
   {
     "company": "十銓科技股份有限公司",
@@ -4589,6 +4589,21 @@
     "conversion_price": "20.5",
     "base_price": "19.55",
     "premium_rate": 104.86,
+    "attempts": 0
+  },
+  {
+    "company": "維田科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115313",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/03",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "55.73",
+    "base_price": null,
+    "premium_rate": 106.0,
     "attempts": 0
   }
 ]
