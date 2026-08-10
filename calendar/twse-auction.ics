@@ -58402,19 +58402,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fbed1ff76429de33e68ab3a9e225584082622ae4@twse-auction-calendar
-DTSTAMP:20030713T020913Z
+DTSTAMP:20311017T181720Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-SUMMARY:[TWSE競拍] 倚強科一(32191) 投標開始
+SUMMARY:[TWSE競拍] 倚強科一(32191) 投標開始｜轉換價 66.4
 DESCRIPTION:事件：投標開始\n證券名稱：倚強科一\n證券代
  號：32191\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/09/01\n競拍方式：美國標\n競拍數量(張)：5\,10
- 0\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：510\n主辦券商：群益金鼎\n投標開始
- 日：2026/08/10\n投標結束日：2026/08/12\n開標日期：2026/08/14\n
- 撥券日期：2026/08/25\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：66.4（來源：競拍公告）\n拆解日：2026/
+ 09/01\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標
+ 價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：510\n主辦券商：群益金鼎\n投標開始日：2026/08/1
+ 0\n投標結束日：2026/08/12\n開標日期：2026/08/14\n撥券日期：
+ 2026/08/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58475,19 +58475,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2f111dbf0abadcb7c7095c40c4a8a6846ce1f9dc@twse-auction-calendar
-DTSTAMP:20480624T081425Z
+DTSTAMP:20270421T113232Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:[TWSE競拍] 倚強科一(32191) 投標截止
+SUMMARY:[TWSE競拍] 倚強科一(32191) 投標截止｜轉換價 66.4
 DESCRIPTION:事件：投標截止\n證券名稱：倚強科一\n證券代
  號：32191\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/09/01\n競拍方式：美國標\n競拍數量(張)：5\,10
- 0\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：510\n主辦券商：群益金鼎\n投標開始
- 日：2026/08/10\n投標結束日：2026/08/12\n開標日期：2026/08/14\n
- 撥券日期：2026/08/25\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：66.4（來源：競拍公告）\n拆解日：2026/
+ 09/01\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標
+ 價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：510\n主辦券商：群益金鼎\n投標開始日：2026/08/1
+ 0\n投標結束日：2026/08/12\n開標日期：2026/08/14\n撥券日期：
+ 2026/08/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58571,19 +58571,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:b8acb3636fe0dd634b029728bb4b3752491efcc7@twse-auction-calendar
-DTSTAMP:20131006T154246Z
+DTSTAMP:20090225T084954Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-SUMMARY:[TWSE競拍] 倚強科一(32191) 開標
+SUMMARY:[TWSE競拍] 倚強科一(32191) 開標｜轉換價 66.4
 DESCRIPTION:事件：開標\n證券名稱：倚強科一\n證券代號：32
  191\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日：2026/09/01\n競拍方式：美國標\n競拍數量(張)：5\,100\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：510\n主辦券商：群益金鼎\n投標開始日：2
- 026/08/10\n投標結束日：2026/08/12\n開標日期：2026/08/14\n撥券
- 日期：2026/08/25\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 轉換價(元)：66.4（來源：競拍公告）\n拆解日：2026/09/01\n
+ 競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標價格(
+ 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：510\n主辦券商：群益金鼎\n投標開始日：2026/08/10\n投
+ 標結束日：2026/08/12\n開標日期：2026/08/14\n撥券日期：2026/0
+ 8/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58783,19 +58782,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d8432838f65343c1f3ff5c7d9c131227c34cb5a8@twse-auction-calendar
-DTSTAMP:20220909T195922Z
+DTSTAMP:20351115T142929Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:[TWSE競拍] 倚強科一(32191) 撥券/掛牌
+SUMMARY:[TWSE競拍] 倚強科一(32191) 撥券/掛牌｜轉換價 66.4
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：倚強科一\n證券代
  號：32191\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/09/01\n競拍方式：美國標\n競拍數量(張)：5\,10
- 0\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：510\n主辦券商：群益金鼎\n投標開始
- 日：2026/08/10\n投標結束日：2026/08/12\n開標日期：2026/08/14\n
- 撥券日期：2026/08/25\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：66.4（來源：競拍公告）\n拆解日：2026/
+ 09/01\n競拍方式：美國標\n競拍數量(張)：5\,100\n最低投標
+ 價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：510\n主辦券商：群益金鼎\n投標開始日：2026/08/1
+ 0\n投標結束日：2026/08/12\n開標日期：2026/08/14\n撥券日期：
+ 2026/08/25\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58842,20 +58841,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:de50b89968f08c81914431c78b0011a2687bf27a@twse-auction-calendar
-DTSTAMP:20110624T144022Z
+DTSTAMP:20110430T002350Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:[TWSE競拍] 倚強科一(32191) 拆解日
+SUMMARY:[TWSE競拍] 倚強科一(32191) 拆解日｜轉換價 66.4
 DESCRIPTION:事件：拆解日\n證券名稱：倚強科一\n證券代號
  ：32191\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
- 個交易日\n拆解日：2026/09/01\n競拍方式：美國標\n競拍數
- 量(張)：5\,100\n最低投標價格(元)：100\n最低每標單投標數
- 量(張)：1\n最高投(得)標數量(張)：510\n主辦券商：群益金
- 鼎\n投標開始日：2026/08/10\n投標結束日：2026/08/12\n開標日
- 期：2026/08/14\n撥券日期：2026/08/25\n資料來源：https://www.tws
- e.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：66.4（來源：競拍公告）\n拆解日說明：
+ 掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n
+ 拆解日：2026/09/01\n競拍方式：美國標\n競拍數量(張)：5\,10
+ 0\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：510\n主辦券商：群益金鼎\n投標開始
+ 日：2026/08/10\n投標結束日：2026/08/12\n開標日期：2026/08/14\n
+ 撥券日期：2026/08/25\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

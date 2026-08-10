@@ -4461,6 +4461,21 @@
     "attempts": 0
   },
   {
+    "company": "聖暉工程科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115315",
+    "underwriter": "國票綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/07/28",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "1158",
+    "base_price": "1105",
+    "premium_rate": 104.796,
+    "attempts": 0
+  },
+  {
     "company": "聯亞光電工業股份有限公司",
     "bid_start": "2026/07/28",
     "bid_end": "2026/07/30",
@@ -4604,6 +4619,36 @@
     "conversion_price": "55.73",
     "base_price": null,
     "premium_rate": 106.0,
+    "attempts": 0
+  },
+  {
+    "company": "國統國際股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115314",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/08/04",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "55",
+    "base_price": "53.1",
+    "premium_rate": 103.58,
+    "attempts": 0
+  },
+  {
+    "company": "倚強科技股份有限公司",
+    "source": "Auction",
+    "seq": "115058",
+    "underwriter": "群益金鼎證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/10",
+    "bid_end": "2026/08/12",
+    "min_price": "100.00",
+    "conversion_price": "66.4",
+    "base_price": "62.3",
+    "premium_rate": 106.58,
     "attempts": 0
   }
 ]
