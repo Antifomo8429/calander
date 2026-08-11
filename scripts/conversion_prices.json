@@ -4622,6 +4622,21 @@
     "attempts": 0
   },
   {
+    "company": "嘉晶電子股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115317",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/04",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "105",
+    "base_price": "97.62",
+    "premium_rate": 107.56,
+    "attempts": 0
+  },
+  {
     "company": "國統國際股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115314",
@@ -4634,6 +4649,36 @@
     "conversion_price": "55",
     "base_price": "53.1",
     "premium_rate": 103.58,
+    "attempts": 0
+  },
+  {
+    "company": "十銓科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115316",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/05",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "213.5",
+    "base_price": "210",
+    "premium_rate": 101.67,
+    "attempts": 0
+  },
+  {
+    "company": "皇龍開發股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115318",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/08/05",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "20.5",
+    "base_price": "19.55",
+    "premium_rate": 104.86,
     "attempts": 0
   },
   {
