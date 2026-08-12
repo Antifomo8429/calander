@@ -58626,6 +58626,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:62384a0252031c555d402a852f44df85ad706678@twse-auction-calendar
+DTSTAMP:20270422T173109Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:[TWSE競拍] 正達四(31494) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：正達四\n證券代號
+ ：31494\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/07\n競拍方式：美國標\n競拍數量(張)：5\,525\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：552\n主辦券商：台新\n投標開始日：2026
+ /08/14\n投標結束日：2026/08/18\n開標日期：2026/08/20\n撥券日
+ 期：2026/08/31\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7e47cba3ec2b540a9296aeabdd2548c655dcaa6b@twse-auction-calendar
 DTSTAMP:20390513T023751Z
 DTSTART;VALUE=DATE:20260817
@@ -58719,6 +58738,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:22990fa40ad92159da0dad4d8a407c00c4658e53@twse-auction-calendar
+DTSTAMP:20231230T035300Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:[TWSE競拍] 正達四(31494) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：正達四\n證券代號
+ ：31494\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/07\n競拍方式：美國標\n競拍數量(張)：5\,525\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：552\n主辦券商：台新\n投標開始日：2026
+ /08/14\n投標結束日：2026/08/18\n開標日期：2026/08/20\n撥券日
+ 期：2026/08/31\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:d52088343d5e7c172e0be0cdfc0089123e3a4d99@twse-auction-calendar
 DTSTAMP:20420929T150117Z
 DTSTART;VALUE=DATE:20260818
@@ -58790,6 +58828,25 @@ DESCRIPTION:事件：拆解日\n證券名稱：博智三\n證券代號：81
  026/07/29\n投標結束日：2026/07/31\n開標日期：2026/08/04\n撥券
  日期：2026/08/13\n資料來源：https://www.twse.com.tw/zh/announcement
  /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b99c917847319efa0ac767a4a0581cbe484f3ed0@twse-auction-calendar
+DTSTAMP:20071117T131950Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:[TWSE競拍] 正達四(31494) 開標
+DESCRIPTION:事件：開標\n證券名稱：正達四\n證券代號：31494
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/09/07\n競拍方式：美國標\n競拍數量(張)：5\,525\n最低
+ 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：552\n主辦券商：台新\n投標開始日：2026/08/
+ 14\n投標結束日：2026/08/18\n開標日期：2026/08/20\n撥券日期
+ ：2026/08/31\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58912,6 +58969,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5a006387462b5825117e9ec2a16fd8d331f7b05f@twse-auction-calendar
+DTSTAMP:20271209T074020Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:[TWSE競拍] 正達四(31494) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：正達四\n證券代號
+ ：31494\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/07\n競拍方式：美國標\n競拍數量(張)：5\,525\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：552\n主辦券商：台新\n投標開始日：2026
+ /08/14\n投標結束日：2026/08/18\n開標日期：2026/08/20\n撥券日
+ 期：2026/08/31\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:de50b89968f08c81914431c78b0011a2687bf27a@twse-auction-calendar
 DTSTAMP:20110430T002350Z
 DTSTART;VALUE=DATE:20260901
@@ -58947,6 +59023,26 @@ DESCRIPTION:事件：拆解日\n證券名稱：國統六\n證券代號：89
  13\n投標結束日：2026/08/17\n開標日期：2026/08/19\n撥券日期
  ：2026/08/28\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5396fa6ac466fb6150f4d5aed4fbe98fc3a316@twse-auction-calendar
+DTSTAMP:20241224T220508Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[TWSE競拍] 正達四(31494) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：正達四\n證券代號：31
+ 494\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/09/07\n競拍方式：美國標\n競拍數量(
+ 張)：5\,525\n最低投標價格(元)：100\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：552\n主辦券商：台新\n投標
+ 開始日：2026/08/14\n投標結束日：2026/08/18\n開標日期：2026/0
+ 8/20\n撥券日期：2026/08/31\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
