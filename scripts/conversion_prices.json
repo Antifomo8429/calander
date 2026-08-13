@@ -4695,5 +4695,20 @@
     "base_price": "62.3",
     "premium_rate": 106.58,
     "attempts": 0
+  },
+  {
+    "company": "國統國際股份有限公司",
+    "source": "Auction",
+    "seq": "115060",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/13",
+    "bid_end": "2026/08/17",
+    "min_price": "102.00",
+    "conversion_price": "53.8",
+    "base_price": "52.7",
+    "premium_rate": 102.09,
+    "attempts": 0
   }
 ]
