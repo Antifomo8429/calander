@@ -4697,6 +4697,21 @@
     "attempts": 0
   },
   {
+    "company": "廣穎電通股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115323",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/10",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "169.6",
+    "base_price": "159",
+    "premium_rate": 106.67,
+    "attempts": 0
+  },
+  {
     "company": "國統國際股份有限公司",
     "source": "Auction",
     "seq": "115060",
@@ -4709,6 +4724,21 @@
     "conversion_price": "53.8",
     "base_price": "52.7",
     "premium_rate": 102.09,
+    "attempts": 0
+  },
+  {
+    "company": "正達國際光電股份有限公司",
+    "source": "Auction",
+    "seq": "115059",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/14",
+    "bid_end": "2026/08/18",
+    "min_price": "100.00",
+    "conversion_price": "68.1",
+    "base_price": "65.22",
+    "premium_rate": 104.42,
     "attempts": 0
   }
 ]
