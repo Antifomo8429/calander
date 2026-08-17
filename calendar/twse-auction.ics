@@ -58773,6 +58773,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:1d4ec66d1530225eb1ac22bbc3ef522fb3d3d706@twse-auction-calendar
+DTSTAMP:20440124T054002Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:[TWSE競拍] 中砂二(15602) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：中砂二\n證券代號
+ ：15602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n
+ 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026
+ /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
+ 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:50d9b3a4fb1c127500c31a4881ce5be9f2d66acd@twse-auction-calendar
 DTSTAMP:20110615T225121Z
 DTSTART;VALUE=DATE:20260819
@@ -58805,6 +58824,25 @@ DESCRIPTION:事件：拆解日\n證券名稱：聯亞一\n證券代號：30
  高投(得)標數量(張)：1\,078\n主辦券商：元大\n投標開始日
  ：2026/07/28\n投標結束日：2026/07/30\n開標日期：2026/08/03\n撥
  券日期：2026/08/12\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03b52bac5c525243e71d04b2353d0444ee93a114@twse-auction-calendar
+DTSTAMP:20351225T202139Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:[TWSE競拍] 聯電二(23032) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：聯電二\n證券代號
+ ：23032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\
+ n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日
+ ：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥
+ 券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcem
  ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -58849,6 +58887,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:b62465ae815e2422c9934f2aa71fea44dfb9128c@twse-auction-calendar
+DTSTAMP:20481120T185008Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:[TWSE競拍] 中砂二(15602) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：中砂二\n證券代號
+ ：15602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n
+ 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026
+ /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
+ 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6803f0382b8b25b0882a2cf7f1fd2f9eefc48b8@twse-auction-calendar
+DTSTAMP:20030612T122024Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:[TWSE競拍] 聯電二(23032) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：聯電二\n證券代號
+ ：23032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\
+ n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日
+ ：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥
+ 券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:842436bdf67c0c437c1b7f778fdc6454c072515d@twse-auction-calendar
 DTSTAMP:20201229T201417Z
 DTSTART;VALUE=DATE:20260824
@@ -58884,6 +58960,25 @@ DESCRIPTION:事件：拆解日\n證券名稱：聖暉三\n證券代號：55
  026/07/31\n投標結束日：2026/08/04\n開標日期：2026/08/06\n撥券
  日期：2026/08/17\n資料來源：https://www.twse.com.tw/zh/announcement
  /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f9170f4e5259eb47baef3bfbe3ac053aec8831@twse-auction-calendar
+DTSTAMP:20020414T213724Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:[TWSE競拍] 中砂二(15602) 開標
+DESCRIPTION:事件：開標\n證券名稱：中砂二\n證券代號：15602
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n最低
+ 投標價格(元)：103\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026/08/
+ 19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期
+ ：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58948,6 +59043,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:13e0601e0afcb1a7280e6e908a744fc1c4c25936@twse-auction-calendar
+DTSTAMP:20270909T235125Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:[TWSE競拍] 聯電二(23032) 開標
+DESCRIPTION:事件：開標\n證券名稱：聯電二\n證券代號：23032
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\n最
+ 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日：2026
+ /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
+ 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:3df2a59027bc5e08d11435bdf43e7485de42bb0b@twse-auction-calendar
 DTSTAMP:20241028T040656Z
 DTSTART;VALUE=DATE:20260828
@@ -59004,6 +59118,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:a87e57237953ae568046e38a779058d422350c4b@twse-auction-calendar
+DTSTAMP:20140913T102121Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:[TWSE競拍] 中砂二(15602) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：中砂二\n證券代號
+ ：15602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n
+ 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026
+ /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
+ 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6652a053545ca62b35259a811551e1055c173971@twse-auction-calendar
+DTSTAMP:20210123T181720Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:[TWSE競拍] 聯電二(23032) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：聯電二\n證券代號
+ ：23032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\
+ n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日
+ ：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥
+ 券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:936a3a9e97f49f25d009da3058f705319661a941@twse-auction-calendar
 DTSTAMP:20410816T034251Z
 DTSTART;VALUE=DATE:20260904
@@ -59039,6 +59191,46 @@ DESCRIPTION:事件：拆解日\n證券名稱：正達四\n證券代號：31
  /14\n投標結束日：2026/08/18\n開標日期：2026/08/20\n撥券日期
  ：2026/08/31\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:12bddfadc79de18668850e6d6f20763b76af3274@twse-auction-calendar
+DTSTAMP:20350811T114510Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:[TWSE競拍] 中砂二(15602) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：中砂二\n證券代號：15
+ 602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/09/10\n競拍方式：美國標\n競拍數量(
+ 張)：9\,000\n最低投標價格(元)：103\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：900\n主辦券商：元大\n投標
+ 開始日：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/0
+ 8/25\n撥券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d2a220e4adffa043d2638ba5ff0186eecc6bc58@twse-auction-calendar
+DTSTAMP:20151219T032133Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:[TWSE競拍] 聯電二(23032) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：聯電二\n證券代號：23
+ 032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/09/10\n競拍方式：美國標\n競拍數量(
+ 張)：34\,000\n最低投標價格(元)：100\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投
+ 標開始日：2026/08/19\n投標結束日：2026/08/21\n開標日期：202
+ 6/08/25\n撥券日期：2026/09/03\n資料來源：https://www.twse.com.tw/
+ zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
