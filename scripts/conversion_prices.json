@@ -4652,6 +4652,21 @@
     "attempts": 0
   },
   {
+    "company": "倚強科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115325",
+    "underwriter": "群益金鼎證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/05",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "66.4",
+    "base_price": "62.3",
+    "premium_rate": 106.58,
+    "attempts": 0
+  },
+  {
     "company": "十銓科技股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115316",
