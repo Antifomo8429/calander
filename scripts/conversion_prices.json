@@ -4742,6 +4742,21 @@
     "attempts": 0
   },
   {
+    "company": "聚賢研發股份有限公司-創新版",
+    "source": "UnderwritingNotice",
+    "seq": "115328",
+    "underwriter": "宏遠證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/13",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "150.8",
+    "base_price": "143.1",
+    "premium_rate": 105.38,
+    "attempts": 0
+  },
+  {
     "company": "正達國際光電股份有限公司",
     "source": "Auction",
     "seq": "115059",
@@ -4754,6 +4769,36 @@
     "conversion_price": "68.1",
     "base_price": "65.22",
     "premium_rate": 104.42,
+    "attempts": 0
+  },
+  {
+    "company": "中國砂輪企業股份有限公司",
+    "source": "Auction",
+    "seq": "115061",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/19",
+    "bid_end": "2026/08/21",
+    "min_price": "103.00",
+    "conversion_price": "708.3",
+    "base_price": "694.4",
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
+    "company": "聯華電子股份有限公司",
+    "source": "Auction",
+    "seq": "115062",
+    "underwriter": "宏遠證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/08/19",
+    "bid_end": "2026/08/21",
+    "min_price": "100.00",
+    "conversion_price": "130.7",
+    "base_price": "124.5",
+    "premium_rate": 104.98,
     "attempts": 0
   }
 ]

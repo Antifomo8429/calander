@@ -58774,19 +58774,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1d4ec66d1530225eb1ac22bbc3ef522fb3d3d706@twse-auction-calendar
-DTSTAMP:20440124T054002Z
+DTSTAMP:20291025T182834Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-SUMMARY:[TWSE競拍] 中砂二(15602) 投標開始
+SUMMARY:[TWSE競拍] 中砂二(15602) 投標開始｜轉換價 708.3
 DESCRIPTION:事件：投標開始\n證券名稱：中砂二\n證券代號
  ：15602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n
- 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026
- /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
- 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：708.3（來源：競拍公告）\n拆解日：2026/09
+ /10\n競拍方式：美國標\n競拍數量(張)：9\,000\n最低投標價
+ 格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：900\n主辦券商：元大\n投標開始日：2026/08/19\n投標
+ 結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/09/0
+ 3\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58831,19 +58830,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:03b52bac5c525243e71d04b2353d0444ee93a114@twse-auction-calendar
-DTSTAMP:20351225T202139Z
+DTSTAMP:20410117T153130Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-SUMMARY:[TWSE競拍] 聯電二(23032) 投標開始
+SUMMARY:[TWSE競拍] 聯電二(23032) 投標開始｜轉換價 130.7
 DESCRIPTION:事件：投標開始\n證券名稱：聯電二\n證券代號
  ：23032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\
- n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日
- ：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥
- 券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：130.7（來源：競拍公告）\n拆解日：2026/09
+ /10\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：3\,400\n主辦券商：宏遠\n投標開始日：2026/08/19\n投
+ 標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/0
+ 9/03\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58888,38 +58886,55 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:b62465ae815e2422c9934f2aa71fea44dfb9128c@twse-auction-calendar
-DTSTAMP:20481120T185008Z
+DTSTAMP:20080922T173755Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:[TWSE競拍] 中砂二(15602) 投標截止
+SUMMARY:[TWSE競拍] 中砂二(15602) 投標截止｜轉換價 708.3
 DESCRIPTION:事件：投標截止\n證券名稱：中砂二\n證券代號
  ：15602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：708.3（來源：競拍公告）\n拆解日：2026/09
+ /10\n競拍方式：美國標\n競拍數量(張)：9\,000\n最低投標價
+ 格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：900\n主辦券商：元大\n投標開始日：2026/08/19\n投標
+ 結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/09/0
+ 3\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b437c866862d96acd195dec7f38dee436f4431e@twse-auction-calendar
+DTSTAMP:20200416T143204Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:[TWSE競拍] 盟立三(24643) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：盟立三\n證券代號
+ ：24643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
  債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n
+ 解日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n
  最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026
- /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
- 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 投(得)標數量(張)：850\n主辦券商：中國信託\n投標開始日
+ ：2026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥
+ 券日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d6803f0382b8b25b0882a2cf7f1fd2f9eefc48b8@twse-auction-calendar
-DTSTAMP:20030612T122024Z
+DTSTAMP:20250429T054147Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:[TWSE競拍] 聯電二(23032) 投標截止
+SUMMARY:[TWSE競拍] 聯電二(23032) 投標截止｜轉換價 130.7
 DESCRIPTION:事件：投標截止\n證券名稱：聯電二\n證券代號
  ：23032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\
- n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日
- ：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥
- 券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：130.7（來源：競拍公告）\n拆解日：2026/09
+ /10\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：3\,400\n主辦券商：宏遠\n投標開始日：2026/08/19\n投
+ 標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/0
+ 9/03\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -58966,19 +58981,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f9170f4e5259eb47baef3bfbe3ac053aec8831@twse-auction-calendar
-DTSTAMP:20020414T213724Z
+DTSTAMP:20390602T191031Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:[TWSE競拍] 中砂二(15602) 開標
+SUMMARY:[TWSE競拍] 中砂二(15602) 開標｜轉換價 708.3
 DESCRIPTION:事件：開標\n證券名稱：中砂二\n證券代號：15602
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n最低
- 投標價格(元)：103\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026/08/
- 19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期
- ：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 換價(元)：708.3（來源：競拍公告）\n拆解日：2026/09/10\n競
+ 拍方式：美國標\n競拍數量(張)：9\,000\n最低投標價格(元)
+ ：103\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：900\n主辦券商：元大\n投標開始日：2026/08/19\n投標結束
+ 日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/09/03\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59043,20 +59057,57 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:13e0601e0afcb1a7280e6e908a744fc1c4c25936@twse-auction-calendar
-DTSTAMP:20270909T235125Z
+UID:1ebcce1d4dcfbfb6ff2ce1ec0b801bdb4e77342b@twse-auction-calendar
+DTSTAMP:20340401T144934Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:[TWSE競拍] 聯電二(23032) 開標
+SUMMARY:[TWSE競拍] 盟立三(24643) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：盟立三\n證券代號
+ ：24643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n
+ 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：850\n主辦券商：中國信託\n投標開始日
+ ：2026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥
+ 券日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13e0601e0afcb1a7280e6e908a744fc1c4c25936@twse-auction-calendar
+DTSTAMP:20290308T174230Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:[TWSE競拍] 聯電二(23032) 開標｜轉換價 130.7
 DESCRIPTION:事件：開標\n證券名稱：聯電二\n證券代號：23032
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：130.7（來源：競拍公告）\n拆解日：2026/09/10\n競
+ 拍方式：美國標\n競拍數量(張)：34\,000\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：3\,400\n主辦券商：宏遠\n投標開始日：2026/08/19\n投標結
+ 束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/09/03\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a59b2e0abad5a224c6cb671149cd4cec0d5b07e5@twse-auction-calendar
+DTSTAMP:20150305T104146Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:[TWSE競拍] 盟立三(24643) 開標
+DESCRIPTION:事件：開標\n證券名稱：盟立三\n證券代號：24643
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
  換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日：2026
- /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
- 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ ：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低
+ 投標價格(元)：103\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：850\n主辦券商：中國信託\n投標開始日：20
+ 26/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥券
+ 日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59119,38 +59170,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a87e57237953ae568046e38a779058d422350c4b@twse-auction-calendar
-DTSTAMP:20140913T102121Z
+DTSTAMP:20300216T210516Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:[TWSE競拍] 中砂二(15602) 撥券/掛牌
+SUMMARY:[TWSE競拍] 中砂二(15602) 撥券/掛牌｜轉換價 708.3
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：中砂二\n證券代號
  ：15602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n
- 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026
- /08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日
- 期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：708.3（來源：競拍公告）\n拆解日：2026/09
+ /10\n競拍方式：美國標\n競拍數量(張)：9\,000\n最低投標價
+ 格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：900\n主辦券商：元大\n投標開始日：2026/08/19\n投標
+ 結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/09/0
+ 3\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6652a053545ca62b35259a811551e1055c173971@twse-auction-calendar
-DTSTAMP:20210123T181720Z
+DTSTAMP:20080329T065512Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:[TWSE競拍] 聯電二(23032) 撥券/掛牌
+SUMMARY:[TWSE競拍] 聯電二(23032) 撥券/掛牌｜轉換價 130.7
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：聯電二\n證券代號
  ：23032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\
- n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日
- ：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥
- 券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：130.7（來源：競拍公告）\n拆解日：2026/09
+ /10\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：3\,400\n主辦券商：宏遠\n投標開始日：2026/08/19\n投
+ 標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期：2026/0
+ 9/03\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59196,41 +59245,80 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:54a85457fb6f70f464a8920e4c109b5a0622cfd2@twse-auction-calendar
+DTSTAMP:20440511T070924Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[TWSE競拍] 盟立三(24643) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：盟立三\n證券代號
+ ：24643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n
+ 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：850\n主辦券商：中國信託\n投標開始日
+ ：2026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥
+ 券日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:12bddfadc79de18668850e6d6f20763b76af3274@twse-auction-calendar
-DTSTAMP:20350811T114510Z
+DTSTAMP:20150812T055714Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:[TWSE競拍] 中砂二(15602) 拆解日
+SUMMARY:[TWSE競拍] 中砂二(15602) 拆解日｜轉換價 708.3
 DESCRIPTION:事件：拆解日\n證券名稱：中砂二\n證券代號：15
  602\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/09/10\n競拍方式：美國標\n競拍數量(
- 張)：9\,000\n最低投標價格(元)：103\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：900\n主辦券商：元大\n投標
- 開始日：2026/08/19\n投標結束日：2026/08/21\n開標日期：2026/0
- 8/25\n撥券日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 轉換價(元)：708.3（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：9\,000\n最
+ 低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：900\n主辦券商：元大\n投標開始日：2026/08
+ /19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券日期
+ ：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7d2a220e4adffa043d2638ba5ff0186eecc6bc58@twse-auction-calendar
-DTSTAMP:20151219T032133Z
+DTSTAMP:20380115T084802Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:[TWSE競拍] 聯電二(23032) 拆解日
+SUMMARY:[TWSE競拍] 聯電二(23032) 拆解日｜轉換價 130.7
 DESCRIPTION:事件：拆解日\n證券名稱：聯電二\n證券代號：23
  032\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：130.7（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/09/10\n競拍方式：美國標\n競拍數量(張)：34\,000\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投標開始日：2
+ 026/08/19\n投標結束日：2026/08/21\n開標日期：2026/08/25\n撥券
+ 日期：2026/09/03\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd758e44922e345cf5ce7cc62e6f40dee14cbc8f@twse-auction-calendar
+DTSTAMP:20290329T193409Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:[TWSE競拍] 盟立三(24643) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：盟立三\n證券代號：24
+ 643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
  轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
  日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/09/10\n競拍方式：美國標\n競拍數量(
- 張)：34\,000\n最低投標價格(元)：100\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：3\,400\n主辦券商：宏遠\n投
- 標開始日：2026/08/19\n投標結束日：2026/08/21\n開標日期：202
- 6/08/25\n撥券日期：2026/09/03\n資料來源：https://www.twse.com.tw/
- zh/announcement/auction.html
+ 交易日\n拆解日：2026/09/14\n競拍方式：美國標\n競拍數量(
+ 張)：8\,500\n最低投標價格(元)：103\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：850\n主辦券商：中國信託\n
+ 投標開始日：2026/08/21\n投標結束日：2026/08/25\n開標日期：
+ 2026/08/27\n撥券日期：2026/09/07\n資料來源：https://www.twse.com.
+ tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
