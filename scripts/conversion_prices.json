@@ -4787,6 +4787,21 @@
     "attempts": 0
   },
   {
+    "company": "正達國際光電股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115331",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/08/18",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "68.1",
+    "base_price": "65.22",
+    "premium_rate": 104.42,
+    "attempts": 0
+  },
+  {
     "company": "中國砂輪企業股份有限公司",
     "source": "Auction",
     "seq": "115061",
