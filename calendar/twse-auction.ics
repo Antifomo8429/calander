@@ -59093,6 +59093,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:9aa1b7f9d1f9532afb35e3158f5e3e8910709d79@twse-auction-calendar
+DTSTAMP:20170711T033249Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:[TWSE競拍] 寶一一(82221) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：寶一一\n證券代號
+ ：82221\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/17\n競拍方式：美國標\n競拍數量(張)：3\,400\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
+ /08/26\n投標結束日：2026/08/28\n開標日期：2026/09/01\n撥券日
+ 期：2026/09/10\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:3e7f84e611557124f7b9fc89118c37e7270e09cb@twse-auction-calendar
 DTSTAMP:20010130T200146Z
 DTSTART;VALUE=DATE:20260826
@@ -59165,6 +59184,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:cd8c3efb4e836766723f3584680990f90b915498@twse-auction-calendar
+DTSTAMP:20170523T151459Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:[TWSE競拍] 寶一一(82221) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：寶一一\n證券代號
+ ：82221\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/17\n競拍方式：美國標\n競拍數量(張)：3\,400\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
+ /08/26\n投標結束日：2026/08/28\n開標日期：2026/09/01\n撥券日
+ 期：2026/09/10\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:5a006387462b5825117e9ec2a16fd8d331f7b05f@twse-auction-calendar
 DTSTAMP:20190114T134345Z
 DTSTART;VALUE=DATE:20260831
@@ -59215,6 +59253,25 @@ DESCRIPTION:事件：開標\n證券名稱：和亞智慧\n證券代號：78
  辦券商：群益金鼎\n投標開始日：2026/08/26\n投標結束日：2
  026/08/28\n開標日期：2026/09/01\n撥券日期：2026/09/10\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:90bdb9a67ec495102c6554f60ca1912dfc2f7fb6@twse-auction-calendar
+DTSTAMP:20450111T165407Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[TWSE競拍] 寶一一(82221) 開標
+DESCRIPTION:事件：開標\n證券名稱：寶一一\n證券代號：82221
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/09/17\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低
+ 投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026/08/
+ 26\n投標結束日：2026/08/28\n開標日期：2026/09/01\n撥券日期
+ ：2026/09/10\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59352,6 +59409,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f82bb4c82cb87d1a81f14a67f81d192cbd5a3dd8@twse-auction-calendar
+DTSTAMP:20050731T145356Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:[TWSE競拍] 寶一一(82221) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：寶一一\n證券代號
+ ：82221\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/09/17\n競拍方式：美國標\n競拍數量(張)：3\,400\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
+ /08/26\n投標結束日：2026/08/28\n開標日期：2026/09/01\n撥券日
+ 期：2026/09/10\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7d2a220e4adffa043d2638ba5ff0186eecc6bc58@twse-auction-calendar
 DTSTAMP:20270619T143313Z
 DTSTART;VALUE=DATE:20260910
@@ -59387,6 +59463,26 @@ DESCRIPTION:事件：拆解日\n證券名稱：盟立三\n證券代號：24
  投標開始日：2026/08/21\n投標結束日：2026/08/25\n開標日期：
  2026/08/27\n撥券日期：2026/09/07\n資料來源：https://www.twse.com.
  tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c49e5dd31bca0fa3dbe069ac28f7735c504b5a@twse-auction-calendar
+DTSTAMP:20131221T054958Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:[TWSE競拍] 寶一一(82221) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：寶一一\n證券代號：82
+ 221\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/09/17\n競拍方式：美國標\n競拍數量(
+ 張)：3\,400\n最低投標價格(元)：101\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：340\n主辦券商：台新\n投標
+ 開始日：2026/08/26\n投標結束日：2026/08/28\n開標日期：2026/0
+ 9/01\n撥券日期：2026/09/10\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
