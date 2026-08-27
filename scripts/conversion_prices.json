@@ -4845,6 +4845,21 @@
     "attempts": 5
   },
   {
+    "company": "聯華電子股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115336",
+    "underwriter": "宏遠證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/21",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "130.7",
+    "base_price": "124.5",
+    "premium_rate": 104.98,
+    "attempts": 0
+  },
+  {
     "company": "寶一科技股份有限公司",
     "source": "Auction",
     "seq": "115064",
