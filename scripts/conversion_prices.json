@@ -4832,6 +4832,21 @@
     "attempts": 0
   },
   {
+    "company": "中國砂輪企業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115337",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/21",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "708.3",
+    "base_price": "694.4",
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
     "company": "盟立自動化股份有限公司",
     "source": "Auction",
     "seq": "115063",
