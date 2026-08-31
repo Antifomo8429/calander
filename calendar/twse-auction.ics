@@ -58904,19 +58904,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5b437c866862d96acd195dec7f38dee436f4431e@twse-auction-calendar
-DTSTAMP:20200416T143204Z
+DTSTAMP:20050506T140451Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:[TWSE競拍] 盟立三(24643) 投標開始
+SUMMARY:[TWSE競拍] 盟立三(24643) 投標開始｜轉換價 202.8
 DESCRIPTION:事件：投標開始\n證券名稱：盟立三\n證券代號
  ：24643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n
- 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：850\n主辦券商：中國信託\n投標開始日
- ：2026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥
- 券日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：202.8（來源：承銷公告）\n拆解日：2026/09
+ /14\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
+ 格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：850\n主辦券商：中國信託\n投標開始日：2026/08/21\n
+ 投標結束日：2026/08/25\n開標日期：2026/08/27\n撥券日期：202
+ 6/09/07\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59040,19 +59040,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1ebcce1d4dcfbfb6ff2ce1ec0b801bdb4e77342b@twse-auction-calendar
-DTSTAMP:20340401T144934Z
+DTSTAMP:20100728T172643Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:[TWSE競拍] 盟立三(24643) 投標截止
+SUMMARY:[TWSE競拍] 盟立三(24643) 投標截止｜轉換價 202.8
 DESCRIPTION:事件：投標截止\n證券名稱：盟立三\n證券代號
  ：24643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n
- 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：850\n主辦券商：中國信託\n投標開始日
- ：2026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥
- 券日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：202.8（來源：承銷公告）\n拆解日：2026/09
+ /14\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
+ 格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：850\n主辦券商：中國信託\n投標開始日：2026/08/21\n
+ 投標結束日：2026/08/25\n開標日期：2026/08/27\n撥券日期：202
+ 6/09/07\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59130,19 +59130,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a59b2e0abad5a224c6cb671149cd4cec0d5b07e5@twse-auction-calendar
-DTSTAMP:20150305T104146Z
+DTSTAMP:20480302T212037Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:[TWSE競拍] 盟立三(24643) 開標
+SUMMARY:[TWSE競拍] 盟立三(24643) 開標｜轉換價 202.8
 DESCRIPTION:事件：開標\n證券名稱：盟立三\n證券代號：24643
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低
- 投標價格(元)：103\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：850\n主辦券商：中國信託\n投標開始日：20
- 26/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥券
- 日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 換價(元)：202.8（來源：承銷公告）\n拆解日：2026/09/14\n競
+ 拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)
+ ：103\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：850\n主辦券商：中國信託\n投標開始日：2026/08/21\n投標
+ 結束日：2026/08/25\n開標日期：2026/08/27\n撥券日期：2026/09/0
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59402,19 +59401,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:54a85457fb6f70f464a8920e4c109b5a0622cfd2@twse-auction-calendar
-DTSTAMP:20440511T070924Z
+DTSTAMP:20310913T021053Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-SUMMARY:[TWSE競拍] 盟立三(24643) 撥券/掛牌
+SUMMARY:[TWSE競拍] 盟立三(24643) 撥券/掛牌｜轉換價 202.8
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：盟立三\n證券代號
  ：24643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n
- 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：850\n主辦券商：中國信託\n投標開始日
- ：2026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥
- 券日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：202.8（來源：承銷公告）\n拆解日：2026/09
+ /14\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
+ 格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：850\n主辦券商：中國信託\n投標開始日：2026/08/21\n
+ 投標結束日：2026/08/25\n開標日期：2026/08/27\n撥券日期：202
+ 6/09/07\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59496,20 +59495,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dd758e44922e345cf5ce7cc62e6f40dee14cbc8f@twse-auction-calendar
-DTSTAMP:20290329T193409Z
+DTSTAMP:20350513T094116Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:[TWSE競拍] 盟立三(24643) 拆解日
+SUMMARY:[TWSE競拍] 盟立三(24643) 拆解日｜轉換價 202.8
 DESCRIPTION:事件：拆解日\n證券名稱：盟立三\n證券代號：24
  643\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/09/14\n競拍方式：美國標\n競拍數量(
- 張)：8\,500\n最低投標價格(元)：103\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：850\n主辦券商：中國信託\n
- 投標開始日：2026/08/21\n投標結束日：2026/08/25\n開標日期：
- 2026/08/27\n撥券日期：2026/09/07\n資料來源：https://www.twse.com.
- tw/zh/announcement/auction.html
+ 轉換價(元)：202.8（來源：承銷公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/09/14\n競拍方式：美國標\n競拍數量(張)：8\,500\n最
+ 低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：850\n主辦券商：中國信託\n投標開始日：2
+ 026/08/21\n投標結束日：2026/08/25\n開標日期：2026/08/27\n撥券
+ 日期：2026/09/07\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
