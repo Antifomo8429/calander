@@ -59399,6 +59399,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f703d9245f5924c89c7eaa2d8842aa261260bc89@twse-auction-calendar
+DTSTAMP:20400504T024350Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[TWSE競拍] 晶宏五(31415) 投標開始｜轉換價 63.01
+DESCRIPTION:事件：投標開始\n證券名稱：晶宏五\n證券代號
+ ：31415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10
+ /01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
+ 格(元)：103.5\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：425\n主辦券商：統一\n投標開始日：2026/09/07\n投
+ 標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
+ 9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:eb5396fa6ac466fb6150f4d5aed4fbe98fc3a316@twse-auction-calendar
 DTSTAMP:20430331T003413Z
 DTSTART;VALUE=DATE:20260907
@@ -59414,6 +59432,23 @@ DESCRIPTION:事件：拆解日\n證券名稱：正達四\n證券代號：31
  /14\n投標結束日：2026/08/18\n開標日期：2026/08/20\n撥券日期
  ：2026/08/31\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:901d49990358227881ce201057c02ca5d0356bff@twse-auction-calendar
+DTSTAMP:20451130T123210Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[TWSE競拍] 漢測(7856) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：漢測\n證券代號：78
+ 56\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：4\,192\n最低投標價格(元)：1\,800\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：524\n
+ 主辦券商：永豐金\n投標開始日：2026/09/07\n投標結束日：2
+ 026/09/09\n開標日期：2026/09/11\n撥券日期：2026/09/22\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59438,6 +59473,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:1b8f111831d0b123ae620aff831e8bbabb002c62@twse-auction-calendar
+DTSTAMP:20310621T044041Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[TWSE競拍] 辛耘四(35834) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：辛耘四\n證券代號
+ ：35834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\
+ n最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
+ ：2026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥
+ 券日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:3e1c66db8a2cc65d91f6368f09cd63e2a49da155@twse-auction-calendar
 DTSTAMP:20330813T160850Z
 DTSTART;VALUE=DATE:20260908
@@ -59452,6 +59506,60 @@ DESCRIPTION:事件：投標截止\n證券名稱：晟田五\n證券代號
  /09/04\n投標結束日：2026/09/08\n開標日期：2026/09/10\n撥券日
  期：2026/09/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
  ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be61059c1fc176e8b392f2408d16165641179864@twse-auction-calendar
+DTSTAMP:20310503T115804Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:[TWSE競拍] 晶宏五(31415) 投標截止｜轉換價 63.01
+DESCRIPTION:事件：投標截止\n證券名稱：晶宏五\n證券代號
+ ：31415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10
+ /01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
+ 格(元)：103.5\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：425\n主辦券商：統一\n投標開始日：2026/09/07\n投
+ 標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
+ 9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2d16e28aa9e47950f42f3c98b3fd49ff4ae698@twse-auction-calendar
+DTSTAMP:20070902T161511Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:[TWSE競拍] 漢測(7856) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：漢測\n證券代號：78
+ 56\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：4\,192\n最低投標價格(元)：1\,800\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：524\n
+ 主辦券商：永豐金\n投標開始日：2026/09/07\n投標結束日：2
+ 026/09/09\n開標日期：2026/09/11\n撥券日期：2026/09/22\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c97898f11e9d3f80b13ef607c20c4b12b342e707@twse-auction-calendar
+DTSTAMP:20260504T095955Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:[TWSE競拍] 辛耘四(35834) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：辛耘四\n證券代號
+ ：35834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\
+ n最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
+ ：2026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥
+ 券日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59551,6 +59659,60 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:20246ea557bdf0fda72078984fb6c2fa19a694b8@twse-auction-calendar
+DTSTAMP:20000208T061342Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:[TWSE競拍] 晶宏五(31415) 開標｜轉換價 63.01
+DESCRIPTION:事件：開標\n證券名稱：晶宏五\n證券代號：31415
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10/01\n競
+ 拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(元)
+ ：103.5\n最低每標單投標數量(張)：1\n最高投(得)標數量(張
+ )：425\n主辦券商：統一\n投標開始日：2026/09/07\n投標結束
+ 日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/09/22\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8e19a87be803e97865cf015c7de4447161857400@twse-auction-calendar
+DTSTAMP:20100823T070547Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:[TWSE競拍] 漢測(7856) 開標
+DESCRIPTION:事件：開標\n證券名稱：漢測\n證券代號：7856\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：4\,192\n最低投標價格(元)：1\,800\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：524\n主
+ 辦券商：永豐金\n投標開始日：2026/09/07\n投標結束日：2026
+ /09/09\n開標日期：2026/09/11\n撥券日期：2026/09/22\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc16462be1627cc9ab1ebfab45ba825547b0a280@twse-auction-calendar
+DTSTAMP:20010825T121449Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:[TWSE競拍] 辛耘四(35834) 開標
+DESCRIPTION:事件：開標\n證券名稱：辛耘四\n證券代號：35834
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\n最
+ 低投標價格(元)：107\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日：2026
+ /09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日
+ 期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:dd758e44922e345cf5ce7cc62e6f40dee14cbc8f@twse-auction-calendar
 DTSTAMP:20350513T094116Z
 DTSTART;VALUE=DATE:20260914
@@ -59627,6 +59789,60 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:d9e3c50b9bb04db7dc3ad2b1b66faec78d7d9fbb@twse-auction-calendar
+DTSTAMP:20051221T002733Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[TWSE競拍] 晶宏五(31415) 撥券/掛牌｜轉換價 63.01
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：晶宏五\n證券代號
+ ：31415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10
+ /01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
+ 格(元)：103.5\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：425\n主辦券商：統一\n投標開始日：2026/09/07\n投
+ 標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
+ 9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35948e23b465e7107f1dbcb733c5cc130955f28b@twse-auction-calendar
+DTSTAMP:20460228T172500Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[TWSE競拍] 漢測(7856) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：漢測\n證券代號：7
+ 856\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：4\,192\n最低投標價格(元)：1\,800\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：524\n
+ 主辦券商：永豐金\n投標開始日：2026/09/07\n投標結束日：2
+ 026/09/09\n開標日期：2026/09/11\n撥券日期：2026/09/22\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fc149e704688642680c9ea4bd6c93033608d6db7@twse-auction-calendar
+DTSTAMP:20040611T040956Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[TWSE競拍] 辛耘四(35834) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：辛耘四\n證券代號
+ ：35834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\
+ n最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
+ ：2026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥
+ 券日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:bbe9cd11e7e406c8943c3d7eacc732d926d0b2d7@twse-auction-calendar
 DTSTAMP:20240107T022623Z
 DTSTART;VALUE=DATE:20260930
@@ -59642,6 +59858,46 @@ DESCRIPTION:事件：拆解日\n證券名稱：晟田五\n證券代號：45
  開始日：2026/09/04\n投標結束日：2026/09/08\n開標日期：2026/0
  9/10\n撥券日期：2026/09/21\n資料來源：https://www.twse.com.tw/zh/
  announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:305a31ec35ae91b54a5cdd83668e50a0f775d6b2@twse-auction-calendar
+DTSTAMP:20251230T194750Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:[TWSE競拍] 晶宏五(31415) 拆解日｜轉換價 63.01
+DESCRIPTION:事件：拆解日\n證券名稱：晶宏五\n證券代號：31
+ 415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：63.01（來源：承銷公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最
+ 低投標價格(元)：103.5\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：425\n主辦券商：統一\n投標開始日：2026
+ /09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日
+ 期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e865ec9d2a41125efd8fae63a3716514547bb54@twse-auction-calendar
+DTSTAMP:20210420T023324Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:[TWSE競拍] 辛耘四(35834) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：辛耘四\n證券代號：35
+ 834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/10/01\n競拍方式：美國標\n競拍數量(
+ 張)：13\,500\n最低投標價格(元)：107\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：1\,350\n主辦券商：元大\n投
+ 標開始日：2026/09/07\n投標結束日：2026/09/09\n開標日期：202
+ 6/09/11\n撥券日期：2026/09/22\n資料來源：https://www.twse.com.tw/
+ zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -4903,5 +4903,35 @@
     "base_price": "40.29",
     "premium_rate": 105.0,
     "attempts": 0
+  },
+  {
+    "company": "金利食安科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115346",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/27",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "22.5",
+    "base_price": null,
+    "premium_rate": 106.13,
+    "attempts": 0
+  },
+  {
+    "company": "寶一科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115348",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/08/28",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "42.3",
+    "base_price": "40.29",
+    "premium_rate": 105.0,
+    "attempts": 0
   }
 ]
