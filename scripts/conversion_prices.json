@@ -4933,5 +4933,35 @@
     "base_price": "40.29",
     "premium_rate": 105.0,
     "attempts": 0
+  },
+  {
+    "company": "大甲永和機械工業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115354",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/08/31",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "82.16",
+    "base_price": null,
+    "premium_rate": 105.01,
+    "attempts": 0
+  },
+  {
+    "company": "晟田科技工業股份有限公司",
+    "source": "Auction",
+    "seq": "115066",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/09/04",
+    "bid_end": "2026/09/08",
+    "min_price": "100.00",
+    "conversion_price": "68.8",
+    "base_price": "66.72",
+    "premium_rate": 103.1,
+    "attempts": 0
   }
 ]

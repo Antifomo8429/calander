@@ -59364,19 +59364,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a66379a84f67d3e1467ced4bdcbc8fb4060f2ae4@twse-auction-calendar
-DTSTAMP:20470726T125213Z
+DTSTAMP:20120111T041453Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:[TWSE競拍] 晟田五(45415) 投標開始
+SUMMARY:[TWSE競拍] 晟田五(45415) 投標開始｜轉換價 68.8
 DESCRIPTION:事件：投標開始\n證券名稱：晟田五\n證券代號
  ：45415\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/30\n競拍方式：美國標\n競拍數量(張)：2\,550\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：255\n主辦券商：凱基\n投標開始日：2026
- /09/04\n投標結束日：2026/09/08\n開標日期：2026/09/10\n撥券日
- 期：2026/09/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：68.8（來源：競拍公告）\n拆解日：2026/09/
+ 30\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：255\n主辦券商：凱基\n投標開始日：2026/09/04\n投標
+ 結束日：2026/09/08\n開標日期：2026/09/10\n撥券日期：2026/09/2
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59493,19 +59492,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3e1c66db8a2cc65d91f6368f09cd63e2a49da155@twse-auction-calendar
-DTSTAMP:20330813T160850Z
+DTSTAMP:20461127T231302Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:[TWSE競拍] 晟田五(45415) 投標截止
+SUMMARY:[TWSE競拍] 晟田五(45415) 投標截止｜轉換價 68.8
 DESCRIPTION:事件：投標截止\n證券名稱：晟田五\n證券代號
  ：45415\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/30\n競拍方式：美國標\n競拍數量(張)：2\,550\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：255\n主辦券商：凱基\n投標開始日：2026
- /09/04\n投標結束日：2026/09/08\n開標日期：2026/09/10\n撥券日
- 期：2026/09/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：68.8（來源：競拍公告）\n拆解日：2026/09/
+ 30\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：255\n主辦券商：凱基\n投標開始日：2026/09/04\n投標
+ 結束日：2026/09/08\n開標日期：2026/09/10\n撥券日期：2026/09/2
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59621,19 +59619,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:62f9ae74ba46449741814fc977009e472b8d5ef7@twse-auction-calendar
-DTSTAMP:20140614T191048Z
+DTSTAMP:20110609T124805Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:[TWSE競拍] 晟田五(45415) 開標
+SUMMARY:[TWSE競拍] 晟田五(45415) 開標｜轉換價 68.8
 DESCRIPTION:事件：開標\n證券名稱：晟田五\n證券代號：45415
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/09/30\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低
- 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：255\n主辦券商：凱基\n投標開始日：2026/09/
- 04\n投標結束日：2026/09/08\n開標日期：2026/09/10\n撥券日期
- ：2026/09/21\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 換價(元)：68.8（來源：競拍公告）\n拆解日：2026/09/30\n競
+ 拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：255\n主辦券商：凱基\n投標開始日：2026/09/04\n投標結束
+ 日：2026/09/08\n開標日期：2026/09/10\n撥券日期：2026/09/21\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59771,19 +59768,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2afd256ba2afe59381d79c8b3a65722ca7011d3e@twse-auction-calendar
-DTSTAMP:20320514T204029Z
+DTSTAMP:20171130T182555Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:[TWSE競拍] 晟田五(45415) 撥券/掛牌
+SUMMARY:[TWSE競拍] 晟田五(45415) 撥券/掛牌｜轉換價 68.8
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：晟田五\n證券代號
  ：45415\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/09/30\n競拍方式：美國標\n競拍數量(張)：2\,550\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：255\n主辦券商：凱基\n投標開始日：2026
- /09/04\n投標結束日：2026/09/08\n開標日期：2026/09/10\n撥券日
- 期：2026/09/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：68.8（來源：競拍公告）\n拆解日：2026/09/
+ 30\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：255\n主辦券商：凱基\n投標開始日：2026/09/04\n投標
+ 結束日：2026/09/08\n開標日期：2026/09/10\n撥券日期：2026/09/2
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59844,20 +59840,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bbe9cd11e7e406c8943c3d7eacc732d926d0b2d7@twse-auction-calendar
-DTSTAMP:20240107T022623Z
+DTSTAMP:20290731T093540Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:[TWSE競拍] 晟田五(45415) 拆解日
+SUMMARY:[TWSE競拍] 晟田五(45415) 拆解日｜轉換價 68.8
 DESCRIPTION:事件：拆解日\n證券名稱：晟田五\n證券代號：45
  415\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/09/30\n競拍方式：美國標\n競拍數量(
- 張)：2\,550\n最低投標價格(元)：100\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：255\n主辦券商：凱基\n投標
- 開始日：2026/09/04\n投標結束日：2026/09/08\n開標日期：2026/0
- 9/10\n撥券日期：2026/09/21\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 轉換價(元)：68.8（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/09/30\n競拍方式：美國標\n競拍數量(張)：2\,550\n最
+ 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：255\n主辦券商：凱基\n投標開始日：2026/09
+ /04\n投標結束日：2026/09/08\n開標日期：2026/09/10\n撥券日期
+ ：2026/09/21\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
