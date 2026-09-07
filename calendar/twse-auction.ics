@@ -59399,13 +59399,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f703d9245f5924c89c7eaa2d8842aa261260bc89@twse-auction-calendar
-DTSTAMP:20400504T024350Z
+DTSTAMP:20440305T045904Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-SUMMARY:[TWSE競拍] 晶宏五(31415) 投標開始｜轉換價 63.01
+SUMMARY:[TWSE競拍] 晶宏五(31415) 投標開始｜轉換價 82.23
 DESCRIPTION:事件：投標開始\n證券名稱：晶宏五\n證券代號
  ：31415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10
+ 債\n轉換價(元)：82.23（來源：競拍公告）\n拆解日：2026/10
  /01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
  格(元)：103.5\n最低每標單投標數量(張)：1\n最高投(得)標
  數量(張)：425\n主辦券商：統一\n投標開始日：2026/09/07\n投
@@ -59473,19 +59473,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1b8f111831d0b123ae620aff831e8bbabb002c62@twse-auction-calendar
-DTSTAMP:20310621T044041Z
+DTSTAMP:20370512T180959Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-SUMMARY:[TWSE競拍] 辛耘四(35834) 投標開始
+SUMMARY:[TWSE競拍] 辛耘四(35834) 投標開始｜轉換價 825
 DESCRIPTION:事件：投標開始\n證券名稱：辛耘四\n證券代號
  ：35834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\
- n最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
- ：2026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥
- 券日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：825（來源：競拍公告）\n拆解日：2026/10/0
+ 1\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投標價
+ 格(元)：107\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/07\n投
+ 標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
+ 9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59510,13 +59509,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:be61059c1fc176e8b392f2408d16165641179864@twse-auction-calendar
-DTSTAMP:20310503T115804Z
+DTSTAMP:20241015T210334Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:[TWSE競拍] 晶宏五(31415) 投標截止｜轉換價 63.01
+SUMMARY:[TWSE競拍] 晶宏五(31415) 投標截止｜轉換價 82.23
 DESCRIPTION:事件：投標截止\n證券名稱：晶宏五\n證券代號
  ：31415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10
+ 債\n轉換價(元)：82.23（來源：競拍公告）\n拆解日：2026/10
  /01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
  格(元)：103.5\n最低每標單投標數量(張)：1\n最高投(得)標
  數量(張)：425\n主辦券商：統一\n投標開始日：2026/09/07\n投
@@ -59545,19 +59544,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c97898f11e9d3f80b13ef607c20c4b12b342e707@twse-auction-calendar
-DTSTAMP:20260504T095955Z
+DTSTAMP:20461115T230726Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:[TWSE競拍] 辛耘四(35834) 投標截止
+SUMMARY:[TWSE競拍] 辛耘四(35834) 投標截止｜轉換價 825
 DESCRIPTION:事件：投標截止\n證券名稱：辛耘四\n證券代號
  ：35834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\
- n最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
- ：2026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥
- 券日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：825（來源：競拍公告）\n拆解日：2026/10/0
+ 1\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投標價
+ 格(元)：107\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/07\n投
+ 標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
+ 9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59657,13 +59655,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20246ea557bdf0fda72078984fb6c2fa19a694b8@twse-auction-calendar
-DTSTAMP:20000208T061342Z
+DTSTAMP:20400412T151917Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:[TWSE競拍] 晶宏五(31415) 開標｜轉換價 63.01
+SUMMARY:[TWSE競拍] 晶宏五(31415) 開標｜轉換價 82.23
 DESCRIPTION:事件：開標\n證券名稱：晶宏五\n證券代號：31415
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10/01\n競
+ 換價(元)：82.23（來源：競拍公告）\n拆解日：2026/10/01\n競
  拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(元)
  ：103.5\n最低每標單投標數量(張)：1\n最高投(得)標數量(張
  )：425\n主辦券商：統一\n投標開始日：2026/09/07\n投標結束
@@ -59692,19 +59690,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cc16462be1627cc9ab1ebfab45ba825547b0a280@twse-auction-calendar
-DTSTAMP:20010825T121449Z
+DTSTAMP:20391107T212352Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:[TWSE競拍] 辛耘四(35834) 開標
+SUMMARY:[TWSE競拍] 辛耘四(35834) 開標｜轉換價 825
 DESCRIPTION:事件：開標\n證券名稱：辛耘四\n證券代號：35834
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\n最
- 低投標價格(元)：107\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日：2026
- /09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日
- 期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 換價(元)：825（來源：競拍公告）\n拆解日：2026/10/01\n競
+ 拍方式：美國標\n競拍數量(張)：13\,500\n最低投標價格(元)
+ ：107\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：1\,350\n主辦券商：元大\n投標開始日：2026/09/07\n投標結
+ 束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/09/22\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59786,13 +59783,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d9e3c50b9bb04db7dc3ad2b1b66faec78d7d9fbb@twse-auction-calendar
-DTSTAMP:20051221T002733Z
+DTSTAMP:20130601T032213Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:[TWSE競拍] 晶宏五(31415) 撥券/掛牌｜轉換價 63.01
+SUMMARY:[TWSE競拍] 晶宏五(31415) 撥券/掛牌｜轉換價 82.23
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：晶宏五\n證券代號
  ：31415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：63.01（來源：承銷公告）\n拆解日：2026/10
+ 債\n轉換價(元)：82.23（來源：競拍公告）\n拆解日：2026/10
  /01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價
  格(元)：103.5\n最低每標單投標數量(張)：1\n最高投(得)標
  數量(張)：425\n主辦券商：統一\n投標開始日：2026/09/07\n投
@@ -59821,19 +59818,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fc149e704688642680c9ea4bd6c93033608d6db7@twse-auction-calendar
-DTSTAMP:20040611T040956Z
+DTSTAMP:20280604T033635Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:[TWSE競拍] 辛耘四(35834) 撥券/掛牌
+SUMMARY:[TWSE競拍] 辛耘四(35834) 撥券/掛牌｜轉換價 825
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：辛耘四\n證券代號
  ：35834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\
- n最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
- ：2026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥
- 券日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：825（來源：競拍公告）\n拆解日：2026/10/0
+ 1\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投標價
+ 格(元)：107\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/07\n投
+ 標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
+ 9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59860,13 +59856,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:305a31ec35ae91b54a5cdd83668e50a0f775d6b2@twse-auction-calendar
-DTSTAMP:20251230T194750Z
+DTSTAMP:20450919T230857Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:[TWSE競拍] 晶宏五(31415) 拆解日｜轉換價 63.01
+SUMMARY:[TWSE競拍] 晶宏五(31415) 拆解日｜轉換價 82.23
 DESCRIPTION:事件：拆解日\n證券名稱：晶宏五\n證券代號：31
  415\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：63.01（來源：承銷公告）\n拆解日說明：掛牌
+ 轉換價(元)：82.23（來源：競拍公告）\n拆解日說明：掛牌
  日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
  日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：4\,250\n最
  低投標價格(元)：103.5\n最低每標單投標數量(張)：1\n最高
@@ -59880,20 +59876,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3e865ec9d2a41125efd8fae63a3716514547bb54@twse-auction-calendar
-DTSTAMP:20210420T023324Z
+DTSTAMP:20030321T145055Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:[TWSE競拍] 辛耘四(35834) 拆解日
+SUMMARY:[TWSE競拍] 辛耘四(35834) 拆解日｜轉換價 825
 DESCRIPTION:事件：拆解日\n證券名稱：辛耘四\n證券代號：35
  834\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/10/01\n競拍方式：美國標\n競拍數量(
- 張)：13\,500\n最低投標價格(元)：107\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：1\,350\n主辦券商：元大\n投
- 標開始日：2026/09/07\n投標結束日：2026/09/09\n開標日期：202
- 6/09/11\n撥券日期：2026/09/22\n資料來源：https://www.twse.com.tw/
- zh/announcement/auction.html
+ 轉換價(元)：825（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/10/01\n競拍方式：美國標\n競拍數量(張)：13\,500\n
+ 最低投標價格(元)：107\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日：2
+ 026/09/07\n投標結束日：2026/09/09\n開標日期：2026/09/11\n撥券
+ 日期：2026/09/22\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

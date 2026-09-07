@@ -4963,5 +4963,35 @@
     "base_price": "66.72",
     "premium_rate": 103.1,
     "attempts": 0
+  },
+  {
+    "company": "晶宏半導體股份有限公司",
+    "source": "Auction",
+    "seq": "115067",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/09/07",
+    "bid_end": "2026/09/09",
+    "min_price": "103.50",
+    "conversion_price": "82.23",
+    "base_price": "80.62",
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
+    "company": "辛耘企業股份有限公司",
+    "source": "Auction",
+    "seq": "115065",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/09/07",
+    "bid_end": "2026/09/09",
+    "min_price": "107.00",
+    "conversion_price": "825",
+    "base_price": "773",
+    "premium_rate": 106.73,
+    "attempts": 0
   }
 ]
