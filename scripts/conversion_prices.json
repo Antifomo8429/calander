@@ -4993,5 +4993,18 @@
     "base_price": "773",
     "premium_rate": 106.73,
     "attempts": 0
+  },
+  {
+    "company": "增你強股份有限公司",
+    "source": "Auction",
+    "seq": "115068",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/09/10",
+    "bid_end": "2026/09/14",
+    "min_price": "101.00",
+    "conversion_price": null,
+    "attempts": 1
   }
 ]
