@@ -4960,7 +4960,7 @@
     "bid_end": "",
     "min_price": "",
     "conversion_price": null,
-    "attempts": 1
+    "attempts": 2
   },
   {
     "company": "晟田科技工業股份有限公司",
@@ -5018,7 +5018,7 @@
     "bid_end": "2026/09/14",
     "min_price": "101.00",
     "conversion_price": null,
-    "attempts": 3
+    "attempts": 4
   },
   {
     "company": "星宇航空股份有限公司",
