@@ -59673,19 +59673,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:766045c7eadc65872ef01d971d02cabaa187d11d@twse-auction-calendar
-DTSTAMP:20370826T185031Z
+DTSTAMP:20470803T192446Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:[TWSE競拍] 星宇航空二(26462) 投標開始
+SUMMARY:[TWSE競拍] 星宇航空二(26462) 投標開始｜轉換價 21.2
 DESCRIPTION:事件：投標開始\n證券名稱：星宇航空二\n證券
  代號：26462\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/10/07\n競拍方式：美國標\n競拍數量(張)：
- 13\,500\n最低投標價格(元)：100\n最低每標單投標數量(張)：
- 1\n最高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開
- 始日：2026/09/11\n投標結束日：2026/09/15\n開標日期：2026/09/1
- 7\n撥券日期：2026/09/30\n資料來源：https://www.twse.com.tw/zh/ann
- ouncement/auction.html
+ 公司債\n轉換價(元)：21.2（來源：競拍公告）\n拆解日：20
+ 26/10/07\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投
+ 標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/1
+ 1\n投標結束日：2026/09/15\n開標日期：2026/09/17\n撥券日期：
+ 2026/09/30\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59783,19 +59783,38 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5a4419533af6d8ce5fc996752d0020b44ff1b0b8@twse-auction-calendar
-DTSTAMP:20200513T125432Z
+DTSTAMP:20291113T002916Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:[TWSE競拍] 星宇航空二(26462) 投標截止
+SUMMARY:[TWSE競拍] 星宇航空二(26462) 投標截止｜轉換價 21.2
 DESCRIPTION:事件：投標截止\n證券名稱：星宇航空二\n證券
  代號：26462\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/10/07\n競拍方式：美國標\n競拍數量(張)：
- 13\,500\n最低投標價格(元)：100\n最低每標單投標數量(張)：
- 1\n最高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開
- 始日：2026/09/11\n投標結束日：2026/09/15\n開標日期：2026/09/1
- 7\n撥券日期：2026/09/30\n資料來源：https://www.twse.com.tw/zh/ann
- ouncement/auction.html
+ 公司債\n轉換價(元)：21.2（來源：競拍公告）\n拆解日：20
+ 26/10/07\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投
+ 標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/1
+ 1\n投標結束日：2026/09/15\n開標日期：2026/09/17\n撥券日期：
+ 2026/09/30\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd425a239bf537f41ee7c65d2d5c025050c06e9@twse-auction-calendar
+DTSTAMP:20121005T164149Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：晶豪科二\n證券代
+ 號：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,2
+ 90\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始
+ 日：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n
+ 撥券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59857,19 +59876,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:88cd9a9a348dc68b0699353b5ecc4d7d265f30f1@twse-auction-calendar
-DTSTAMP:20250727T022846Z
+DTSTAMP:20140605T132328Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:[TWSE競拍] 星宇航空二(26462) 開標
+SUMMARY:[TWSE競拍] 星宇航空二(26462) 開標｜轉換價 21.2
 DESCRIPTION:事件：開標\n證券名稱：星宇航空二\n證券代號
  ：26462\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/07\n競拍方式：美國標\n競拍數量(張)：13\,500\
- n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始日
- ：2026/09/11\n投標結束日：2026/09/15\n開標日期：2026/09/17\n撥
- 券日期：2026/09/30\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 債\n轉換價(元)：21.2（來源：競拍公告）\n拆解日：2026/10/
+ 07\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/11\n投
+ 標結束日：2026/09/15\n開標日期：2026/09/17\n撥券日期：2026/0
+ 9/30\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2beb0188f1caf4c13fadb30518b48ca7659f23ec@twse-auction-calendar
+DTSTAMP:20240603T181220Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：晶豪科二\n證券代
+ 號：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,2
+ 90\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始
+ 日：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n
+ 撥券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59888,6 +59925,25 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：晟田五\n證券代號
  量(張)：255\n主辦券商：凱基\n投標開始日：2026/09/04\n投標
  結束日：2026/09/08\n開標日期：2026/09/10\n撥券日期：2026/09/2
  1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2c33f6b763c5afd1b81ae661ee3249fb02476a@twse-auction-calendar
+DTSTAMP:20080624T193639Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 開標
+DESCRIPTION:事件：開標\n證券名稱：晶豪科二\n證券代號：30
+ 062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,290\n
+ 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始日：2
+ 026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n撥券
+ 日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59965,19 +60021,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fafd31d8c6c1bed5709cba82e2af6471e834ec50@twse-auction-calendar
-DTSTAMP:20230806T234103Z
+DTSTAMP:20071219T152122Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:[TWSE競拍] 星宇航空二(26462) 撥券/掛牌
+SUMMARY:[TWSE競拍] 星宇航空二(26462) 撥券/掛牌｜轉換價 21.2
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：星宇航空二\n證券
  代號：26462\n發行市場：櫃檯買賣\n發行性質：無擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/10/07\n競拍方式：美國標\n競拍數量(張)：
- 13\,500\n最低投標價格(元)：100\n最低每標單投標數量(張)：
- 1\n最高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開
- 始日：2026/09/11\n投標結束日：2026/09/15\n開標日期：2026/09/1
- 7\n撥券日期：2026/09/30\n資料來源：https://www.twse.com.tw/zh/ann
- ouncement/auction.html
+ 公司債\n轉換價(元)：21.2（來源：競拍公告）\n拆解日：20
+ 26/10/07\n競拍方式：美國標\n競拍數量(張)：13\,500\n最低投
+ 標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/1
+ 1\n投標結束日：2026/09/15\n開標日期：2026/09/17\n撥券日期：
+ 2026/09/30\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60043,6 +60099,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:c575374703778a4d2a424a6ba0bc07bb0a0a29b3@twse-auction-calendar
+DTSTAMP:20480708T035509Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：晶豪科二\n證券代
+ 號：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,2
+ 90\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始
+ 日：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n
+ 撥券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7f7e843d3c8495dfc947d094dac69f83eb4742d2@twse-auction-calendar
 DTSTAMP:20210706T191006Z
 DTSTART;VALUE=DATE:20261006
@@ -60064,20 +60139,40 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bdbffcf3f2ce1779a322e4a903a1c40949c21ab0@twse-auction-calendar
-DTSTAMP:20331227T112843Z
+DTSTAMP:20280321T231427Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:[TWSE競拍] 星宇航空二(26462) 拆解日
+SUMMARY:[TWSE競拍] 星宇航空二(26462) 拆解日｜轉換價 21.2
 DESCRIPTION:事件：拆解日\n證券名稱：星宇航空二\n證券代
  號：26462\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第
-  6 個交易日\n拆解日：2026/10/07\n競拍方式：美國標\n競拍
- 數量(張)：13\,500\n最低投標價格(元)：100\n最低每標單投標
- 數量(張)：1\n最高投(得)標數量(張)：1\,350\n主辦券商：元
- 大\n投標開始日：2026/09/11\n投標結束日：2026/09/15\n開標日
- 期：2026/09/17\n撥券日期：2026/09/30\n資料來源：https://www.tws
- e.com.tw/zh/announcement/auction.html
+ 司債\n轉換價(元)：21.2（來源：競拍公告）\n拆解日說明
+ ：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日
+ \n拆解日：2026/10/07\n競拍方式：美國標\n競拍數量(張)：13\
+ ,500\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：1\,350\n主辦券商：元大\n投標開始
+ 日：2026/09/11\n投標結束日：2026/09/15\n開標日期：2026/09/17\n
+ 撥券日期：2026/09/30\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26d03d267e829fd3b113de062fb3a4960af2e280@twse-auction-calendar
+DTSTAMP:20090510T041658Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：晶豪科二\n證券代號
+ ：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
+ 個交易日\n拆解日：2026/10/12\n競拍方式：美國標\n競拍數
+ 量(張)：17\,290\n最低投標價格(元)：102\n最低每標單投標數
+ 量(張)：1\n最高投(得)標數量(張)：1\,729\n主辦券商：凱基\
+ n投標開始日：2026/09/15\n投標結束日：2026/09/17\n開標日期
+ ：2026/09/21\n撥券日期：2026/10/02\n資料來源：https://www.twse.c
+ om.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

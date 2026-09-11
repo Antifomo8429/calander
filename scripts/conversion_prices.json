@@ -4950,6 +4950,19 @@
     "attempts": 0
   },
   {
+    "company": "威剛科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115362",
+    "underwriter": "群益金鼎證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/04",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
+  },
+  {
     "company": "晟田科技工業股份有限公司",
     "source": "Auction",
     "seq": "115066",
@@ -5005,6 +5018,21 @@
     "bid_end": "2026/09/14",
     "min_price": "101.00",
     "conversion_price": null,
-    "attempts": 2
+    "attempts": 3
+  },
+  {
+    "company": "星宇航空股份有限公司",
+    "source": "Auction",
+    "seq": "115069",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/09/11",
+    "bid_end": "2026/09/15",
+    "min_price": "100.00",
+    "conversion_price": "21.2",
+    "base_price": "20.63",
+    "premium_rate": 103.0,
+    "attempts": 0
   }
 ]
