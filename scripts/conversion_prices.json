@@ -4950,6 +4950,21 @@
     "attempts": 0
   },
   {
+    "company": "晟田科技工業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115372",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/09/01",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "68.8",
+    "base_price": "66.72",
+    "premium_rate": 103.1,
+    "attempts": 0
+  },
+  {
     "company": "威剛科技股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115362",
