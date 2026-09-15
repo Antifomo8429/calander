@@ -4965,6 +4965,21 @@
     "attempts": 0
   },
   {
+    "company": "晟田科技工業股份有限公司(第五次)",
+    "source": "UnderwritingNotice",
+    "seq": "115372",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/09/01",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "68.8",
+    "base_price": "66.72",
+    "premium_rate": 103.1,
+    "attempts": 0
+  },
+  {
     "company": "威剛科技股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115362",
@@ -5023,6 +5038,51 @@
     "attempts": 0
   },
   {
+    "company": "晟田科技工業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115374",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/08",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "62.8",
+    "base_price": "59.38",
+    "premium_rate": 105.8,
+    "attempts": 0
+  },
+  {
+    "company": "晶宏半導體股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115366",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/08",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "82.23",
+    "base_price": "80.62",
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
+    "company": "辛耘企業股份有限公司(第四次)",
+    "source": "UnderwritingNotice",
+    "seq": "115365",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/09",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "825",
+    "base_price": "773",
+    "premium_rate": 106.73,
+    "attempts": 0
+  },
+  {
     "company": "增你強股份有限公司",
     "source": "Auction",
     "seq": "115068",
@@ -5048,6 +5108,21 @@
     "conversion_price": "21.2",
     "base_price": "20.63",
     "premium_rate": 103.0,
+    "attempts": 0
+  },
+  {
+    "company": "晶豪科技股份有限公司",
+    "source": "Auction",
+    "seq": "115070",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/09/15",
+    "bid_end": "2026/09/17",
+    "min_price": "102.00",
+    "conversion_price": "308",
+    "base_price": "300.67",
+    "premium_rate": 102.44,
     "attempts": 0
   }
 ]

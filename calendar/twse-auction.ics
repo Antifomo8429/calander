@@ -59782,19 +59782,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3fd425a239bf537f41ee7c65d2d5c025050c06e9@twse-auction-calendar
-DTSTAMP:20121005T164149Z
+DTSTAMP:20470423T034015Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:[TWSE競拍] 晶豪科二(30062) 投標開始
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 投標開始｜轉換價 308
 DESCRIPTION:事件：投標開始\n證券名稱：晶豪科二\n證券代
  號：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,2
- 90\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始
- 日：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n
- 撥券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：308（來源：競拍公告）\n拆解日：2026/1
+ 0/12\n競拍方式：美國標\n競拍數量(張)：17\,290\n最低投標
+ 價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：1\,729\n主辦券商：凱基\n投標開始日：2026/09/15\n
+ 投標結束日：2026/09/17\n開標日期：2026/09/21\n撥券日期：202
+ 6/10/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59830,6 +59830,42 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：床的世界\n證券代
  \n主辦券商：統一\n投標開始日：2026/09/01\n投標結束日：20
  26/09/03\n開標日期：2026/09/07\n撥券日期：2026/09/16\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb18cc9283b9e2ef73d7b7e19581717b52f5435@twse-auction-calendar
+DTSTAMP:20320329T131234Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:[TWSE競拍] 儒億(6604) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：儒億\n證券代號：66
+ 04\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：5\,040\n最低投標價格(元)：20\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：640\n主辦
+ 券商：永豐金\n投標開始日：2026/09/17\n投標結束日：2026/09
+ /21\n開標日期：2026/09/23\n撥券日期：2026/10/06\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb32ebe3f90ecfb3ed0073f9cb4c02e92eefebf3@twse-auction-calendar
+DTSTAMP:20140729T095155Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：可寧衛三\n證券代
+ 號：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,5
+ 00\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標
+ 開始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/0
+ 9/23\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59874,19 +59910,55 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2beb0188f1caf4c13fadb30518b48ca7659f23ec@twse-auction-calendar
-DTSTAMP:20240603T181220Z
+DTSTAMP:20400408T013259Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:[TWSE競拍] 晶豪科二(30062) 投標截止
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 投標截止｜轉換價 308
 DESCRIPTION:事件：投標截止\n證券名稱：晶豪科二\n證券代
  號：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
+ 司債\n轉換價(元)：308（來源：競拍公告）\n拆解日：2026/1
+ 0/12\n競拍方式：美國標\n競拍數量(張)：17\,290\n最低投標
+ 價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：1\,729\n主辦券商：凱基\n投標開始日：2026/09/15\n
+ 投標結束日：2026/09/17\n開標日期：2026/09/21\n撥券日期：202
+ 6/10/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd4423d03596f3f2bc84ffee3945456428bdbf9@twse-auction-calendar
+DTSTAMP:20270731T043635Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:[TWSE競拍] 儒億(6604) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：儒億\n證券代號：66
+ 04\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：5\,040\n最低投標價格(元)：20\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：640\n主辦
+ 券商：永豐金\n投標開始日：2026/09/17\n投標結束日：2026/09
+ /21\n開標日期：2026/09/23\n撥券日期：2026/10/06\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9949e7576850b693f6d3db2c4d847b3ddbb1155@twse-auction-calendar
+DTSTAMP:20461228T034433Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：可寧衛三\n證券代
+ 號：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
  司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,2
- 90\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始
- 日：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n
- 撥券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 拆解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,5
+ 00\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標
+ 開始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/0
+ 9/23\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59911,19 +59983,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2c33f6b763c5afd1b81ae661ee3249fb02476a@twse-auction-calendar
-DTSTAMP:20080624T193639Z
+DTSTAMP:20020708T203224Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:[TWSE競拍] 晶豪科二(30062) 開標
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 開標｜轉換價 308
 DESCRIPTION:事件：開標\n證券名稱：晶豪科二\n證券代號：30
  062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,290\n
- 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始日：2
- 026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n撥券
- 日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 轉換價(元)：308（來源：競拍公告）\n拆解日：2026/10/12\n
+ 競拍方式：美國標\n競拍數量(張)：17\,290\n最低投標價格(
+ 元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：1\,729\n主辦券商：凱基\n投標開始日：2026/09/15\n投標
+ 結束日：2026/09/17\n開標日期：2026/09/21\n撥券日期：2026/10/0
+ 2\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59977,6 +60048,42 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：辛耘四\n證券代號
  量(張)：1\,350\n主辦券商：元大\n投標開始日：2026/09/07\n投
  標結束日：2026/09/09\n開標日期：2026/09/11\n撥券日期：2026/0
  9/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0cae4d1ec49cc526ef979f1d6ef15c5724100d@twse-auction-calendar
+DTSTAMP:20341101T223710Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[TWSE競拍] 儒億(6604) 開標
+DESCRIPTION:事件：開標\n證券名稱：儒億\n證券代號：6604\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：5\,040\n最低投標價格(元)：20\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：640\n主辦券
+ 商：永豐金\n投標開始日：2026/09/17\n投標結束日：2026/09/21
+ \n開標日期：2026/09/23\n撥券日期：2026/10/06\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06daeae1b4b98392707144f91876b11fabc877fa@twse-auction-calendar
+DTSTAMP:20370923T211447Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 開標
+DESCRIPTION:事件：開標\n證券名稱：可寧衛三\n證券代號：84
+ 223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,500\n
+ 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標開始
+ 日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/09/23\n
+ 撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60080,19 +60187,55 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c575374703778a4d2a424a6ba0bc07bb0a0a29b3@twse-auction-calendar
-DTSTAMP:20480708T035509Z
+DTSTAMP:20271211T101209Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:[TWSE競拍] 晶豪科二(30062) 撥券/掛牌
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 撥券/掛牌｜轉換價 308
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：晶豪科二\n證券代
  號：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
+ 司債\n轉換價(元)：308（來源：競拍公告）\n拆解日：2026/1
+ 0/12\n競拍方式：美國標\n競拍數量(張)：17\,290\n最低投標
+ 價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：1\,729\n主辦券商：凱基\n投標開始日：2026/09/15\n
+ 投標結束日：2026/09/17\n開標日期：2026/09/21\n撥券日期：202
+ 6/10/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f6902922ab307c51cc51a30e8e16952340f64f@twse-auction-calendar
+DTSTAMP:20290705T153954Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:[TWSE競拍] 儒億(6604) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：儒億\n證券代號：6
+ 604\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：5\,040\n最低投標價格(元)：20\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：640\n主辦
+ 券商：永豐金\n投標開始日：2026/09/17\n投標結束日：2026/09
+ /21\n開標日期：2026/09/23\n撥券日期：2026/10/06\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea8948cb410fbc5d40e6a06d9d0b58e39fe9b8a4@twse-auction-calendar
+DTSTAMP:20320323T080341Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：可寧衛三\n證券代
+ 號：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
  司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,2
- 90\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始
- 日：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n
- 撥券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 拆解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,5
+ 00\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標
+ 開始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/0
+ 9/23\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60139,20 +60282,40 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:26d03d267e829fd3b113de062fb3a4960af2e280@twse-auction-calendar
-DTSTAMP:20090510T041658Z
+DTSTAMP:20370927T215117Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:[TWSE競拍] 晶豪科二(30062) 拆解日
+SUMMARY:[TWSE競拍] 晶豪科二(30062) 拆解日｜轉換價 308
 DESCRIPTION:事件：拆解日\n證券名稱：晶豪科二\n證券代號
  ：30062\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：308（來源：競拍公告）\n拆解日說明：掛
+ 牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆
+ 解日：2026/10/12\n競拍方式：美國標\n競拍數量(張)：17\,290\
+ n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：1\,729\n主辦券商：凱基\n投標開始日
+ ：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n撥
+ 券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da2c99e15e8530af6cde300cf6b938960aa8e887@twse-auction-calendar
+DTSTAMP:20261019T044335Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：可寧衛三\n證券代號
+ ：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
  債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
  解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
- 個交易日\n拆解日：2026/10/12\n競拍方式：美國標\n競拍數
- 量(張)：17\,290\n最低投標價格(元)：102\n最低每標單投標數
- 量(張)：1\n最高投(得)標數量(張)：1\,729\n主辦券商：凱基\
- n投標開始日：2026/09/15\n投標結束日：2026/09/17\n開標日期
- ：2026/09/21\n撥券日期：2026/10/02\n資料來源：https://www.twse.c
- om.tw/zh/announcement/auction.html
+ 個交易日\n拆解日：2026/10/14\n競拍方式：美國標\n競拍數
+ 量(張)：22\,500\n最低投標價格(元)：100\n最低每標單投標數
+ 量(張)：1\n最高投(得)標數量(張)：2\,250\n主辦券商：中國
+ 信託\n投標開始日：2026/09/17\n投標結束日：2026/09/21\n開標
+ 日期：2026/09/23\n撥券日期：2026/10/06\n資料來源：https://www.
+ twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
