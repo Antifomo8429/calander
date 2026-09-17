@@ -52691,19 +52691,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:75d82f94e97e1d40ed3f97ad670b1b99ea730bab@twse-auction-calendar
-DTSTAMP:20490328T161155Z
+DTSTAMP:20160607T112011Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260306
 SUMMARY:[TWSE競拍] 聯上六(41136) 投標開始｜轉換價 20.45
 DESCRIPTION:事件：投標開始\n證券名稱：聯上六\n證券代號
  ：41136\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：20.45（來源：競拍公告）\n拆解日：2026/03
- /27\n競拍方式：美國標\n競拍數量(張)：1\,810\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：181\n主辦券商：合作金庫證券\n投標開始日：2026/0
- 3/05\n投標結束日：2026/03/09\n開標日期：2026/03/11\n撥券日期
- ：2026/03/20\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 債\n轉換價(元)：20.45（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：1\,810\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：181\n主辦
+ 券商：合作金庫證券\n投標開始日：2026/03/05\n投標結束日
+ ：2026/03/09\n開標日期：2026/03/11\n撥券日期：2026/03/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52782,19 +52781,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fdeca8692e38bb0d8b3583d0a029734958be5dae@twse-auction-calendar
-DTSTAMP:20250120T005730Z
+DTSTAMP:20370801T210735Z
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260310
 SUMMARY:[TWSE競拍] 聯上六(41136) 投標截止｜轉換價 20.45
 DESCRIPTION:事件：投標截止\n證券名稱：聯上六\n證券代號
  ：41136\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：20.45（來源：競拍公告）\n拆解日：2026/03
- /27\n競拍方式：美國標\n競拍數量(張)：1\,810\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：181\n主辦券商：合作金庫證券\n投標開始日：2026/0
- 3/05\n投標結束日：2026/03/09\n開標日期：2026/03/11\n撥券日期
- ：2026/03/20\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 債\n轉換價(元)：20.45（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：1\,810\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：181\n主辦
+ 券商：合作金庫證券\n投標開始日：2026/03/05\n投標結束日
+ ：2026/03/09\n開標日期：2026/03/11\n撥券日期：2026/03/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52943,19 +52941,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:53a2678977da440a7e0b36539cf05d9272c21876@twse-auction-calendar
-DTSTAMP:20330316T104552Z
+DTSTAMP:20051111T002758Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:[TWSE競拍] 聯上六(41136) 開標｜轉換價 20.45
 DESCRIPTION:事件：開標\n證券名稱：聯上六\n證券代號：41136
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：20.45（來源：競拍公告）\n拆解日：2026/03/27\n競
- 拍方式：美國標\n競拍數量(張)：1\,810\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：181\n主辦券商：合作金庫證券\n投標開始日：2026/03/05\n
- 投標結束日：2026/03/09\n開標日期：2026/03/11\n撥券日期：202
- 6/03/20\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 換價(元)：20.45（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：1\,810\n最低投標價格(元)：100\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：181\n主辦券商：
+ 合作金庫證券\n投標開始日：2026/03/05\n投標結束日：2026/03
+ /09\n開標日期：2026/03/11\n撥券日期：2026/03/20\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53328,19 +53325,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bc805864f2bc36869a47e8031abea506ad5c8d2b@twse-auction-calendar
-DTSTAMP:20441012T110012Z
+DTSTAMP:20071024T081159Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:[TWSE競拍] 聯上六(41136) 撥券/掛牌｜轉換價 20.45
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：聯上六\n證券代號
  ：41136\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：20.45（來源：競拍公告）\n拆解日：2026/03
- /27\n競拍方式：美國標\n競拍數量(張)：1\,810\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：181\n主辦券商：合作金庫證券\n投標開始日：2026/0
- 3/05\n投標結束日：2026/03/09\n開標日期：2026/03/11\n撥券日期
- ：2026/03/20\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 債\n轉換價(元)：20.45（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：1\,810\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：181\n主辦
+ 券商：合作金庫證券\n投標開始日：2026/03/05\n投標結束日
+ ：2026/03/09\n開標日期：2026/03/11\n撥券日期：2026/03/20\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53499,26 +53495,6 @@ DESCRIPTION:事件：投標開始\n證券名稱：保瑞五\n證券代號
  張)：850\n主辦券商：台新\n投標開始日：2026/03/27\n投標結
  束日：2026/03/31\n開標日期：2026/04/02\n撥券日期：2026/04/15\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5ef5b68ecddbf4928a50d141ab3320b903670685@twse-auction-calendar
-DTSTAMP:20040415T090814Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-SUMMARY:[TWSE競拍] 聯上六(41136) 拆解日｜轉換價 20.45
-DESCRIPTION:事件：拆解日\n證券名稱：聯上六\n證券代號：41
- 136\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：20.45（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/03/27\n競拍方式：美國標\n競拍數量(張)：1\,810\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：181\n主辦券商：合作金庫證券\n投標開始
- 日：2026/03/05\n投標結束日：2026/03/09\n開標日期：2026/03/11\n
- 撥券日期：2026/03/20\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59810,19 +59786,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bb32ebe3f90ecfb3ed0073f9cb4c02e92eefebf3@twse-auction-calendar
-DTSTAMP:20140729T095155Z
+DTSTAMP:20240707T202447Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:[TWSE競拍] 可寧衛三(84223) 投標開始
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 投標開始｜轉換價 30
 DESCRIPTION:事件：投標開始\n證券名稱：可寧衛三\n證券代
  號：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,5
- 00\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標
- 開始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/0
- 9/23\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 司債\n轉換價(元)：30（來源：競拍公告）\n拆解日：2026/10
+ /14\n競拍方式：美國標\n競拍數量(張)：22\,500\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,250\n主辦券商：中國信託\n投標開始日：2026/09/1
+ 7\n投標結束日：2026/09/21\n開標日期：2026/09/23\n撥券日期：
+ 2026/10/06\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59903,19 +59879,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e9949e7576850b693f6d3db2c4d847b3ddbb1155@twse-auction-calendar
-DTSTAMP:20461228T034433Z
+DTSTAMP:20081001T204408Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:[TWSE競拍] 可寧衛三(84223) 投標截止
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 投標截止｜轉換價 30
 DESCRIPTION:事件：投標截止\n證券名稱：可寧衛三\n證券代
  號：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,5
- 00\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標
- 開始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/0
- 9/23\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 司債\n轉換價(元)：30（來源：競拍公告）\n拆解日：2026/10
+ /14\n競拍方式：美國標\n競拍數量(張)：22\,500\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,250\n主辦券商：中國信託\n投標開始日：2026/09/1
+ 7\n投標結束日：2026/09/21\n開標日期：2026/09/23\n撥券日期：
+ 2026/10/06\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60028,19 +60004,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:06daeae1b4b98392707144f91876b11fabc877fa@twse-auction-calendar
-DTSTAMP:20370923T211447Z
+DTSTAMP:20490812T193755Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:[TWSE競拍] 可寧衛三(84223) 開標
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 開標｜轉換價 30
 DESCRIPTION:事件：開標\n證券名稱：可寧衛三\n證券代號：84
  223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,500\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標開始
- 日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/09/23\n
- 撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 轉換價(元)：30（來源：競拍公告）\n拆解日：2026/10/14\n競
+ 拍方式：美國標\n競拍數量(張)：22\,500\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：2\,250\n主辦券商：中國信託\n投標開始日：2026/09/17\n投
+ 標結束日：2026/09/21\n開標日期：2026/09/23\n撥券日期：2026/1
+ 0/06\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60180,19 +60155,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ea8948cb410fbc5d40e6a06d9d0b58e39fe9b8a4@twse-auction-calendar
-DTSTAMP:20320323T080341Z
+DTSTAMP:20190409T071613Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:[TWSE競拍] 可寧衛三(84223) 撥券/掛牌
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 撥券/掛牌｜轉換價 30
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：可寧衛三\n證券代
  號：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,5
- 00\n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標
- 開始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/0
- 9/23\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 司債\n轉換價(元)：30（來源：競拍公告）\n拆解日：2026/10
+ /14\n競拍方式：美國標\n競拍數量(張)：22\,500\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：2\,250\n主辦券商：中國信託\n投標開始日：2026/09/1
+ 7\n投標結束日：2026/09/21\n開標日期：2026/09/23\n撥券日期：
+ 2026/10/06\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60259,20 +60234,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:da2c99e15e8530af6cde300cf6b938960aa8e887@twse-auction-calendar
-DTSTAMP:20261019T044335Z
+DTSTAMP:20410214T150235Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:[TWSE競拍] 可寧衛三(84223) 拆解日
+SUMMARY:[TWSE競拍] 可寧衛三(84223) 拆解日｜轉換價 30
 DESCRIPTION:事件：拆解日\n證券名稱：可寧衛三\n證券代號
  ：84223\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
- 個交易日\n拆解日：2026/10/14\n競拍方式：美國標\n競拍數
- 量(張)：22\,500\n最低投標價格(元)：100\n最低每標單投標數
- 量(張)：1\n最高投(得)標數量(張)：2\,250\n主辦券商：中國
- 信託\n投標開始日：2026/09/17\n投標結束日：2026/09/21\n開標
- 日期：2026/09/23\n撥券日期：2026/10/06\n資料來源：https://www.
- twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：30（來源：競拍公告）\n拆解日說明：掛
+ 牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆
+ 解日：2026/10/14\n競拍方式：美國標\n競拍數量(張)：22\,500\
+ n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：2\,250\n主辦券商：中國信託\n投標開
+ 始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/09/2
+ 3\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
