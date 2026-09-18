@@ -59512,18 +59512,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:52511676c2590ac3e0b4d6d91157acbec1451446@twse-auction-calendar
-DTSTAMP:20070715T220617Z
+DTSTAMP:20220714T230522Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-SUMMARY:[TWSE競拍] 增你強六(30286) 投標開始｜轉換價 78
+SUMMARY:[TWSE競拍] 增你強六(30286) 投標開始｜轉換價 67.8
 DESCRIPTION:事件：投標開始\n證券名稱：增你強六\n證券代
  號：30286\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：78（來源：承銷公告）\n拆解日：2026/10
- /06\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
- 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投標
- 結束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/09/2
- 9\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 司債\n轉換價(元)：67.8（來源：承銷公告）\n拆解日：2026/
+ 10/06\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標
+ 價格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投
+ 標結束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/0
+ 9/29\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59658,18 +59658,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f06836ca2e090e5b61dc178d794e3ec11e3bde1c@twse-auction-calendar
-DTSTAMP:20271006T080635Z
+DTSTAMP:20150721T165042Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:[TWSE競拍] 增你強六(30286) 投標截止｜轉換價 78
+SUMMARY:[TWSE競拍] 增你強六(30286) 投標截止｜轉換價 67.8
 DESCRIPTION:事件：投標截止\n證券名稱：增你強六\n證券代
  號：30286\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：78（來源：承銷公告）\n拆解日：2026/10
- /06\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
- 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投標
- 結束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/09/2
- 9\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 司債\n轉換價(元)：67.8（來源：承銷公告）\n拆解日：2026/
+ 10/06\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標
+ 價格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投
+ 標結束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/0
+ 9/29\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59734,18 +59734,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e15697a02d7eef1d84bc4b0e6c5eed3c260da0af@twse-auction-calendar
-DTSTAMP:20120603T170548Z
+DTSTAMP:20320426T073841Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-SUMMARY:[TWSE競拍] 增你強六(30286) 開標｜轉換價 78
+SUMMARY:[TWSE競拍] 增你強六(30286) 開標｜轉換價 67.8
 DESCRIPTION:事件：開標\n證券名稱：增你強六\n證券代號：30
  286\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：78（來源：承銷公告）\n拆解日：2026/10/06\n競
- 拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)
- ：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投標結束
- 日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/09/29\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 轉換價(元)：67.8（來源：承銷公告）\n拆解日：2026/10/06\n
+ 競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(
+ 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投標結
+ 束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/09/29\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60022,18 +60022,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:28ba33b19e5546389eb52b8d0687267ea79060a6@twse-auction-calendar
-DTSTAMP:20130702T065935Z
+DTSTAMP:20110822T195107Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-SUMMARY:[TWSE競拍] 增你強六(30286) 撥券/掛牌｜轉換價 78
+SUMMARY:[TWSE競拍] 增你強六(30286) 撥券/掛牌｜轉換價 67.8
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：增你強六\n證券代
  號：30286\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：78（來源：承銷公告）\n拆解日：2026/10
- /06\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價
- 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投標
- 結束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/09/2
- 9\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 司債\n轉換價(元)：67.8（來源：承銷公告）\n拆解日：2026/
+ 10/06\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標
+ 價格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：850\n主辦券商：富邦\n投標開始日：2026/09/10\n投
+ 標結束日：2026/09/14\n開標日期：2026/09/16\n撥券日期：2026/0
+ 9/29\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60174,20 +60174,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7f7e843d3c8495dfc947d094dac69f83eb4742d2@twse-auction-calendar
-DTSTAMP:20210706T191006Z
+DTSTAMP:20370611T232557Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:[TWSE競拍] 增你強六(30286) 拆解日｜轉換價 78
+SUMMARY:[TWSE競拍] 增你強六(30286) 拆解日｜轉換價 67.8
 DESCRIPTION:事件：拆解日\n證券名稱：增你強六\n證券代號
  ：30286\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：78（來源：承銷公告）\n拆解日說明：掛
- 牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆
- 解日：2026/10/06\n競拍方式：美國標\n競拍數量(張)：8\,500\n
- 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：850\n主辦券商：富邦\n投標開始日：2026
- /09/10\n投標結束日：2026/09/14\n開標日期：2026/09/16\n撥券日
- 期：2026/09/29\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：67.8（來源：承銷公告）\n拆解日說明：
+ 掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n
+ 拆解日：2026/10/06\n競拍方式：美國標\n競拍數量(張)：8\,50
+ 0\n最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：850\n主辦券商：富邦\n投標開始日：2
+ 026/09/10\n投標結束日：2026/09/14\n開標日期：2026/09/16\n撥券
+ 日期：2026/09/29\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

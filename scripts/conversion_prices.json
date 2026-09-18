@@ -5126,6 +5126,34 @@
     "attempts": 0
   },
   {
+    "company": "增你強股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115376",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/14",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "67.8",
+    "base_price": "64.7",
+    "premium_rate": 104.79,
+    "attempts": 0
+  },
+  {
+    "company": "星宇航空股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115377",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/14",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
+  },
+  {
     "company": "晶豪科技股份有限公司",
     "source": "Auction",
     "seq": "115070",
