@@ -5141,6 +5141,21 @@
     "attempts": 0
   },
   {
+    "company": "威宏控股股份有限公司(WW Holding Inc.)",
+    "source": "UnderwritingNotice",
+    "seq": "115380",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/14",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "48",
+    "base_price": null,
+    "premium_rate": null,
+    "attempts": 0
+  },
+  {
     "company": "星宇航空股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115377",
@@ -5152,6 +5167,21 @@
     "min_price": "",
     "conversion_price": null,
     "attempts": 5
+  },
+  {
+    "company": "星宇航空股份有限公司(第二次)",
+    "source": "UnderwritingNotice",
+    "seq": "115379",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/15",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "21.2",
+    "base_price": "20.63",
+    "premium_rate": 103.0,
+    "attempts": 0
   },
   {
     "company": "晶豪科技股份有限公司",
