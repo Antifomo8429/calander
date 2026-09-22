@@ -52833,18 +52833,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4fa96088404e68bfc4abcbcc3f2953fb2a4cef7b@twse-auction-calendar
-DTSTAMP:20120520T081539Z
+DTSTAMP:20460819T171859Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:[TWSE競拍] 逸達一(65761) 投標開始｜轉換價 84.3
 DESCRIPTION:事件：投標開始\n證券名稱：逸達一\n證券代號
  ：65761\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：84.3（來源：競拍公告）\n拆解日：2026/04/
- 01\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：340\n主辦券商：元富\n投標開始日：2026/03/10\n投標
- 結束日：2026/03/12\n開標日期：2026/03/16\n撥券日期：2026/03/2
- 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：84.3（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,400\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：340\n主辦
+ 券商：元富\n投標開始日：2026/03/10\n投標結束日：2026/03/12
+ \n開標日期：2026/03/16\n撥券日期：2026/03/25\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -52993,18 +52993,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ba925f083a21ae17d61758064e0c4e139c94a420@twse-auction-calendar
-DTSTAMP:20151224T222239Z
+DTSTAMP:20300218T032533Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
 SUMMARY:[TWSE競拍] 逸達一(65761) 投標截止｜轉換價 84.3
 DESCRIPTION:事件：投標截止\n證券名稱：逸達一\n證券代號
  ：65761\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：84.3（來源：競拍公告）\n拆解日：2026/04/
- 01\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：340\n主辦券商：元富\n投標開始日：2026/03/10\n投標
- 結束日：2026/03/12\n開標日期：2026/03/16\n撥券日期：2026/03/2
- 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：84.3（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,400\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：340\n主辦
+ 券商：元富\n投標開始日：2026/03/10\n投標結束日：2026/03/12
+ \n開標日期：2026/03/16\n撥券日期：2026/03/25\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53133,18 +53133,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c50057260beddc80bcd7fd33482debb2286c7972@twse-auction-calendar
-DTSTAMP:20270507T231122Z
+DTSTAMP:20260624T174904Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:[TWSE競拍] 逸達一(65761) 開標｜轉換價 84.3
 DESCRIPTION:事件：開標\n證券名稱：逸達一\n證券代號：65761
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：84.3（來源：競拍公告）\n拆解日：2026/04/01\n競
- 拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：340\n主辦券商：元富\n投標開始日：2026/03/10\n投標結束
- 日：2026/03/12\n開標日期：2026/03/16\n撥券日期：2026/03/25\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：84.3（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：3\,400\n最低投標價格(元)：100\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：340\n主辦券商：
+ 元富\n投標開始日：2026/03/10\n投標結束日：2026/03/12\n開標
+ 日期：2026/03/16\n撥券日期：2026/03/25\n資料來源：https://www.
+ twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53412,18 +53412,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f72aebc227f631bb63a6bb805b198ed2572bc9ac@twse-auction-calendar
-DTSTAMP:20130705T120554Z
+DTSTAMP:20200108T034049Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
 SUMMARY:[TWSE競拍] 逸達一(65761) 撥券/掛牌｜轉換價 84.3
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：逸達一\n證券代號
  ：65761\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：84.3（來源：競拍公告）\n拆解日：2026/04/
- 01\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：340\n主辦券商：元富\n投標開始日：2026/03/10\n投標
- 結束日：2026/03/12\n開標日期：2026/03/16\n撥券日期：2026/03/2
- 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：84.3（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,400\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：340\n主辦
+ 券商：元富\n投標開始日：2026/03/10\n投標結束日：2026/03/12
+ \n開標日期：2026/03/16\n撥券日期：2026/03/25\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53581,26 +53581,6 @@ DESCRIPTION:事件：投標開始\n證券名稱：神數\n證券代號：78
  112\n主辦券商：元大\n投標開始日：2026/04/01\n投標結束日
  ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:97a82b37c193ec24f66d605e536fb3891ad5f86c@twse-auction-calendar
-DTSTAMP:20370410T044805Z
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:[TWSE競拍] 逸達一(65761) 拆解日｜轉換價 84.3
-DESCRIPTION:事件：拆解日\n證券名稱：逸達一\n證券代號：65
- 761\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：84.3（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/04/01\n競拍方式：美國標\n競拍數量(張)：3\,400\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：340\n主辦券商：元富\n投標開始日：2026/03
- /10\n投標結束日：2026/03/12\n開標日期：2026/03/16\n撥券日期
- ：2026/03/25\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
