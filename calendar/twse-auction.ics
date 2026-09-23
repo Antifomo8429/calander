@@ -52904,19 +52904,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d09b45692a9142d3d55fae4b88f47e0f74d4d827@twse-auction-calendar
-DTSTAMP:20370120T124627Z
+DTSTAMP:20300314T143927Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:[TWSE競拍] 今皓二(30112) 投標開始｜轉換價 12.5
 DESCRIPTION:事件：投標開始\n證券名稱：今皓二\n證券代號
  ：30112\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：12.5（來源：競拍公告）\n拆解日：2026/04/
- 02\n競拍方式：美國標\n競拍數量(張)：3\,850\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：385\n主辦券商：群益金鼎\n投標開始日：2026/03/11\n
- 投標結束日：2026/03/13\n開標日期：2026/03/17\n撥券日期：202
- 6/03/26\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：12.5（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,850\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：385\n主辦
+ 券商：群益金鼎\n投標開始日：2026/03/11\n投標結束日：2026
+ /03/13\n開標日期：2026/03/17\n撥券日期：2026/03/26\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53028,19 +53027,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:edb4e3959d4bc904c6b2dfc216a6bd043a09e824@twse-auction-calendar
-DTSTAMP:20421009T160513Z
+DTSTAMP:20210127T145815Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:[TWSE競拍] 今皓二(30112) 投標截止｜轉換價 12.5
 DESCRIPTION:事件：投標截止\n證券名稱：今皓二\n證券代號
  ：30112\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：12.5（來源：競拍公告）\n拆解日：2026/04/
- 02\n競拍方式：美國標\n競拍數量(張)：3\,850\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：385\n主辦券商：群益金鼎\n投標開始日：2026/03/11\n
- 投標結束日：2026/03/13\n開標日期：2026/03/17\n撥券日期：202
- 6/03/26\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：12.5（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,850\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：385\n主辦
+ 券商：群益金鼎\n投標開始日：2026/03/11\n投標結束日：2026
+ /03/13\n開標日期：2026/03/17\n撥券日期：2026/03/26\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53186,18 +53184,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a99f2eae08eeb71923ad7884e4c5e0bf23f5dddc@twse-auction-calendar
-DTSTAMP:20290210T032536Z
+DTSTAMP:20421222T081702Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
 SUMMARY:[TWSE競拍] 今皓二(30112) 開標｜轉換價 12.5
 DESCRIPTION:事件：開標\n證券名稱：今皓二\n證券代號：30112
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：12.5（來源：競拍公告）\n拆解日：2026/04/02\n競
- 拍方式：美國標\n競拍數量(張)：3\,850\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：385\n主辦券商：群益金鼎\n投標開始日：2026/03/11\n投標
- 結束日：2026/03/13\n開標日期：2026/03/17\n撥券日期：2026/03/2
- 6\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：12.5（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：3\,850\n最低投標價格(元)：100\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：385\n主辦券商：
+ 群益金鼎\n投標開始日：2026/03/11\n投標結束日：2026/03/13\n
+ 開標日期：2026/03/17\n撥券日期：2026/03/26\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53447,19 +53445,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:719e503f1a8a441084ffdcd62fde2ef68793dc8e@twse-auction-calendar
-DTSTAMP:20080523T095709Z
+DTSTAMP:20190817T220900Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:[TWSE競拍] 今皓二(30112) 撥券/掛牌｜轉換價 12.5
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：今皓二\n證券代號
  ：30112\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：12.5（來源：競拍公告）\n拆解日：2026/04/
- 02\n競拍方式：美國標\n競拍數量(張)：3\,850\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：385\n主辦券商：群益金鼎\n投標開始日：2026/03/11\n
- 投標結束日：2026/03/13\n開標日期：2026/03/17\n撥券日期：202
- 6/03/26\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
- l
+ 債\n轉換價(元)：12.5（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,850\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：385\n主辦
+ 券商：群益金鼎\n投標開始日：2026/03/11\n投標結束日：2026
+ /03/13\n開標日期：2026/03/17\n撥券日期：2026/03/26\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53581,26 +53578,6 @@ DESCRIPTION:事件：投標開始\n證券名稱：神數\n證券代號：78
  112\n主辦券商：元大\n投標開始日：2026/04/01\n投標結束日
  ：2026/04/07\n開標日期：2026/04/09\n撥券日期：2026/04/20\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:3c1f1a5d17d6203b5dc4a9d075a30d4bc8562d40@twse-auction-calendar
-DTSTAMP:20310625T173820Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-SUMMARY:[TWSE競拍] 今皓二(30112) 拆解日｜轉換價 12.5
-DESCRIPTION:事件：拆解日\n證券名稱：今皓二\n證券代號：30
- 112\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：12.5（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/04/02\n競拍方式：美國標\n競拍數量(張)：3\,850\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：385\n主辦券商：群益金鼎\n投標開始日：2
- 026/03/11\n投標結束日：2026/03/13\n開標日期：2026/03/17\n撥券
- 日期：2026/03/26\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59999,6 +59976,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f491eff9433719e42f3bdcdd022e021d265f694c@twse-auction-calendar
+DTSTAMP:20271110T010943Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:[TWSE競拍] 精華生醫(7806) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：精華生醫\n證券代
+ 號：7806\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：4
+ 2.31\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 265\n主辦券商：永豐金\n投標開始日：2026/09/29\n投標結束
+ 日：2026/10/01\n開標日期：2026/10/05\n撥券日期：2026/10/15\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fafd31d8c6c1bed5709cba82e2af6471e834ec50@twse-auction-calendar
 DTSTAMP:20071219T152122Z
 DTSTART;VALUE=DATE:20260930
@@ -60058,6 +60052,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:7e815ce0c4c86775b0752a3b81a07c2ae4828839@twse-auction-calendar
+DTSTAMP:20250615T124302Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:[TWSE競拍] 精華生醫(7806) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：精華生醫\n證券代
+ 號：7806\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：4
+ 2.31\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 265\n主辦券商：永豐金\n投標開始日：2026/09/29\n投標結束
+ 日：2026/10/01\n開標日期：2026/10/05\n撥券日期：2026/10/15\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:3e865ec9d2a41125efd8fae63a3716514547bb54@twse-auction-calendar
 DTSTAMP:20030321T145055Z
 DTSTART;VALUE=DATE:20261001
@@ -60092,6 +60103,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：晶豪科二\n證券代
  投標結束日：2026/09/17\n開標日期：2026/09/21\n撥券日期：202
  6/10/02\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
  l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0df2c7a3230df0642604be5bc3e61eec8321f680@twse-auction-calendar
+DTSTAMP:20050109T101141Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:[TWSE競拍] 精華生醫(7806) 開標
+DESCRIPTION:事件：開標\n證券名稱：精華生醫\n證券代號：78
+ 06\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：42.31\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：265\n主
+ 辦券商：永豐金\n投標開始日：2026/09/29\n投標結束日：2026
+ /10/01\n開標日期：2026/10/05\n撥券日期：2026/10/15\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60208,6 +60236,23 @@ DESCRIPTION:事件：拆解日\n證券名稱：可寧衛三\n證券代號
  始日：2026/09/17\n投標結束日：2026/09/21\n開標日期：2026/09/2
  3\n撥券日期：2026/10/06\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6334699f7ccdb41e77399866a58e212fbaeb9932@twse-auction-calendar
+DTSTAMP:20100915T040442Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[TWSE競拍] 精華生醫(7806) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：精華生醫\n證券代
+ 號：7806\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,040\n最低投標價格(元)：4
+ 2.31\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 265\n主辦券商：永豐金\n投標開始日：2026/09/29\n投標結束
+ 日：2026/10/01\n開標日期：2026/10/05\n撥券日期：2026/10/15\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

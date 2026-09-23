@@ -5068,6 +5068,21 @@
     "attempts": 0
   },
   {
+    "company": "晶豪科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115385",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/09/09",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "308",
+    "base_price": "300.67",
+    "premium_rate": 102.44,
+    "attempts": 0
+  },
+  {
     "company": "辛耘企業股份有限公司(第四次)",
     "source": "UnderwritingNotice",
     "seq": "115365",
@@ -5212,5 +5227,18 @@
     "base_price": "26.25",
     "premium_rate": 114.29,
     "attempts": 0
+  },
+  {
+    "company": "安碁科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115386",
+    "underwriter": "兆豐證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/17",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
   }
 ]
