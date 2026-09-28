@@ -5240,5 +5240,20 @@
     "min_price": "",
     "conversion_price": null,
     "attempts": 5
+  },
+  {
+    "company": "可寧衛股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115391",
+    "underwriter": "中國信託綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/21",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "30",
+    "base_price": "26.25",
+    "premium_rate": 114.29,
+    "attempts": 0
   }
 ]
