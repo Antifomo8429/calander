@@ -60163,6 +60163,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:384cf92ba34732b09d87fb899366dc9aa3c9a7b7@twse-auction-calendar
+DTSTAMP:20320906T202458Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：楠梓電一\n證券代
+ 號：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
+ 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e52cbcbb0d51374d85b20ac32ea51bb07e73805@twse-auction-calendar
+DTSTAMP:20400213T224745Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：欣大健康一\n證券
+ 代號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
+ 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
+ ）\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：
+ 2\,650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:0df2c7a3230df0642604be5bc3e61eec8321f680@twse-auction-calendar
 DTSTAMP:20050109T101141Z
 DTSTART;VALUE=DATE:20261005
@@ -60311,6 +60349,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:acc920db33ef0a2f63991d3c9092d4854d9c9f7b@twse-auction-calendar
+DTSTAMP:20210915T183822Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：楠梓電一\n證券代
+ 號：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
+ 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:740080be2108d1baac4328189eb6511e7e6dbfee@twse-auction-calendar
+DTSTAMP:20320106T234219Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：欣大健康一\n證券
+ 代號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
+ 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
+ ）\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：
+ 2\,650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:55d3cdf85a0c9050d8254e581427c2872ac7b1da@twse-auction-calendar
 DTSTAMP:20470615T144055Z
 DTSTART;VALUE=DATE:20261008
@@ -60381,6 +60457,44 @@ DESCRIPTION:事件：拆解日\n證券名稱：晶豪科二\n證券代號
  ：2026/09/15\n投標結束日：2026/09/17\n開標日期：2026/09/21\n撥
  券日期：2026/10/02\n資料來源：https://www.twse.com.tw/zh/announcem
  ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2736cf6b879392a408211cde512222c96cdf3039@twse-auction-calendar
+DTSTAMP:20310227T103335Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 開標
+DESCRIPTION:事件：開標\n證券名稱：楠梓電一\n證券代號：23
+ 161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,800\n
+ 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始日：2
+ 026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券
+ 日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aca79f810db216817cdf0e64c67e1709c9e5d138@twse-auction-calendar
+DTSTAMP:20420301T120641Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 開標
+DESCRIPTION:事件：開標\n證券名稱：欣大健康一\n證券代號
+ ：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：2\,650\n
+ 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：265\n主辦券商：統一\n投標開始日：2026
+ /10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日
+ 期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60478,6 +60592,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:e5a30c6f27405a078738ec1e4899a01022898410@twse-auction-calendar
+DTSTAMP:20270916T121913Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：楠梓電一\n證券代
+ 號：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
+ 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac0206a623bb20d518f898fcabf5ca36e73d85c@twse-auction-calendar
+DTSTAMP:20440711T053435Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：欣大健康一\n證券
+ 代號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
+ 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
+ ）\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：
+ 2\,650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
+ \n最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:e15b26bdcaa24fcf100c1d560c29c4c0d11fb8f7@twse-auction-calendar
 DTSTAMP:20460608T203146Z
 DTSTART;VALUE=DATE:20261028
@@ -60513,6 +60665,46 @@ DESCRIPTION:事件：拆解日\n證券名稱：尖點三\n證券代號：80
  開始日：2026/10/02\n投標結束日：2026/10/06\n開標日期：2026/1
  0/08\n撥券日期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/
  announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:907ecc8dc3c4873d6fd47d047ccd165bb67c23c0@twse-auction-calendar
+DTSTAMP:20430318T101103Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：楠梓電一\n證券代號
+ ：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
+ 個交易日\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數
+ 量(張)：29\,800\n最低投標價格(元)：103\n最低每標單投標數
+ 量(張)：1\n最高投(得)標數量(張)：2\,980\n主辦券商：富邦\
+ n投標開始日：2026/10/05\n投標結束日：2026/10/07\n開標日期
+ ：2026/10/12\n撥券日期：2026/10/21\n資料來源：https://www.twse.c
+ om.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65d7ae04cd2390232e5f717bd89c3f8a48f4b309@twse-auction-calendar
+DTSTAMP:20130319T140022Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：欣大健康一\n證券代
+ 號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
+ 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
+ 拆解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第
+  6 個交易日\n拆解日：2026/10/29\n競拍方式：美國標\n競拍
+ 數量(張)：2\,650\n最低投標價格(元)：102\n最低每標單投標
+ 數量(張)：1\n最高投(得)標數量(張)：265\n主辦券商：統一\
+ n投標開始日：2026/10/05\n投標結束日：2026/10/07\n開標日期
+ ：2026/10/12\n撥券日期：2026/10/21\n資料來源：https://www.twse.c
+ om.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
