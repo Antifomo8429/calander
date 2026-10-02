@@ -60090,38 +60090,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2f72094232685df4a810116c22236edc29c8e7f9@twse-auction-calendar
-DTSTAMP:20410102T185400Z
+DTSTAMP:20070617T123302Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:[TWSE競拍] 中華化二(17272) 投標開始
+SUMMARY:[TWSE競拍] 中華化二(17272) 投標開始｜轉換價 111.6
 DESCRIPTION:事件：投標開始\n證券名稱：中華化二\n證券代
  號：17272\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：8\,50
- 2\n最低投標價格(元)：101.5\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：850\n主辦券商：統一\n投標開始日
- ：2026/10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥
- 券日期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 司債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026
+ /10/28\n競拍方式：美國標\n競拍數量(張)：8\,502\n最低投標
+ 價格(元)：101.5\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：850\n主辦券商：統一\n投標開始日：2026/10/02\n
+ 投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：202
+ 6/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:87f61b65e21ddcc60304e4583688a1efac4c23f9@twse-auction-calendar
-DTSTAMP:20190421T175648Z
+DTSTAMP:20190730T105405Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:[TWSE競拍] 尖點三(80213) 投標開始
+SUMMARY:[TWSE競拍] 尖點三(80213) 投標開始｜轉換價 111.6
 DESCRIPTION:事件：投標開始\n證券名稱：尖點三\n證券代號
  ：80213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：4\,200\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：420\n主辦券商：福邦\n投標開始日：2026
- /10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日
- 期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10
+ /28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標
+ 結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/2
+ 0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60219,19 +60218,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e51789b4997994911f944aa04105ad46d0610c86@twse-auction-calendar
-DTSTAMP:20110113T002030Z
+DTSTAMP:20481025T133403Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:[TWSE競拍] 中華化二(17272) 投標截止
+SUMMARY:[TWSE競拍] 中華化二(17272) 投標截止｜轉換價 111.6
 DESCRIPTION:事件：投標截止\n證券名稱：中華化二\n證券代
  號：17272\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：8\,50
- 2\n最低投標價格(元)：101.5\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：850\n主辦券商：統一\n投標開始日
- ：2026/10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥
- 券日期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 司債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026
+ /10/28\n競拍方式：美國標\n競拍數量(張)：8\,502\n最低投標
+ 價格(元)：101.5\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：850\n主辦券商：統一\n投標開始日：2026/10/02\n
+ 投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：202
+ 6/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60294,19 +60293,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d23425caadce0979e7f9a1b7faaec29fb2122e5a@twse-auction-calendar
-DTSTAMP:20411029T001449Z
+DTSTAMP:20280607T184706Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:[TWSE競拍] 尖點三(80213) 投標截止
+SUMMARY:[TWSE競拍] 尖點三(80213) 投標截止｜轉換價 111.6
 DESCRIPTION:事件：投標截止\n證券名稱：尖點三\n證券代號
  ：80213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：4\,200\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：420\n主辦券商：福邦\n投標開始日：2026
- /10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日
- 期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10
+ /28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標
+ 結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/2
+ 0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60324,6 +60322,41 @@ DESCRIPTION:事件：投標截止\n證券名稱：泰合\n證券代號：64
  主辦券商：元大\n投標開始日：2026/10/02\n投標結束日：2026
  /10/06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n資料來源
  ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e71855540f8747774c35ccae305235c9b4976171@twse-auction-calendar
+DTSTAMP:20061028T052611Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:[TWSE競拍] 湧盛(2249) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：湧盛\n證券代號：22
+ 49\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,535\n最低投標價格(元)：55\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：321\n主辦
+ 券商：凱基\n投標開始日：2026/10/06\n投標結束日：2026/10/08
+ \n開標日期：2026/10/13\n撥券日期：2026/10/22\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66fd5e806f703ca2af43000053f108bc10cfd321@twse-auction-calendar
+DTSTAMP:20051106T212651Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:[TWSE競拍] 高力六(89966) 投標開始｜轉換價 1656
+DESCRIPTION:事件：投標開始\n證券名稱：高力六\n證券代號
+ ：89966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/
+ 30\n競拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投
+ 標結束日：2026/10/08\n開標日期：2026/10/13\n撥券日期：2026/1
+ 0/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60388,38 +60421,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:55d3cdf85a0c9050d8254e581427c2872ac7b1da@twse-auction-calendar
-DTSTAMP:20470615T144055Z
+DTSTAMP:20040125T020041Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:[TWSE競拍] 中華化二(17272) 開標
+SUMMARY:[TWSE競拍] 中華化二(17272) 開標｜轉換價 111.6
 DESCRIPTION:事件：開標\n證券名稱：中華化二\n證券代號：17
  272\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：8\,502\n最
- 低投標價格(元)：101.5\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：850\n主辦券商：統一\n投標開始日：2026
- /10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日
- 期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10/28\n
+ 競拍方式：美國標\n競拍數量(張)：8\,502\n最低投標價格(
+ 元)：101.5\n最低每標單投標數量(張)：1\n最高投(得)標數量
+ (張)：850\n主辦券商：統一\n投標開始日：2026/10/02\n投標結
+ 束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8b77081ffe76e54e1d9656b2f848b8e94c59acc7@twse-auction-calendar
-DTSTAMP:20131123T043645Z
+DTSTAMP:20300529T121617Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:[TWSE競拍] 尖點三(80213) 開標
+SUMMARY:[TWSE競拍] 尖點三(80213) 開標｜轉換價 111.6
 DESCRIPTION:事件：開標\n證券名稱：尖點三\n證券代號：80213
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/10/28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低
- 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/
- 02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期
- ：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10/28\n競
+ 拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標結束
+ 日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60437,6 +60468,41 @@ DESCRIPTION:事件：開標\n證券名稱：泰合\n證券代號：6467\n
  辦券商：元大\n投標開始日：2026/10/02\n投標結束日：2026/10
  /06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n資料來源：h
  ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d406dfd71ed5dc127315d7fcb069fa0c8e15dc8@twse-auction-calendar
+DTSTAMP:20460905T114500Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:[TWSE競拍] 湧盛(2249) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：湧盛\n證券代號：22
+ 49\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,535\n最低投標價格(元)：55\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：321\n主辦
+ 券商：凱基\n投標開始日：2026/10/06\n投標結束日：2026/10/08
+ \n開標日期：2026/10/13\n撥券日期：2026/10/22\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:075accbc1f405413ce7de67d9ac34a7f8121b5ba@twse-auction-calendar
+DTSTAMP:20030330T181413Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:[TWSE競拍] 高力六(89966) 投標截止｜轉換價 1656
+DESCRIPTION:事件：投標截止\n證券名稱：高力六\n證券代號
+ ：89966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/
+ 30\n競拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投
+ 標結束日：2026/10/08\n開標日期：2026/10/13\n撥券日期：2026/1
+ 0/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60500,6 +60566,41 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fde29efe83b7ad8dc8a7d5b3550294d63919e36a@twse-auction-calendar
+DTSTAMP:20211208T044345Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[TWSE競拍] 湧盛(2249) 開標
+DESCRIPTION:事件：開標\n證券名稱：湧盛\n證券代號：2249\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：2\,535\n最低投標價格(元)：55\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：321\n主辦券
+ 商：凱基\n投標開始日：2026/10/06\n投標結束日：2026/10/08\n
+ 開標日期：2026/10/13\n撥券日期：2026/10/22\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e936820ea3a3661ab46f149c33a293a43fb6e5a@twse-auction-calendar
+DTSTAMP:20440904T044437Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[TWSE競拍] 高力六(89966) 開標｜轉換價 1656
+DESCRIPTION:事件：開標\n證券名稱：高力六\n證券代號：89966
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/30\n競
+ 拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價格(元)
+ ：105\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投標結
+ 束日：2026/10/08\n開標日期：2026/10/13\n撥券日期：2026/10/22\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:da2c99e15e8530af6cde300cf6b938960aa8e887@twse-auction-calendar
 DTSTAMP:20410214T150235Z
 DTSTART;VALUE=DATE:20261014
@@ -60538,38 +60639,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9274c923f5ecb7a3a41d9abc23285451159ec010@twse-auction-calendar
-DTSTAMP:20400122T110123Z
+DTSTAMP:20490516T042426Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:[TWSE競拍] 中華化二(17272) 撥券/掛牌
+SUMMARY:[TWSE競拍] 中華化二(17272) 撥券/掛牌｜轉換價 111.6
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：中華化二\n證券代
  號：17272\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：8\,50
- 2\n最低投標價格(元)：101.5\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：850\n主辦券商：統一\n投標開始日
- ：2026/10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥
- 券日期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcem
- ent/auction.html
+ 司債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026
+ /10/28\n競拍方式：美國標\n競拍數量(張)：8\,502\n最低投標
+ 價格(元)：101.5\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：850\n主辦券商：統一\n投標開始日：2026/10/02\n
+ 投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：202
+ 6/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6220e08c01df2c2206e544e99568213b5d580b7e@twse-auction-calendar
-DTSTAMP:20441219T031609Z
+DTSTAMP:20280711T162532Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:[TWSE競拍] 尖點三(80213) 撥券/掛牌
+SUMMARY:[TWSE競拍] 尖點三(80213) 撥券/掛牌｜轉換價 111.6
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：尖點三\n證券代號
  ：80213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：4\,200\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：420\n主辦券商：福邦\n投標開始日：2026
- /10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日
- 期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10
+ /28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標
+ 結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/2
+ 0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60630,41 +60730,76 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:f752edc07e87b311504e188d91aa8f70d9c8b12e@twse-auction-calendar
+DTSTAMP:20160102T164750Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[TWSE競拍] 湧盛(2249) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：湧盛\n證券代號：2
+ 249\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,535\n最低投標價格(元)：55\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：321\n主辦
+ 券商：凱基\n投標開始日：2026/10/06\n投標結束日：2026/10/08
+ \n開標日期：2026/10/13\n撥券日期：2026/10/22\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97d55a9d90e411738fc4a321db3ec53b492a26fb@twse-auction-calendar
+DTSTAMP:20180514T022229Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[TWSE競拍] 高力六(89966) 撥券/掛牌｜轉換價 1656
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：高力六\n證券代號
+ ：89966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/
+ 30\n競拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投
+ 標結束日：2026/10/08\n開標日期：2026/10/13\n撥券日期：2026/1
+ 0/22\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:e15b26bdcaa24fcf100c1d560c29c4c0d11fb8f7@twse-auction-calendar
-DTSTAMP:20460608T203146Z
+DTSTAMP:20010526T155324Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:[TWSE競拍] 中華化二(17272) 拆解日
+SUMMARY:[TWSE競拍] 中華化二(17272) 拆解日｜轉換價 111.6
 DESCRIPTION:事件：拆解日\n證券名稱：中華化二\n證券代號
  ：17272\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
- 個交易日\n拆解日：2026/10/28\n競拍方式：美國標\n競拍數
- 量(張)：8\,502\n最低投標價格(元)：101.5\n最低每標單投標
- 數量(張)：1\n最高投(得)標數量(張)：850\n主辦券商：統一\
- n投標開始日：2026/10/02\n投標結束日：2026/10/06\n開標日期
- ：2026/10/08\n撥券日期：2026/10/20\n資料來源：https://www.twse.c
- om.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日說明：
+ 掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n
+ 拆解日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：8\,50
+ 2\n最低投標價格(元)：101.5\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：850\n主辦券商：統一\n投標開始日
+ ：2026/10/02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥
+ 券日期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d0594727041cf377f3309467f7e2cde5d7ba2c8b@twse-auction-calendar
-DTSTAMP:20440722T140136Z
+DTSTAMP:20360918T052643Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:[TWSE競拍] 尖點三(80213) 拆解日
+SUMMARY:[TWSE競拍] 尖點三(80213) 拆解日｜轉換價 111.6
 DESCRIPTION:事件：拆解日\n證券名稱：尖點三\n證券代號：80
  213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/10/28\n競拍方式：美國標\n競拍數量(
- 張)：4\,200\n最低投標價格(元)：100\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：420\n主辦券商：福邦\n投標
- 開始日：2026/10/02\n投標結束日：2026/10/06\n開標日期：2026/1
- 0/08\n撥券日期：2026/10/20\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 轉換價(元)：111.6（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最
+ 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：420\n主辦券商：福邦\n投標開始日：2026/10
+ /02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期
+ ：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60705,6 +60840,26 @@ DESCRIPTION:事件：拆解日\n證券名稱：欣大健康一\n證券代
  n投標開始日：2026/10/05\n投標結束日：2026/10/07\n開標日期
  ：2026/10/12\n撥券日期：2026/10/21\n資料來源：https://www.twse.c
  om.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a69fead79eaac32e8fa2bfd4bf5c18e8998a6a@twse-auction-calendar
+DTSTAMP:20471026T185331Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[TWSE競拍] 高力六(89966) 拆解日｜轉換價 1656
+DESCRIPTION:事件：拆解日\n證券名稱：高力六\n證券代號：89
+ 966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：1656（來源：承銷公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/10/30\n競拍方式：美國標\n競拍數量(張)：12\,769\n
+ 最低投標價格(元)：105\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：1\,276\n主辦券商：富邦\n投標開始日：2
+ 026/10/06\n投標結束日：2026/10/08\n開標日期：2026/10/13\n撥券
+ 日期：2026/10/22\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
