@@ -5257,6 +5257,21 @@
     "attempts": 0
   },
   {
+    "company": "啟碁科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115394",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/23",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "268",
+    "base_price": "234.67",
+    "premium_rate": 114.2,
+    "attempts": 0
+  },
+  {
     "company": "高力熱處理工業股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115395",
@@ -5272,6 +5287,21 @@
     "attempts": 0
   },
   {
+    "company": "迅得機械股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115396",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/09/29",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "172",
+    "base_price": "163.5",
+    "premium_rate": 105.2,
+    "attempts": 0
+  },
+  {
     "company": "尖點科技股份有限公司",
     "source": "Auction",
     "seq": "115074",
@@ -5280,6 +5310,21 @@
     "announce_date": "",
     "bid_start": "2026/10/02",
     "bid_end": "2026/10/05",
+    "min_price": "100.00",
+    "conversion_price": "528",
+    "base_price": "480",
+    "premium_rate": 110.0,
+    "attempts": 0
+  },
+  {
+    "company": "尖點科技股份有限公司",
+    "source": "Auction",
+    "seq": "115074",
+    "underwriter": "福邦證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/02",
+    "bid_end": "2026/10/06",
     "min_price": "100.00",
     "conversion_price": "528",
     "base_price": "480",
@@ -5300,5 +5345,46 @@
     "base_price": "109.4",
     "premium_rate": 102.0,
     "attempts": 0
+  },
+  {
+    "company": "楠梓電子股份有限公司",
+    "source": "Auction",
+    "seq": "115076",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/05",
+    "bid_end": "2026/10/07",
+    "min_price": "103.00",
+    "conversion_price": null,
+    "attempts": 1
+  },
+  {
+    "company": "欣大健康投資控股股份有限公司",
+    "source": "Auction",
+    "seq": "115072",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/05",
+    "bid_end": "2026/10/07",
+    "min_price": "102.00",
+    "conversion_price": "54.6",
+    "base_price": "49.9",
+    "premium_rate": 109.42,
+    "attempts": 0
+  },
+  {
+    "company": "高力熱處理工業股份有限公司",
+    "source": "Auction",
+    "seq": "115075",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/06",
+    "bid_end": "2026/10/08",
+    "min_price": "105.00",
+    "conversion_price": null,
+    "attempts": 1
   }
 ]

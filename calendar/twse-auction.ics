@@ -60109,18 +60109,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:87f61b65e21ddcc60304e4583688a1efac4c23f9@twse-auction-calendar
-DTSTAMP:20190730T105405Z
+DTSTAMP:20130321T201050Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:[TWSE競拍] 尖點三(80213) 投標開始｜轉換價 111.6
+SUMMARY:[TWSE競拍] 尖點三(80213) 投標開始｜轉換價 528
 DESCRIPTION:事件：投標開始\n證券名稱：尖點三\n證券代號
  ：80213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10
- /28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標
- 結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/2
- 0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：528（來源：競拍公告）\n拆解日：2026/10/2
+ 8\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價格
+ (元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標結
+ 束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60163,38 +60163,38 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:384cf92ba34732b09d87fb899366dc9aa3c9a7b7@twse-auction-calendar
-DTSTAMP:20320906T202458Z
+DTSTAMP:20480714T064908Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:[TWSE競拍] 楠梓電一(23161) 投標開始
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 投標開始｜轉換價 54.6
 DESCRIPTION:事件：投標開始\n證券名稱：楠梓電一\n證券代
  號：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
- 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
- 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
- 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：2026/
+ 10/29\n競拍方式：美國標\n競拍數量(張)：29\,800\n最低投標
+ 價格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：2\,980\n主辦券商：富邦\n投標開始日：2026/10/05\n
+ 投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：202
+ 6/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9e52cbcbb0d51374d85b20ac32ea51bb07e73805@twse-auction-calendar
-DTSTAMP:20400213T224745Z
+DTSTAMP:20011231T193550Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:[TWSE競拍] 欣大健康一(41981) 投標開始
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 投標開始｜轉換價 54.6
 DESCRIPTION:事件：投標開始\n證券名稱：欣大健康一\n證券
  代號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：
- 2\,650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
- \n最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始
- 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
- 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 公司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：20
+ 26/10/29\n競拍方式：美國標\n競拍數量(張)：2\,650\n最低投
+ 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：265\n主辦券商：統一\n投標開始日：2026/10/05\n
+ 投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：202
+ 6/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60293,18 +60293,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d23425caadce0979e7f9a1b7faaec29fb2122e5a@twse-auction-calendar
-DTSTAMP:20280607T184706Z
+DTSTAMP:20250322T132834Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:[TWSE競拍] 尖點三(80213) 投標截止｜轉換價 111.6
+SUMMARY:[TWSE競拍] 尖點三(80213) 投標截止｜轉換價 528
 DESCRIPTION:事件：投標截止\n證券名稱：尖點三\n證券代號
  ：80213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10
- /28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標
- 結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/2
- 0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：528（來源：競拍公告）\n拆解日：2026/10/2
+ 8\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價格
+ (元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標結
+ 束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60362,6 +60362,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:55d5e6e60e4af4f5834f6d15ecf1545a2b6699fa@twse-auction-calendar
+DTSTAMP:20450918T123532Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[TWSE競拍] 啟碁五(62855) 投標開始｜轉換價 268
+DESCRIPTION:事件：投標開始\n證券名稱：啟碁五\n證券代號
+ ：62855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：268（來源：承銷公告）\n拆解日：2026/11/0
+ 2\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投
+ 標結束日：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/1
+ 0/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:bdbffcf3f2ce1779a322e4a903a1c40949c21ab0@twse-auction-calendar
 DTSTAMP:20280321T231427Z
 DTSTART;VALUE=DATE:20261007
@@ -60383,38 +60401,72 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:acc920db33ef0a2f63991d3c9092d4854d9c9f7b@twse-auction-calendar
-DTSTAMP:20210915T183822Z
+DTSTAMP:20401206T004220Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:[TWSE競拍] 楠梓電一(23161) 投標截止
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 投標截止｜轉換價 54.6
 DESCRIPTION:事件：投標截止\n證券名稱：楠梓電一\n證券代
  號：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
- 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
- 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
- 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：2026/
+ 10/29\n競拍方式：美國標\n競拍數量(張)：29\,800\n最低投標
+ 價格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：2\,980\n主辦券商：富邦\n投標開始日：2026/10/05\n
+ 投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：202
+ 6/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:740080be2108d1baac4328189eb6511e7e6dbfee@twse-auction-calendar
-DTSTAMP:20320106T234219Z
+DTSTAMP:20350506T041557Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:[TWSE競拍] 欣大健康一(41981) 投標截止
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 投標截止｜轉換價 54.6
 DESCRIPTION:事件：投標截止\n證券名稱：欣大健康一\n證券
  代號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：
- 2\,650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
- \n最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始
- 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
- 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 公司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：20
+ 26/10/29\n競拍方式：美國標\n競拍數量(張)：2\,650\n最低投
+ 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：265\n主辦券商：統一\n投標開始日：2026/10/05\n
+ 投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：202
+ 6/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d68e05eae944b4c9cdc83ede89938a17919c3c90@twse-auction-calendar
+DTSTAMP:20200409T200450Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[TWSE競拍] 程曦資訊(6898) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：程曦資訊\n證券代
+ 號：6898\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,632\n最低投標價格(元)：4
+ 8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：328
+ \n主辦券商：兆豐\n投標開始日：2026/10/07\n投標結束日：20
+ 26/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:968e9d785c993d56723c111a0e646dd63a330c0c@twse-auction-calendar
+DTSTAMP:20370328T155517Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[TWSE競拍] 藍新資訊(6938) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：藍新資訊\n證券代
+ 號：6938\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,408\n最低投標價格(元)：5
+ 7.63\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 182\n主辦券商：國票\n投標開始日：2026/10/07\n投標結束日
+ ：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60439,13 +60491,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8b77081ffe76e54e1d9656b2f848b8e94c59acc7@twse-auction-calendar
-DTSTAMP:20300529T121617Z
+DTSTAMP:20360527T132930Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:[TWSE競拍] 尖點三(80213) 開標｜轉換價 111.6
+SUMMARY:[TWSE競拍] 尖點三(80213) 開標｜轉換價 528
 DESCRIPTION:事件：開標\n證券名稱：尖點三\n證券代號：80213
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10/28\n競
+ 換價(元)：528（來源：競拍公告）\n拆解日：2026/10/28\n競
  拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價格(元)
  ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
  ：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標結束
@@ -60508,6 +60560,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:77c1274b6b1b8f056313170e0bd900bac269aeb9@twse-auction-calendar
+DTSTAMP:20440128T135558Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[TWSE競拍] 啟碁五(62855) 投標截止｜轉換價 268
+DESCRIPTION:事件：投標截止\n證券名稱：啟碁五\n證券代號
+ ：62855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：268（來源：承銷公告）\n拆解日：2026/11/0
+ 2\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投
+ 標結束日：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/1
+ 0/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:26d03d267e829fd3b113de062fb3a4960af2e280@twse-auction-calendar
 DTSTAMP:20370927T215117Z
 DTSTART;VALUE=DATE:20261012
@@ -60529,38 +60599,70 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2736cf6b879392a408211cde512222c96cdf3039@twse-auction-calendar
-DTSTAMP:20310227T103335Z
+DTSTAMP:20240811T223816Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:[TWSE競拍] 楠梓電一(23161) 開標
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 開標｜轉換價 54.6
 DESCRIPTION:事件：開標\n證券名稱：楠梓電一\n證券代號：23
  161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,800\n
- 最低投標價格(元)：103\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始日：2
- 026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券
- 日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 轉換價(元)：54.6（來源：競拍公告）\n拆解日：2026/10/29\n
+ 競拍方式：美國標\n競拍數量(張)：29\,800\n最低投標價格(
+ 元)：103\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：2\,980\n主辦券商：富邦\n投標開始日：2026/10/05\n投標
+ 結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：2026/10/2
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:aca79f810db216817cdf0e64c67e1709c9e5d138@twse-auction-calendar
-DTSTAMP:20420301T120641Z
+DTSTAMP:20280324T111935Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:[TWSE競拍] 欣大健康一(41981) 開標
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 開標｜轉換價 54.6
 DESCRIPTION:事件：開標\n證券名稱：欣大健康一\n證券代號
  ：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：2\,650\n
- 最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：265\n主辦券商：統一\n投標開始日：2026
- /10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日
- 期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：2026/10/
+ 29\n競拍方式：美國標\n競拍數量(張)：2\,650\n最低投標價
+ 格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：265\n主辦券商：統一\n投標開始日：2026/10/05\n投標
+ 結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：2026/10/2
+ 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7463f45d6e60e7c7b2c88552f745ff7ee5f1d7f@twse-auction-calendar
+DTSTAMP:20130207T134059Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[TWSE競拍] 程曦資訊(6898) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：程曦資訊\n證券代
+ 號：6898\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,632\n最低投標價格(元)：4
+ 8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：328
+ \n主辦券商：兆豐\n投標開始日：2026/10/07\n投標結束日：20
+ 26/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:098a5d1bc4378e70ba25b2e79606ac900339b5ea@twse-auction-calendar
+DTSTAMP:20300521T192513Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[TWSE競拍] 藍新資訊(6938) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：藍新資訊\n證券代
+ 號：6938\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,408\n最低投標價格(元)：5
+ 7.63\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 182\n主辦券商：國票\n投標開始日：2026/10/07\n投標結束日
+ ：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60621,6 +60723,58 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:56783ad9155f4740e3cdc4dc920d46b1f839dd92@twse-auction-calendar
+DTSTAMP:20330422T181910Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[TWSE競拍] 啟碁五(62855) 開標｜轉換價 268
+DESCRIPTION:事件：開標\n證券名稱：啟碁五\n證券代號：62855
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：268（來源：承銷公告）\n拆解日：2026/11/02\n競
+ 拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價格(元)
+ ：105\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投標結
+ 束日：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:366f3c907a8ccdb2962c0971dedca0cf88ea800b@twse-auction-calendar
+DTSTAMP:20390608T180903Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[TWSE競拍] 程曦資訊(6898) 開標
+DESCRIPTION:事件：開標\n證券名稱：程曦資訊\n證券代號：68
+ 98\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：2\,632\n最低投標價格(元)：48\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：328\n主辦
+ 券商：兆豐\n投標開始日：2026/10/07\n投標結束日：2026/10/12
+ \n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:48c64f99cb88169439ada17c140faf3a0bb0ed56@twse-auction-calendar
+DTSTAMP:20070612T092505Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[TWSE競拍] 藍新資訊(6938) 開標
+DESCRIPTION:事件：開標\n證券名稱：藍新資訊\n證券代號：69
+ 38\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,408\n最低投標價格(元)：57.63\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：182\n主
+ 辦券商：國票\n投標開始日：2026/10/07\n投標結束日：2026/10
+ /12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:6334699f7ccdb41e77399866a58e212fbaeb9932@twse-auction-calendar
 DTSTAMP:20100915T040442Z
 DTSTART;VALUE=DATE:20261015
@@ -60658,18 +60812,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6220e08c01df2c2206e544e99568213b5d580b7e@twse-auction-calendar
-DTSTAMP:20280711T162532Z
+DTSTAMP:20490407T205038Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:[TWSE競拍] 尖點三(80213) 撥券/掛牌｜轉換價 111.6
+SUMMARY:[TWSE競拍] 尖點三(80213) 撥券/掛牌｜轉換價 528
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：尖點三\n證券代號
  ：80213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：111.6（來源：競拍公告）\n拆解日：2026/10
- /28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標
- 結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/2
- 0\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：528（來源：競拍公告）\n拆解日：2026/10/2
+ 8\n競拍方式：美國標\n競拍數量(張)：4\,200\n最低投標價格
+ (元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：420\n主辦券商：福邦\n投標開始日：2026/10/02\n投標結
+ 束日：2026/10/06\n開標日期：2026/10/08\n撥券日期：2026/10/20\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60693,38 +60847,38 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e5a30c6f27405a078738ec1e4899a01022898410@twse-auction-calendar
-DTSTAMP:20270916T121913Z
+DTSTAMP:20070710T040745Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:[TWSE競拍] 楠梓電一(23161) 撥券/掛牌
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 撥券/掛牌｜轉換價 54.6
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：楠梓電一\n證券代
  號：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
- 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
- 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
- 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
- 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：2026/
+ 10/29\n競拍方式：美國標\n競拍數量(張)：29\,800\n最低投標
+ 價格(元)：103\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：2\,980\n主辦券商：富邦\n投標開始日：2026/10/05\n
+ 投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：202
+ 6/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1ac0206a623bb20d518f898fcabf5ca36e73d85c@twse-auction-calendar
-DTSTAMP:20440711T053435Z
+DTSTAMP:20441119T061848Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:[TWSE競拍] 欣大健康一(41981) 撥券/掛牌
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 撥券/掛牌｜轉換價 54.6
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：欣大健康一\n證券
  代號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：
- 2\,650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1
- \n最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始
- 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
- 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 公司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日：20
+ 26/10/29\n競拍方式：美國標\n競拍數量(張)：2\,650\n最低投
+ 標價格(元)：102\n最低每標單投標數量(張)：1\n最高投(得)
+ 標數量(張)：265\n主辦券商：統一\n投標開始日：2026/10/05\n
+ 投標結束日：2026/10/07\n開標日期：2026/10/12\n撥券日期：202
+ 6/10/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60765,6 +60919,58 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:bb235b657253847fbe712ee4aea3839e6ca7c08b@twse-auction-calendar
+DTSTAMP:20250821T212417Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[TWSE競拍] 啟碁五(62855) 撥券/掛牌｜轉換價 268
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：啟碁五\n證券代號
+ ：62855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：268（來源：承銷公告）\n拆解日：2026/11/0
+ 2\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
+ 格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投
+ 標結束日：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/1
+ 0/23\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:340a0fd0957e1ecf9abca35e5d24880f1edaa6ff@twse-auction-calendar
+DTSTAMP:20270312T081020Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[TWSE競拍] 程曦資訊(6898) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：程曦資訊\n證券代
+ 號：6898\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：2\,632\n最低投標價格(元)：4
+ 8\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：328
+ \n主辦券商：兆豐\n投標開始日：2026/10/07\n投標結束日：20
+ 26/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b1099a7715b4e4f4f3df3cf028871197fed6c798@twse-auction-calendar
+DTSTAMP:20350108T070112Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[TWSE競拍] 藍新資訊(6938) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：藍新資訊\n證券代
+ 號：6938\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,408\n最低投標價格(元)：5
+ 7.63\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：
+ 182\n主辦券商：國票\n投標開始日：2026/10/07\n投標結束日
+ ：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料
+ 來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:e15b26bdcaa24fcf100c1d560c29c4c0d11fb8f7@twse-auction-calendar
 DTSTAMP:20010526T155324Z
 DTSTART;VALUE=DATE:20261028
@@ -60786,13 +60992,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d0594727041cf377f3309467f7e2cde5d7ba2c8b@twse-auction-calendar
-DTSTAMP:20360918T052643Z
+DTSTAMP:20380722T230314Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:[TWSE競拍] 尖點三(80213) 拆解日｜轉換價 111.6
+SUMMARY:[TWSE競拍] 尖點三(80213) 拆解日｜轉換價 528
 DESCRIPTION:事件：拆解日\n證券名稱：尖點三\n證券代號：80
  213\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：111.6（來源：競拍公告）\n拆解日說明：掛牌
+ 轉換價(元)：528（來源：競拍公告）\n拆解日說明：掛牌
  日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
  日：2026/10/28\n競拍方式：美國標\n競拍數量(張)：4\,200\n最
  低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
@@ -60806,40 +61012,40 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:907ecc8dc3c4873d6fd47d047ccd165bb67c23c0@twse-auction-calendar
-DTSTAMP:20430318T101103Z
+DTSTAMP:20071119T184809Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:[TWSE競拍] 楠梓電一(23161) 拆解日
+SUMMARY:[TWSE競拍] 楠梓電一(23161) 拆解日｜轉換價 54.6
 DESCRIPTION:事件：拆解日\n證券名稱：楠梓電一\n證券代號
  ：23161\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 
- 個交易日\n拆解日：2026/10/29\n競拍方式：美國標\n競拍數
- 量(張)：29\,800\n最低投標價格(元)：103\n最低每標單投標數
- 量(張)：1\n最高投(得)標數量(張)：2\,980\n主辦券商：富邦\
- n投標開始日：2026/10/05\n投標結束日：2026/10/07\n開標日期
- ：2026/10/12\n撥券日期：2026/10/21\n資料來源：https://www.twse.c
- om.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日說明：
+ 掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n
+ 拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：29\,8
+ 00\n最低投標價格(元)：103\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：2\,980\n主辦券商：富邦\n投標開始
+ 日：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n
+ 撥券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announ
+ cement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:65d7ae04cd2390232e5f717bd89c3f8a48f4b309@twse-auction-calendar
-DTSTAMP:20130319T140022Z
+DTSTAMP:20320116T172426Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:[TWSE競拍] 欣大健康一(41981) 拆解日
+SUMMARY:[TWSE競拍] 欣大健康一(41981) 拆解日｜轉換價 54.6
 DESCRIPTION:事件：拆解日\n證券名稱：欣大健康一\n證券代
  號：41981\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第
-  6 個交易日\n拆解日：2026/10/29\n競拍方式：美國標\n競拍
- 數量(張)：2\,650\n最低投標價格(元)：102\n最低每標單投標
- 數量(張)：1\n最高投(得)標數量(張)：265\n主辦券商：統一\
- n投標開始日：2026/10/05\n投標結束日：2026/10/07\n開標日期
- ：2026/10/12\n撥券日期：2026/10/21\n資料來源：https://www.twse.c
- om.tw/zh/announcement/auction.html
+ 司債\n轉換價(元)：54.6（來源：競拍公告）\n拆解日說明
+ ：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日
+ \n拆解日：2026/10/29\n競拍方式：美國標\n競拍數量(張)：2\,
+ 650\n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n
+ 最高投(得)標數量(張)：265\n主辦券商：統一\n投標開始日
+ ：2026/10/05\n投標結束日：2026/10/07\n開標日期：2026/10/12\n撥
+ 券日期：2026/10/21\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60859,6 +61065,26 @@ DESCRIPTION:事件：拆解日\n證券名稱：高力六\n證券代號：89
  投(得)標數量(張)：1\,276\n主辦券商：富邦\n投標開始日：2
  026/10/06\n投標結束日：2026/10/08\n開標日期：2026/10/13\n撥券
  日期：2026/10/22\n資料來源：https://www.twse.com.tw/zh/announcement
+ /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ca501cc6a98bd26f0417d58a0ea35c5197f8db5@twse-auction-calendar
+DTSTAMP:20090613T230909Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:[TWSE競拍] 啟碁五(62855) 拆解日｜轉換價 268
+DESCRIPTION:事件：拆解日\n證券名稱：啟碁五\n證券代號：62
+ 855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：268（來源：承銷公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/11/02\n競拍方式：美國標\n競拍數量(張)：17\,000\n
+ 最低投標價格(元)：105\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：1\,700\n主辦券商：凱基\n投標開始日：2
+ 026/10/07\n投標結束日：2026/10/12\n開標日期：2026/10/14\n撥券
+ 日期：2026/10/23\n資料來源：https://www.twse.com.tw/zh/announcement
  /auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
