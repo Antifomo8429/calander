@@ -60508,6 +60508,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:dd5081e3ee37e0aa8adb42669c41f3e6022ddece@twse-auction-calendar
+DTSTAMP:20410829T033150Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:[TWSE競拍] 東擎科技(7710) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：東擎科技\n證券代
+ 號：7710\n發行市場：集中交易市場\n發行性質：初上市\n
+ 競拍方式：美國標\n競拍數量(張)：4\,402\n最低投標價格(
+ 元)：126.61\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：555\n主辦券商：元大\n投標開始日：2026/10/08\n投標
+ 結束日：2026/10/13\n開標日期：2026/10/15\n撥券日期：2026/10/2
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:a60ec16ea64ec15554b3765825a3a01fd141b511@twse-auction-calendar
 DTSTAMP:20291104T022653Z
 DTSTART;VALUE=DATE:20261008
@@ -60668,6 +60685,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5d8d57697a25f4f8f9ccd8e00589e58d1a9487c0@twse-auction-calendar
+DTSTAMP:20290402T063622Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[TWSE競拍] 東擎科技(7710) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：東擎科技\n證券代
+ 號：7710\n發行市場：集中交易市場\n發行性質：初上市\n
+ 競拍方式：美國標\n競拍數量(張)：4\,402\n最低投標價格(
+ 元)：126.61\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：555\n主辦券商：元大\n投標開始日：2026/10/08\n投標
+ 結束日：2026/10/13\n開標日期：2026/10/15\n撥券日期：2026/10/2
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fde29efe83b7ad8dc8a7d5b3550294d63919e36a@twse-auction-calendar
 DTSTAMP:20211208T044345Z
 DTSTART;VALUE=DATE:20261013
@@ -60770,6 +60804,23 @@ DESCRIPTION:事件：開標\n證券名稱：藍新資訊\n證券代號：69
  辦券商：國票\n投標開始日：2026/10/07\n投標結束日：2026/10
  /12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料來源：h
  ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:963c3d567132d78d9130e3e7a1f4d39900057fb1@twse-auction-calendar
+DTSTAMP:20250514T072532Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[TWSE競拍] 東擎科技(7710) 開標
+DESCRIPTION:事件：開標\n證券名稱：東擎科技\n證券代號：77
+ 10\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：4\,402\n最低投標價格(元)：126.
+ 61\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：55
+ 5\n主辦券商：元大\n投標開始日：2026/10/08\n投標結束日：2
+ 026/10/13\n開標日期：2026/10/15\n撥券日期：2026/10/27\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60966,6 +61017,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：藍新資訊\n證券代
  182\n主辦券商：國票\n投標開始日：2026/10/07\n投標結束日
  ：2026/10/12\n開標日期：2026/10/14\n撥券日期：2026/10/23\n資料
  來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:152e250cb70fb8a0857c4a78e858d2a3c40de484@twse-auction-calendar
+DTSTAMP:20230309T194402Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[TWSE競拍] 東擎科技(7710) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：東擎科技\n證券代
+ 號：7710\n發行市場：集中交易市場\n發行性質：初上市\n
+ 競拍方式：美國標\n競拍數量(張)：4\,402\n最低投標價格(
+ 元)：126.61\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：555\n主辦券商：元大\n投標開始日：2026/10/08\n投標
+ 結束日：2026/10/13\n開標日期：2026/10/15\n撥券日期：2026/10/2
+ 7\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
