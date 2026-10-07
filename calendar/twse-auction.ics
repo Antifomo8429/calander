@@ -60363,13 +60363,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:55d5e6e60e4af4f5834f6d15ecf1545a2b6699fa@twse-auction-calendar
-DTSTAMP:20450918T123532Z
+DTSTAMP:20440221T050355Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:[TWSE競拍] 啟碁五(62855) 投標開始｜轉換價 268
+SUMMARY:[TWSE競拍] 啟碁五(62855) 投標開始｜轉換價 242
 DESCRIPTION:事件：投標開始\n證券名稱：啟碁五\n證券代號
  ：62855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：268（來源：承銷公告）\n拆解日：2026/11/0
+ 債\n轉換價(元)：242（來源：競拍公告）\n拆解日：2026/11/0
  2\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
  格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投
@@ -60578,13 +60578,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:77c1274b6b1b8f056313170e0bd900bac269aeb9@twse-auction-calendar
-DTSTAMP:20440128T135558Z
+DTSTAMP:20280415T090204Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:[TWSE競拍] 啟碁五(62855) 投標截止｜轉換價 268
+SUMMARY:[TWSE競拍] 啟碁五(62855) 投標截止｜轉換價 242
 DESCRIPTION:事件：投標截止\n證券名稱：啟碁五\n證券代號
  ：62855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：268（來源：承銷公告）\n拆解日：2026/11/0
+ 債\n轉換價(元)：242（來源：競拍公告）\n拆解日：2026/11/0
  2\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
  格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投
@@ -60758,13 +60758,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:56783ad9155f4740e3cdc4dc920d46b1f839dd92@twse-auction-calendar
-DTSTAMP:20330422T181910Z
+DTSTAMP:20441002T195432Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:[TWSE競拍] 啟碁五(62855) 開標｜轉換價 268
+SUMMARY:[TWSE競拍] 啟碁五(62855) 開標｜轉換價 242
 DESCRIPTION:事件：開標\n證券名稱：啟碁五\n證券代號：62855
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：268（來源：承銷公告）\n拆解日：2026/11/02\n競
+ 換價(元)：242（來源：競拍公告）\n拆解日：2026/11/02\n競
  拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價格(元)
  ：105\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
  ：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投標結
@@ -60971,13 +60971,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bb235b657253847fbe712ee4aea3839e6ca7c08b@twse-auction-calendar
-DTSTAMP:20250821T212417Z
+DTSTAMP:20270206T171636Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:[TWSE競拍] 啟碁五(62855) 撥券/掛牌｜轉換價 268
+SUMMARY:[TWSE競拍] 啟碁五(62855) 撥券/掛牌｜轉換價 242
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：啟碁五\n證券代號
  ：62855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：268（來源：承銷公告）\n拆解日：2026/11/0
+ 債\n轉換價(元)：242（來源：競拍公告）\n拆解日：2026/11/0
  2\n競拍方式：美國標\n競拍數量(張)：17\,000\n最低投標價
  格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,700\n主辦券商：凱基\n投標開始日：2026/10/07\n投
@@ -61140,13 +61140,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:0ca501cc6a98bd26f0417d58a0ea35c5197f8db5@twse-auction-calendar
-DTSTAMP:20090613T230909Z
+DTSTAMP:20460125T093125Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:[TWSE競拍] 啟碁五(62855) 拆解日｜轉換價 268
+SUMMARY:[TWSE競拍] 啟碁五(62855) 拆解日｜轉換價 242
 DESCRIPTION:事件：拆解日\n證券名稱：啟碁五\n證券代號：62
  855\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：268（來源：承銷公告）\n拆解日說明：掛牌
+ 轉換價(元)：242（來源：競拍公告）\n拆解日說明：掛牌
  日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
  日：2026/11/02\n競拍方式：美國標\n競拍數量(張)：17\,000\n
  最低投標價格(元)：105\n最低每標單投標數量(張)：1\n最高
