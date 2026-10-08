@@ -5302,6 +5302,21 @@
     "attempts": 0
   },
   {
+    "company": "東聯互動股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115400",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/01",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "163.5",
+    "base_price": null,
+    "premium_rate": 105.26,
+    "attempts": 0
+  },
+  {
     "company": "尖點科技股份有限公司",
     "source": "Auction",
     "seq": "115074",
