@@ -5390,6 +5390,36 @@
     "attempts": 0
   },
   {
+    "company": "尖點科技股份有限公司(第三次)",
+    "source": "UnderwritingNotice",
+    "seq": "115401",
+    "underwriter": "福邦證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/06",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "528",
+    "base_price": "480",
+    "premium_rate": 110.0,
+    "attempts": 0
+  },
+  {
+    "company": "臺灣中華化學工業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115403",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/06",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "111.6",
+    "base_price": null,
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
     "company": "高力熱處理工業股份有限公司",
     "source": "Auction",
     "seq": "115075",
@@ -5415,6 +5445,21 @@
     "conversion_price": "242",
     "base_price": "234.67",
     "premium_rate": 103.13,
+    "attempts": 0
+  },
+  {
+    "company": "生合生物科技股份有限公司",
+    "source": "Auction",
+    "seq": "115078",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/13",
+    "bid_end": "2026/10/15",
+    "min_price": "100.00",
+    "conversion_price": "50",
+    "base_price": "48.4",
+    "premium_rate": 103.31,
     "attempts": 0
   }
 ]

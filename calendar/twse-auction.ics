@@ -60754,19 +60754,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:13aee30511a3ae1536ce90f7b02e1efc21fc2505@twse-auction-calendar
-DTSTAMP:20340706T100842Z
+DTSTAMP:20121010T055001Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:[TWSE競拍] 生合一(12951) 投標開始
+SUMMARY:[TWSE競拍] 生合一(12951) 投標開始｜轉換價 50
 DESCRIPTION:事件：投標開始\n證券名稱：生合一\n證券代號
  ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/11/05\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
- /10/13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日
- 期：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05
+ \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
+ 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60914,19 +60913,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8ef4d83f54e9231cf13b0b2d59f2106e2e19c8ec@twse-auction-calendar
-DTSTAMP:20191213T161316Z
+DTSTAMP:20040225T134838Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:[TWSE競拍] 生合一(12951) 投標截止
+SUMMARY:[TWSE競拍] 生合一(12951) 投標截止｜轉換價 50
 DESCRIPTION:事件：投標截止\n證券名稱：生合一\n證券代號
  ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/11/05\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
- /10/13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日
- 期：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05
+ \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
+ 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60984,19 +60982,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:37c4dd002e80ac6e0d8f48ac2eba7e885caf9b7a@twse-auction-calendar
-DTSTAMP:20320929T191207Z
+DTSTAMP:20070921T200023Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:[TWSE競拍] 生合一(12951) 開標
+SUMMARY:[TWSE競拍] 生合一(12951) 開標｜轉換價 50
 DESCRIPTION:事件：開標\n證券名稱：生合一\n證券代號：12951
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/11/05\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低
- 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026/10/
- 13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日期
- ：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05\n競拍
+ 方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(元)：1
+ 00\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：34
+ 0\n主辦券商：台新\n投標開始日：2026/10/13\n投標結束日：2
+ 026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61313,19 +61310,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c4f87c4964a49a28e753eaab5e41b88fa01253dc@twse-auction-calendar
-DTSTAMP:20460307T072101Z
+DTSTAMP:20200724T052327Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:[TWSE競拍] 生合一(12951) 撥券/掛牌
+SUMMARY:[TWSE競拍] 生合一(12951) 撥券/掛牌｜轉換價 50
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：生合一\n證券代號
  ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/11/05\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
- /10/13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日
- 期：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05
+ \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
+ 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61372,20 +61368,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c8fbf7596f663a5d8ad7bb4a53097d37ad00d9d3@twse-auction-calendar
-DTSTAMP:20250421T180525Z
+DTSTAMP:20001203T042849Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:[TWSE競拍] 生合一(12951) 拆解日
+SUMMARY:[TWSE競拍] 生合一(12951) 拆解日｜轉換價 50
 DESCRIPTION:事件：拆解日\n證券名稱：生合一\n證券代號：12
  951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/11/05\n競拍方式：美國標\n競拍數量(
- 張)：3\,400\n最低投標價格(元)：100\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：340\n主辦券商：台新\n投標
- 開始日：2026/10/13\n投標結束日：2026/10/15\n開標日期：2026/1
- 0/19\n撥券日期：2026/10/29\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 轉換價(元)：50（來源：競拍公告）\n拆解日說明：掛牌日
+ 起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解日
+ ：2026/11/05\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低
+ 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026/10/
+ 13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日期
+ ：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
