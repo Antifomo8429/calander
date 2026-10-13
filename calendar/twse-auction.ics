@@ -53480,18 +53480,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2c2adc1df85826258c59a837d336af93c888cbae@twse-auction-calendar
-DTSTAMP:20300314T080205Z
+DTSTAMP:20490819T000012Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:[TWSE競拍] 保瑞五(64725) 投標開始｜轉換價 485
 DESCRIPTION:事件：投標開始\n證券名稱：保瑞五\n證券代號
  ：64725\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：485（來源：競拍公告）\n拆解日：2026/04/2
- 2\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格
- (元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：850\n主辦券商：台新\n投標開始日：2026/03/27\n投標結
- 束日：2026/03/31\n開標日期：2026/04/02\n撥券日期：2026/04/15\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：485（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：8\,500\n最低投標價格(元)：100\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券
+ 商：台新\n投標開始日：2026/03/27\n投標結束日：2026/03/31\n
+ 開標日期：2026/04/02\n撥券日期：2026/04/15\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53532,18 +53532,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e8442ee0d40998a8edf7295dbcb0f725d660aa8b@twse-auction-calendar
-DTSTAMP:20330128T073425Z
+DTSTAMP:20340724T152713Z
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
 SUMMARY:[TWSE競拍] 保瑞五(64725) 投標截止｜轉換價 485
 DESCRIPTION:事件：投標截止\n證券名稱：保瑞五\n證券代號
  ：64725\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：485（來源：競拍公告）\n拆解日：2026/04/2
- 2\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格
- (元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：850\n主辦券商：台新\n投標開始日：2026/03/27\n投標結
- 束日：2026/03/31\n開標日期：2026/04/02\n撥券日期：2026/04/15\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：485（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：8\,500\n最低投標價格(元)：100\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券
+ 商：台新\n投標開始日：2026/03/27\n投標結束日：2026/03/31\n
+ 開標日期：2026/04/02\n撥券日期：2026/04/15\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53584,18 +53584,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:59cf1f790c8326743c905cc240fe4aea351b70e1@twse-auction-calendar
-DTSTAMP:20041010T185536Z
+DTSTAMP:20170109T043827Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:[TWSE競拍] 保瑞五(64725) 開標｜轉換價 485
 DESCRIPTION:事件：開標\n證券名稱：保瑞五\n證券代號：64725
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：485（來源：競拍公告）\n拆解日：2026/04/22\n競
- 拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：850\n主辦券商：台新\n投標開始日：2026/03/27\n投標結束
- 日：2026/03/31\n開標日期：2026/04/02\n撥券日期：2026/04/15\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：485（來源：競拍公告）\n競拍方式：美國標\n競
+ 拍數量(張)：8\,500\n最低投標價格(元)：100\n最低每標單投
+ 標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券商：台
+ 新\n投標開始日：2026/03/27\n投標結束日：2026/03/31\n開標日
+ 期：2026/04/02\n撥券日期：2026/04/15\n資料來源：https://www.tws
+ e.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53806,18 +53806,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:01c43e480424cc4d154e73a3f3b602f7c7c29567@twse-auction-calendar
-DTSTAMP:20430909T115304Z
+DTSTAMP:20030318T142433Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:[TWSE競拍] 保瑞五(64725) 撥券/掛牌｜轉換價 485
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：保瑞五\n證券代號
  ：64725\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：485（來源：競拍公告）\n拆解日：2026/04/2
- 2\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格
- (元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：850\n主辦券商：台新\n投標開始日：2026/03/27\n投標結
- 束日：2026/03/31\n開標日期：2026/04/02\n撥券日期：2026/04/15\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：485（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：8\,500\n最低投標價格(元)：100\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券
+ 商：台新\n投標開始日：2026/03/27\n投標結束日：2026/03/31\n
+ 開標日期：2026/04/02\n撥券日期：2026/04/15\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54045,26 +54045,6 @@ DESCRIPTION:事件：投標開始\n證券名稱：頌勝科技\n證券代
  張)：737\n主辦券商：元大\n投標開始日：2026/04/21\n投標結
  束日：2026/04/23\n開標日期：2026/04/27\n撥券日期：2026/05/07\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e35c8c5d9180d5654602b970515acec36044ccff@twse-auction-calendar
-DTSTAMP:20350426T053133Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:[TWSE競拍] 保瑞五(64725) 拆解日｜轉換價 485
-DESCRIPTION:事件：拆解日\n證券名稱：保瑞五\n證券代號：64
- 725\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：485（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/04/22\n競拍方式：美國標\n競拍數量(張)：8\,500\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：850\n主辦券商：台新\n投標開始日：2026/03
- /27\n投標結束日：2026/03/31\n開標日期：2026/04/02\n撥券日期
- ：2026/04/15\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
