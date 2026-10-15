@@ -60325,13 +60325,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:66fd5e806f703ca2af43000053f108bc10cfd321@twse-auction-calendar
-DTSTAMP:20051106T212651Z
+DTSTAMP:20270921T040835Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:[TWSE競拍] 高力六(89966) 投標開始｜轉換價 1656
+SUMMARY:[TWSE競拍] 高力六(89966) 投標開始｜轉換價 1635
 DESCRIPTION:事件：投標開始\n證券名稱：高力六\n證券代號
  ：89966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/
+ 債\n轉換價(元)：1635（來源：承銷公告）\n拆解日：2026/10/
  30\n競拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價
  格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投
@@ -60540,13 +60540,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:075accbc1f405413ce7de67d9ac34a7f8121b5ba@twse-auction-calendar
-DTSTAMP:20030330T181413Z
+DTSTAMP:20380502T183343Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:[TWSE競拍] 高力六(89966) 投標截止｜轉換價 1656
+SUMMARY:[TWSE競拍] 高力六(89966) 投標截止｜轉換價 1635
 DESCRIPTION:事件：投標截止\n證券名稱：高力六\n證券代號
  ：89966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/
+ 債\n轉換價(元)：1635（來源：承銷公告）\n拆解日：2026/10/
  30\n競拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價
  格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投
@@ -60752,13 +60752,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7e936820ea3a3661ab46f149c33a293a43fb6e5a@twse-auction-calendar
-DTSTAMP:20440904T044437Z
+DTSTAMP:20280228T113650Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:[TWSE競拍] 高力六(89966) 開標｜轉換價 1656
+SUMMARY:[TWSE競拍] 高力六(89966) 開標｜轉換價 1635
 DESCRIPTION:事件：開標\n證券名稱：高力六\n證券代號：89966
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/30\n競
+ 換價(元)：1635（來源：承銷公告）\n拆解日：2026/10/30\n競
  拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價格(元)
  ：105\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
  ：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投標結
@@ -61089,13 +61089,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:97d55a9d90e411738fc4a321db3ec53b492a26fb@twse-auction-calendar
-DTSTAMP:20180514T022229Z
+DTSTAMP:20120226T035656Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:[TWSE競拍] 高力六(89966) 撥券/掛牌｜轉換價 1656
+SUMMARY:[TWSE競拍] 高力六(89966) 撥券/掛牌｜轉換價 1635
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：高力六\n證券代號
  ：89966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：1656（來源：承銷公告）\n拆解日：2026/10/
+ 債\n轉換價(元)：1635（來源：承銷公告）\n拆解日：2026/10/
  30\n競拍方式：美國標\n競拍數量(張)：12\,769\n最低投標價
  格(元)：105\n最低每標單投標數量(張)：1\n最高投(得)標數
  量(張)：1\,276\n主辦券商：富邦\n投標開始日：2026/10/06\n投
@@ -61308,13 +61308,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f4a69fead79eaac32e8fa2bfd4bf5c18e8998a6a@twse-auction-calendar
-DTSTAMP:20471026T185331Z
+DTSTAMP:20170913T005902Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:[TWSE競拍] 高力六(89966) 拆解日｜轉換價 1656
+SUMMARY:[TWSE競拍] 高力六(89966) 拆解日｜轉換價 1635
 DESCRIPTION:事件：拆解日\n證券名稱：高力六\n證券代號：89
  966\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：1656（來源：承銷公告）\n拆解日說明：掛牌
+ 轉換價(元)：1635（來源：承銷公告）\n拆解日說明：掛牌
  日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
  日：2026/10/30\n競拍方式：美國標\n競拍數量(張)：12\,769\n
  最低投標價格(元)：105\n最低每標單投標數量(張)：1\n最高
