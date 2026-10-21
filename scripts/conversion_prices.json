@@ -5521,5 +5521,35 @@
     "base_price": "48.4",
     "premium_rate": 103.31,
     "attempts": 0
+  },
+  {
+    "company": "台燿科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115421",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/15",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "1655.8",
+    "base_price": null,
+    "premium_rate": 102.0,
+    "attempts": 0
+  },
+  {
+    "company": "生合生物科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115419",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/15",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "50",
+    "base_price": "48.4",
+    "premium_rate": 103.31,
+    "attempts": 0
   }
 ]
