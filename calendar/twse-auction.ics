@@ -61158,6 +61158,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:88702c1a13a747fb183976d066c1598940733f7b@twse-auction-calendar
+DTSTAMP:20380915T051339Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[TWSE競拍] 光譜四(53814) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：光譜四\n證券代號
+ ：53814\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/11/18\n競拍方式：美國標\n競拍數量(張)：4\,250\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：425\n主辦券商：富邦\n投標開始日：2026
+ /10/27\n投標結束日：2026/10/29\n開標日期：2026/11/02\n撥券日
+ 期：2026/11/11\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:152e250cb70fb8a0857c4a78e858d2a3c40de484@twse-auction-calendar
 DTSTAMP:20230309T194402Z
 DTSTART;VALUE=DATE:20261027
@@ -61210,6 +61229,25 @@ DESCRIPTION:事件：拆解日\n證券名稱：尖點三\n證券代號：80
  /02\n投標結束日：2026/10/06\n開標日期：2026/10/08\n撥券日期
  ：2026/10/20\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de72cddc44476ebe4510a9e1b4ba80d978560796@twse-auction-calendar
+DTSTAMP:20380827T081727Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:[TWSE競拍] 光譜四(53814) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：光譜四\n證券代號
+ ：53814\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/11/18\n競拍方式：美國標\n競拍數量(張)：4\,250\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：425\n主辦券商：富邦\n投標開始日：2026
+ /10/27\n投標結束日：2026/10/29\n開標日期：2026/11/02\n撥券日
+ 期：2026/11/11\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61327,6 +61365,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ba7c0e1165b6e84b4b7f566a85967dcd2ad19ad4@twse-auction-calendar
+DTSTAMP:20031108T175946Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:[TWSE競拍] 光譜四(53814) 開標
+DESCRIPTION:事件：開標\n證券名稱：光譜四\n證券代號：53814
+ \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/11/18\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低
+ 投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投(
+ 得)標數量(張)：425\n主辦券商：富邦\n投標開始日：2026/10/
+ 27\n投標結束日：2026/10/29\n開標日期：2026/11/02\n撥券日期
+ ：2026/11/11\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:0ca501cc6a98bd26f0417d58a0ea35c5197f8db5@twse-auction-calendar
 DTSTAMP:20460125T093125Z
 DTSTART;VALUE=DATE:20261102
@@ -61362,6 +61419,45 @@ DESCRIPTION:事件：拆解日\n證券名稱：生合一\n證券代號：12
  13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日期
  ：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:89a271d85eec44e2a0413ceabd80a5cfe48344ea@twse-auction-calendar
+DTSTAMP:20320602T052836Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[TWSE競拍] 光譜四(53814) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：光譜四\n證券代號
+ ：53814\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/11/18\n競拍方式：美國標\n競拍數量(張)：4\,250\n
+ 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
+ 投(得)標數量(張)：425\n主辦券商：富邦\n投標開始日：2026
+ /10/27\n投標結束日：2026/10/29\n開標日期：2026/11/02\n撥券日
+ 期：2026/11/11\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8087feebd37e401273002def50d7062b861a015@twse-auction-calendar
+DTSTAMP:20100522T200856Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[TWSE競拍] 光譜四(53814) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：光譜四\n證券代號：53
+ 814\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/11/18\n競拍方式：美國標\n競拍數量(
+ 張)：4\,250\n最低投標價格(元)：101\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：425\n主辦券商：富邦\n投標
+ 開始日：2026/10/27\n投標結束日：2026/10/29\n開標日期：2026/1
+ 1/02\n撥券日期：2026/11/11\n資料來源：https://www.twse.com.tw/zh/
+ announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
