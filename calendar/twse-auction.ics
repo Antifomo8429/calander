@@ -60666,7 +60666,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:707dd282786f8a819aa9c4f43368b5b7ffdf29c7@twse-auction-calendar
-DTSTAMP:20491016T022445Z
+DTSTAMP:20470806T125543Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:[TWSE競拍] 和暢科技(6825) 投標開始
@@ -60675,7 +60675,7 @@ DESCRIPTION:事件：投標開始\n證券名稱：和暢科技\n證券代
  方式：美國標\n競拍數量(張)：3\,568\n最低投標價格(元)：2
  0\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：461
  \n主辦券商：宏遠\n投標開始日：2026/10/13\n投標結束日：20
- 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來
+ 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60717,7 +60717,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a7d2d1e98e6bcfe943e8f8e2763e597faa2462@twse-auction-calendar
-DTSTAMP:20320330T100508Z
+DTSTAMP:20090215T134129Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:[TWSE競拍] 特力屋(7867) 投標開始
@@ -60726,7 +60726,7 @@ DESCRIPTION:事件：投標開始\n證券名稱：特力屋\n證券代號
  拍方式：美國標\n競拍數量(張)：7\,344\n最低投標價格(元)
  ：38.43\n最低每標單投標數量(張)：1\n最高投(得)標數量(張
  )：1\,055\n主辦券商：福邦\n投標開始日：2026/10/13\n投標結
- 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60734,17 +60734,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:13aee30511a3ae1536ce90f7b02e1efc21fc2505@twse-auction-calendar
-DTSTAMP:20121010T055001Z
+DTSTAMP:20040126T195223Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:[TWSE競拍] 生合一(12951) 投標開始｜轉換價 50
 DESCRIPTION:事件：投標開始\n證券名稱：生合一\n證券代號
  ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05
+ 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/06
  \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
  元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
  張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
- 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60842,7 +60842,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:041c8d4164260ae6b5ee29e874347b785b45c6f0@twse-auction-calendar
-DTSTAMP:20250602T224842Z
+DTSTAMP:20410322T041055Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:[TWSE競拍] 和暢科技(6825) 投標截止
@@ -60851,7 +60851,7 @@ DESCRIPTION:事件：投標截止\n證券名稱：和暢科技\n證券代
  方式：美國標\n競拍數量(張)：3\,568\n最低投標價格(元)：2
  0\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：461
  \n主辦券商：宏遠\n投標開始日：2026/10/13\n投標結束日：20
- 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來
+ 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60876,7 +60876,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a3e37a0d7a1685cb46c34e7dcb9cdd961c0eb819@twse-auction-calendar
-DTSTAMP:20020723T102801Z
+DTSTAMP:20110817T183501Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:[TWSE競拍] 特力屋(7867) 投標截止
@@ -60885,7 +60885,7 @@ DESCRIPTION:事件：投標截止\n證券名稱：特力屋\n證券代號
  拍方式：美國標\n競拍數量(張)：7\,344\n最低投標價格(元)
  ：38.43\n最低每標單投標數量(張)：1\n最高投(得)標數量(張
  )：1\,055\n主辦券商：福邦\n投標開始日：2026/10/13\n投標結
- 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60893,17 +60893,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8ef4d83f54e9231cf13b0b2d59f2106e2e19c8ec@twse-auction-calendar
-DTSTAMP:20040225T134838Z
+DTSTAMP:20201112T012450Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:[TWSE競拍] 生合一(12951) 投標截止｜轉換價 50
 DESCRIPTION:事件：投標截止\n證券名稱：生合一\n證券代號
  ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05
+ 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/06
  \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
  元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
  張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
- 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60928,7 +60928,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fb0ca7a0e332b77749107e401d1a913381c2a77e@twse-auction-calendar
-DTSTAMP:20270807T094837Z
+DTSTAMP:20250222T073447Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:[TWSE競拍] 和暢科技(6825) 開標
@@ -60937,7 +60937,7 @@ DESCRIPTION:事件：開標\n證券名稱：和暢科技\n證券代號：68
  美國標\n競拍數量(張)：3\,568\n最低投標價格(元)：20\n最低
  每標單投標數量(張)：1\n最高投(得)標數量(張)：461\n主辦
  券商：宏遠\n投標開始日：2026/10/13\n投標結束日：2026/10/15
- \n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來源：http
+ \n開標日期：2026/10/19\n撥券日期：2026/10/30\n資料來源：http
  s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60945,7 +60945,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6c093068ba39481337ffdea7dc24d9d0356f3415@twse-auction-calendar
-DTSTAMP:20470217T151008Z
+DTSTAMP:20021029T055532Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:[TWSE競拍] 特力屋(7867) 開標
@@ -60954,7 +60954,7 @@ DESCRIPTION:事件：開標\n證券名稱：特力屋\n證券代號：7867\
  ：美國標\n競拍數量(張)：7\,344\n最低投標價格(元)：38.43\n
  最低每標單投標數量(張)：1\n最高投(得)標數量(張)：1\,055
  \n主辦券商：福邦\n投標開始日：2026/10/13\n投標結束日：20
- 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來
+ 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -60962,17 +60962,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:37c4dd002e80ac6e0d8f48ac2eba7e885caf9b7a@twse-auction-calendar
-DTSTAMP:20070921T200023Z
+DTSTAMP:20150702T125143Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:[TWSE競拍] 生合一(12951) 開標｜轉換價 50
 DESCRIPTION:事件：開標\n證券名稱：生合一\n證券代號：12951
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05\n競拍
+ 換價(元)：50（來源：競拍公告）\n拆解日：2026/11/06\n競拍
  方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(元)：1
  00\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：34
  0\n主辦券商：台新\n投標開始日：2026/10/13\n投標結束日：2
- 026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來
+ 026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
@@ -61272,23 +61272,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a7bb9f8e8833271709526aeb33cff06318780444@twse-auction-calendar
-DTSTAMP:20340629T011247Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:[TWSE競拍] 和暢科技(6825) 撥券/掛牌
-DESCRIPTION:事件：撥券/掛牌\n證券名稱：和暢科技\n證券代
- 號：6825\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
- 方式：美國標\n競拍數量(張)：3\,568\n最低投標價格(元)：2
- 0\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：461
- \n主辦券商：宏遠\n投標開始日：2026/10/13\n投標結束日：20
- 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n資料來
- 源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:907ecc8dc3c4873d6fd47d047ccd165bb67c23c0@twse-auction-calendar
 DTSTAMP:20071119T184809Z
 DTSTART;VALUE=DATE:20261029
@@ -61329,36 +61312,18 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8489e00bc6198092b7dbb235a61ef3c0232117bd@twse-auction-calendar
-DTSTAMP:20430202T111102Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:[TWSE競拍] 特力屋(7867) 撥券/掛牌
-DESCRIPTION:事件：撥券/掛牌\n證券名稱：特力屋\n證券代號
- ：7867\n發行市場：集中交易市場\n發行性質：初上市\n競
- 拍方式：美國標\n競拍數量(張)：7\,344\n最低投標價格(元)
- ：38.43\n最低每標單投標數量(張)：1\n最高投(得)標數量(張
- )：1\,055\n主辦券商：福邦\n投標開始日：2026/10/13\n投標結
- 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c4f87c4964a49a28e753eaab5e41b88fa01253dc@twse-auction-calendar
-DTSTAMP:20200724T052327Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:[TWSE競拍] 生合一(12951) 撥券/掛牌｜轉換價 50
-DESCRIPTION:事件：撥券/掛牌\n證券名稱：生合一\n證券代號
- ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/05
- \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
- 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
- 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/29\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+UID:b6ae5361cd962cf61076cc195de27bb74e0d26f2@twse-auction-calendar
+DTSTAMP:20460424T224735Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[TWSE競拍] 和暢科技(6825) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：和暢科技\n證券代
+ 號：6825\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：3\,568\n最低投標價格(元)：2
+ 0\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：461
+ \n主辦券商：宏遠\n投標開始日：2026/10/13\n投標結束日：20
+ 26/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61378,6 +61343,41 @@ DESCRIPTION:事件：投標截止\n證券名稱：泰谷五\n證券代號
  026/10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券
  日期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement
  /auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f3efb2b2723893b29b05248a7bcffe2a2a0a3bdf@twse-auction-calendar
+DTSTAMP:20270503T044603Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[TWSE競拍] 特力屋(7867) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：特力屋\n證券代號
+ ：7867\n發行市場：集中交易市場\n發行性質：初上市\n競
+ 拍方式：美國標\n競拍數量(張)：7\,344\n最低投標價格(元)
+ ：38.43\n最低每標單投標數量(張)：1\n最高投(得)標數量(張
+ )：1\,055\n主辦券商：福邦\n投標開始日：2026/10/13\n投標結
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1f25b37e9df96f2b73efaaaff5006b219ca63074@twse-auction-calendar
+DTSTAMP:20180928T234813Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[TWSE競拍] 生合一(12951) 撥券/掛牌｜轉換價 50
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：生合一\n證券代號
+ ：12951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：50（來源：競拍公告）\n拆解日：2026/11/06
+ \n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(
+ 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
+ 束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61461,20 +61461,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c8fbf7596f663a5d8ad7bb4a53097d37ad00d9d3@twse-auction-calendar
-DTSTAMP:20001203T042849Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
+UID:0cd2dba92b4c965c4bc83fa5f17b431be986e4ab@twse-auction-calendar
+DTSTAMP:20340808T060432Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
 SUMMARY:[TWSE競拍] 生合一(12951) 拆解日｜轉換價 50
 DESCRIPTION:事件：拆解日\n證券名稱：生合一\n證券代號：12
  951\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
  轉換價(元)：50（來源：競拍公告）\n拆解日說明：掛牌日
  起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解日
- ：2026/11/05\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低
+ ：2026/11/06\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低
  投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
  得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026/10/
  13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日期
- ：2026/10/29\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ ：2026/10/30\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
