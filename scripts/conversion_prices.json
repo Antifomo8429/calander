@@ -5551,5 +5551,18 @@
     "base_price": "48.4",
     "premium_rate": 103.31,
     "attempts": 0
+  },
+  {
+    "company": "光譜電工股份有限公司",
+    "source": "Auction",
+    "seq": "115079",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/27",
+    "bid_end": "2026/10/29",
+    "min_price": "101.00",
+    "conversion_price": null,
+    "attempts": 1
   }
 ]
