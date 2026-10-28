@@ -5563,6 +5563,21 @@
     "bid_end": "2026/10/29",
     "min_price": "101.00",
     "conversion_price": null,
-    "attempts": 2
+    "attempts": 3
+  },
+  {
+    "company": "泰谷光電科技股份有限公司",
+    "source": "Auction",
+    "seq": "115080",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/10/28",
+    "bid_end": "2026/10/30",
+    "min_price": "101.00",
+    "conversion_price": "45.3",
+    "base_price": null,
+    "premium_rate": null,
+    "attempts": 0
   }
 ]

@@ -61235,19 +61235,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6ad36158869431a00a81adcd8631fa400735d29d@twse-auction-calendar
-DTSTAMP:20301208T225647Z
+DTSTAMP:20410922T192543Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:[TWSE競拍] 泰谷五(33395) 投標開始
+SUMMARY:[TWSE競拍] 泰谷五(33395) 投標開始｜轉換價 45.3
 DESCRIPTION:事件：投標開始\n證券名稱：泰谷五\n證券代號
  ：33395\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/11/19\n競拍方式：美國標\n競拍數量(張)：4\,500\n
- 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：450\n主辦券商：永豐金\n投標開始日：2
- 026/10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券
- 日期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 債\n轉換價(元)：45.3（來源：競拍公告）\n拆解日：2026/11/
+ 19\n競拍方式：美國標\n競拍數量(張)：4\,500\n最低投標價
+ 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：450\n主辦券商：永豐金\n投標開始日：2026/10/28\n投
+ 標結束日：2026/10/30\n開標日期：2026/11/03\n撥券日期：2026/1
+ 1/12\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61330,19 +61329,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a72c9671162c2180678110e2ab72f0703ad18b6e@twse-auction-calendar
-DTSTAMP:20130209T212532Z
+DTSTAMP:20481210T094825Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:[TWSE競拍] 泰谷五(33395) 投標截止
+SUMMARY:[TWSE競拍] 泰谷五(33395) 投標截止｜轉換價 45.3
 DESCRIPTION:事件：投標截止\n證券名稱：泰谷五\n證券代號
  ：33395\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/11/19\n競拍方式：美國標\n競拍數量(張)：4\,500\n
- 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：450\n主辦券商：永豐金\n投標開始日：2
- 026/10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券
- 日期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 債\n轉換價(元)：45.3（來源：競拍公告）\n拆解日：2026/11/
+ 19\n競拍方式：美國標\n競拍數量(張)：4\,500\n最低投標價
+ 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：450\n主辦券商：永豐金\n投標開始日：2026/10/28\n投
+ 標結束日：2026/10/30\n開標日期：2026/11/03\n撥券日期：2026/1
+ 1/12\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61378,6 +61376,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：生合一\n證券代號
  張)：340\n主辦券商：台新\n投標開始日：2026/10/13\n投標結
  束日：2026/10/15\n開標日期：2026/10/19\n撥券日期：2026/10/30\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:708020a6db4577791e955121d5d1d74c5ae05cdb@twse-auction-calendar
+DTSTAMP:20420915T134604Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[TWSE競拍] 騏億鑫(7848) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：騏億鑫\n證券代號
+ ：7848\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方
+ 式：美國標\n競拍數量(張)：3\,060\n最低投標價格(元)：210\
+ n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：392\n
+ 主辦券商：永豐金\n投標開始日：2026/10/30\n投標結束日：2
+ 026/11/03\n開標日期：2026/11/05\n撥券日期：2026/11/16\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61443,19 +61458,52 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:abddefc03fe52a08eda24b571452e3f7f449a3ef@twse-auction-calendar
-DTSTAMP:20420714T002842Z
+DTSTAMP:20420718T173225Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:[TWSE競拍] 泰谷五(33395) 開標
+SUMMARY:[TWSE競拍] 泰谷五(33395) 開標｜轉換價 45.3
 DESCRIPTION:事件：開標\n證券名稱：泰谷五\n證券代號：33395
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/11/19\n競拍方式：美國標\n競拍數量(張)：4\,500\n最低
- 投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：450\n主辦券商：永豐金\n投標開始日：2026/
- 10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券日
- 期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 換價(元)：45.3（來源：競拍公告）\n拆解日：2026/11/19\n競
+ 拍方式：美國標\n競拍數量(張)：4\,500\n最低投標價格(元)
+ ：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：450\n主辦券商：永豐金\n投標開始日：2026/10/28\n投標結
+ 束日：2026/10/30\n開標日期：2026/11/03\n撥券日期：2026/11/12\n
+ 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b266186c867432c7e5b14dbf4427d7524a1b1952@twse-auction-calendar
+DTSTAMP:20240224T041432Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:[TWSE競拍] 騏億鑫(7848) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：騏億鑫\n證券代號
+ ：7848\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方
+ 式：美國標\n競拍數量(張)：3\,060\n最低投標價格(元)：210\
+ n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：392\n
+ 主辦券商：永豐金\n投標開始日：2026/10/30\n投標結束日：2
+ 026/11/03\n開標日期：2026/11/05\n撥券日期：2026/11/16\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:940d731ae22e79e4f24e52cf6df3326d17258697@twse-auction-calendar
+DTSTAMP:20470323T002742Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[TWSE競拍] 騏億鑫(7848) 開標
+DESCRIPTION:事件：開標\n證券名稱：騏億鑫\n證券代號：7848\
+ n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：3\,060\n最低投標價格(元)：210\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：392\n主辦
+ 券商：永豐金\n投標開始日：2026/10/30\n投標結束日：2026/11
+ /03\n開標日期：2026/11/05\n撥券日期：2026/11/16\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61501,19 +61549,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:065d9d353aa7731685a21ee2031e419f3b6268ab@twse-auction-calendar
-DTSTAMP:20280507T140756Z
+DTSTAMP:20391023T100507Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:[TWSE競拍] 泰谷五(33395) 撥券/掛牌
+SUMMARY:[TWSE競拍] 泰谷五(33395) 撥券/掛牌｜轉換價 45.3
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：泰谷五\n證券代號
  ：33395\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/11/19\n競拍方式：美國標\n競拍數量(張)：4\,500\n
- 最低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：450\n主辦券商：永豐金\n投標開始日：2
- 026/10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券
- 日期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement
- /auction.html
+ 債\n轉換價(元)：45.3（來源：競拍公告）\n拆解日：2026/11/
+ 19\n競拍方式：美國標\n競拍數量(張)：4\,500\n最低投標價
+ 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：450\n主辦券商：永豐金\n投標開始日：2026/10/28\n投
+ 標結束日：2026/10/30\n開標日期：2026/11/03\n撥券日期：2026/1
+ 1/12\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abb7b12eb696baf069918e8afb847bf8d3d7fe48@twse-auction-calendar
+DTSTAMP:20290602T215117Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[TWSE競拍] 騏億鑫(7848) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：騏億鑫\n證券代號
+ ：7848\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方
+ 式：美國標\n競拍數量(張)：3\,060\n最低投標價格(元)：210\
+ n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：392\n
+ 主辦券商：永豐金\n投標開始日：2026/10/30\n投標結束日：2
+ 026/11/03\n開標日期：2026/11/05\n撥券日期：2026/11/16\n資料來
+ 源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61540,20 +61604,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:452843c66b8e52131848b6c9b8f984d54dcd1842@twse-auction-calendar
-DTSTAMP:20330223T210326Z
+DTSTAMP:20360104T192701Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:[TWSE競拍] 泰谷五(33395) 拆解日
+SUMMARY:[TWSE競拍] 泰谷五(33395) 拆解日｜轉換價 45.3
 DESCRIPTION:事件：拆解日\n證券名稱：泰谷五\n證券代號：33
  395\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/11/19\n競拍方式：美國標\n競拍數量(
- 張)：4\,500\n最低投標價格(元)：101\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：450\n主辦券商：永豐金\n投
- 標開始日：2026/10/28\n投標結束日：2026/10/30\n開標日期：202
- 6/11/03\n撥券日期：2026/11/12\n資料來源：https://www.twse.com.tw/
- zh/announcement/auction.html
+ 轉換價(元)：45.3（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/11/19\n競拍方式：美國標\n競拍數量(張)：4\,500\n最
+ 低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：450\n主辦券商：永豐金\n投標開始日：2026
+ /10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券日
+ 期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
