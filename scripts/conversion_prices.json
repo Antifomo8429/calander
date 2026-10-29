@@ -5553,6 +5553,21 @@
     "attempts": 0
   },
   {
+    "company": "大聯大控股股份有限公司(第四次)",
+    "source": "UnderwritingNotice",
+    "seq": "115428",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/19",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "135",
+    "base_price": "116.5",
+    "premium_rate": 115.88,
+    "attempts": 0
+  },
+  {
     "company": "光譜電工股份有限公司",
     "source": "Auction",
     "seq": "115079",
@@ -5563,7 +5578,7 @@
     "bid_end": "2026/10/29",
     "min_price": "101.00",
     "conversion_price": null,
-    "attempts": 4
+    "attempts": 5
   },
   {
     "company": "泰谷光電科技股份有限公司",
