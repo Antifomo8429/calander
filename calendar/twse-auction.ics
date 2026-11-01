@@ -53842,18 +53842,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2400dd9e47850603664deb8d24a09220cf4acfa4@twse-auction-calendar
-DTSTAMP:20011204T094900Z
+DTSTAMP:20171107T120406Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 SUMMARY:[TWSE競拍] 永捷八(47148) 投標開始｜轉換價 16.1
 DESCRIPTION:事件：投標開始\n證券名稱：永捷八\n證券代號
  ：47148\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：16.1（來源：競拍公告）\n拆解日：2026/05/
- 11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：台新\n投標開始日：2026/04/16\n投標
- 結束日：2026/04/20\n開標日期：2026/04/22\n撥券日期：2026/05/0
- 4\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：16.1（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦
+ 券商：台新\n投標開始日：2026/04/16\n投標結束日：2026/04/20
+ \n開標日期：2026/04/22\n撥券日期：2026/05/04\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53964,18 +53964,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:32b275bff7d852f78cb94eb5cd25fbe856183b5e@twse-auction-calendar
-DTSTAMP:20011117T094140Z
+DTSTAMP:20200721T071344Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:[TWSE競拍] 永捷八(47148) 投標截止｜轉換價 16.1
 DESCRIPTION:事件：投標截止\n證券名稱：永捷八\n證券代號
  ：47148\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：16.1（來源：競拍公告）\n拆解日：2026/05/
- 11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：台新\n投標開始日：2026/04/16\n投標
- 結束日：2026/04/20\n開標日期：2026/04/22\n撥券日期：2026/05/0
- 4\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：16.1（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦
+ 券商：台新\n投標開始日：2026/04/16\n投標結束日：2026/04/20
+ \n開標日期：2026/04/22\n撥券日期：2026/05/04\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54085,18 +54085,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:711e1f7b2039adecc83da4994c2b21690d275c35@twse-auction-calendar
-DTSTAMP:20350527T033225Z
+DTSTAMP:20330913T184926Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:[TWSE競拍] 永捷八(47148) 開標｜轉換價 16.1
 DESCRIPTION:事件：開標\n證券名稱：永捷八\n證券代號：47148
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：16.1（來源：競拍公告）\n拆解日：2026/05/11\n競
- 拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：255\n主辦券商：台新\n投標開始日：2026/04/16\n投標結束
- 日：2026/04/20\n開標日期：2026/04/22\n撥券日期：2026/05/04\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：16.1（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦券商：
+ 台新\n投標開始日：2026/04/16\n投標結束日：2026/04/20\n開標
+ 日期：2026/04/22\n撥券日期：2026/05/04\n資料來源：https://www.
+ twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54556,18 +54556,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:115adee94830b9d74a652c56f06bfb0271c459c5@twse-auction-calendar
-DTSTAMP:20120325T000617Z
+DTSTAMP:20290702T114021Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 SUMMARY:[TWSE競拍] 永捷八(47148) 撥券/掛牌｜轉換價 16.1
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：永捷八\n證券代號
  ：47148\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：16.1（來源：競拍公告）\n拆解日：2026/05/
- 11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：台新\n投標開始日：2026/04/16\n投標
- 結束日：2026/04/20\n開標日期：2026/04/22\n撥券日期：2026/05/0
- 4\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：16.1（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦
+ 券商：台新\n投標開始日：2026/04/16\n投標結束日：2026/04/20
+ \n開標日期：2026/04/22\n撥券日期：2026/05/04\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54936,26 +54936,6 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：天能綠電\n證券代
  312\n主辦券商：永豐金\n投標開始日：2026/04/23\n投標結束
  日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n資
  料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5f57c210875cbf9f184e1cdafc8656204678a591@twse-auction-calendar
-DTSTAMP:20100804T211747Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-SUMMARY:[TWSE競拍] 永捷八(47148) 拆解日｜轉換價 16.1
-DESCRIPTION:事件：拆解日\n證券名稱：永捷八\n證券代號：47
- 148\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：16.1（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/05/11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：255\n主辦券商：台新\n投標開始日：2026/04
- /16\n投標結束日：2026/04/20\n開標日期：2026/04/22\n撥券日期
- ：2026/05/04\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
