@@ -53894,18 +53894,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:79c876676aa19bb77e4c80b0f9e2c971f22a85be@twse-auction-calendar
-DTSTAMP:20461125T172303Z
+DTSTAMP:20220910T083744Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:[TWSE競拍] 宇瞻一(82711) 投標開始｜轉換價 165
 DESCRIPTION:事件：投標開始\n證券名稱：宇瞻一\n證券代號
  ：82711\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：165（來源：競拍公告）\n拆解日：2026/05/1
- 2\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格
- (元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：850\n主辦券商：凱基\n投標開始日：2026/04/17\n投標結
- 束日：2026/04/21\n開標日期：2026/04/23\n撥券日期：2026/05/05\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：165（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：8\,500\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券
+ 商：凱基\n投標開始日：2026/04/17\n投標結束日：2026/04/21\n
+ 開標日期：2026/04/23\n撥券日期：2026/05/05\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53999,18 +53999,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cf90045e6a4b1be1738c8631bdfebe323144a3c1@twse-auction-calendar
-DTSTAMP:20071003T222224Z
+DTSTAMP:20220202T064209Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
 SUMMARY:[TWSE競拍] 宇瞻一(82711) 投標截止｜轉換價 165
 DESCRIPTION:事件：投標截止\n證券名稱：宇瞻一\n證券代號
  ：82711\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：165（來源：競拍公告）\n拆解日：2026/05/1
- 2\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格
- (元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：850\n主辦券商：凱基\n投標開始日：2026/04/17\n投標結
- 束日：2026/04/21\n開標日期：2026/04/23\n撥券日期：2026/05/05\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：165（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：8\,500\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券
+ 商：凱基\n投標開始日：2026/04/17\n投標結束日：2026/04/21\n
+ 開標日期：2026/04/23\n撥券日期：2026/05/05\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54172,18 +54172,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6ad80662f1d888afe573b818c04194e44371f945@twse-auction-calendar
-DTSTAMP:20000730T084433Z
+DTSTAMP:20310120T200328Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:[TWSE競拍] 宇瞻一(82711) 開標｜轉換價 165
 DESCRIPTION:事件：開標\n證券名稱：宇瞻一\n證券代號：82711
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：165（來源：競拍公告）\n拆解日：2026/05/12\n競
- 拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格(元)
- ：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：850\n主辦券商：凱基\n投標開始日：2026/04/17\n投標結束
- 日：2026/04/21\n開標日期：2026/04/23\n撥券日期：2026/05/05\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：165（來源：競拍公告）\n競拍方式：美國標\n競
+ 拍數量(張)：8\,500\n最低投標價格(元)：101\n最低每標單投
+ 標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券商：凱
+ 基\n投標開始日：2026/04/17\n投標結束日：2026/04/21\n開標日
+ 期：2026/04/23\n撥券日期：2026/05/05\n資料來源：https://www.tws
+ e.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54592,18 +54592,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:38c36d3b8e62f505b32e8ff761de303391b18274@twse-auction-calendar
-DTSTAMP:20090313T231739Z
+DTSTAMP:20270506T193059Z
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
 SUMMARY:[TWSE競拍] 宇瞻一(82711) 撥券/掛牌｜轉換價 165
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：宇瞻一\n證券代號
  ：82711\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：165（來源：競拍公告）\n拆解日：2026/05/1
- 2\n競拍方式：美國標\n競拍數量(張)：8\,500\n最低投標價格
- (元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：850\n主辦券商：凱基\n投標開始日：2026/04/17\n投標結
- 束日：2026/04/21\n開標日期：2026/04/23\n撥券日期：2026/05/05\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：165（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：8\,500\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：850\n主辦券
+ 商：凱基\n投標開始日：2026/04/17\n投標結束日：2026/04/21\n
+ 開標日期：2026/04/23\n撥券日期：2026/05/05\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54970,26 +54970,6 @@ DESCRIPTION:事件：開標\n證券名稱：雲象科技\n證券代號：78
  主辦券商：兆豐\n投標開始日：2026/05/05\n投標結束日：2026
  /05/07\n開標日期：2026/05/11\n撥券日期：2026/05/20\n資料來源
  ：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:728b55947b6d06fa8c50e574fa8541058ded8f79@twse-auction-calendar
-DTSTAMP:20360502T212129Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:[TWSE競拍] 宇瞻一(82711) 拆解日｜轉換價 165
-DESCRIPTION:事件：拆解日\n證券名稱：宇瞻一\n證券代號：82
- 711\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：165（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/05/12\n競拍方式：美國標\n競拍數量(張)：8\,500\n最
- 低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：850\n主辦券商：凱基\n投標開始日：2026/04
- /17\n投標結束日：2026/04/21\n開標日期：2026/04/23\n撥券日期
- ：2026/05/05\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61472,6 +61452,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5898f9455f2493f7ad56a06b258e4daa4ca32409@twse-auction-calendar
+DTSTAMP:20170422T195758Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[TWSE競拍] 宏偉(4565) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：宏偉\n證券代號：45
+ 65\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：5\,617\n最低投標價格(元)：75\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：706\n主辦
+ 券商：中國信託\n投標開始日：2026/11/04\n投標結束日：2026
+ /11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a2cb3581633eccce6c7505c31b9ffdb541df16b9@twse-auction-calendar
+DTSTAMP:20210522T172155Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:[TWSE競拍] 耐特(8058) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：耐特\n證券代號：80
+ 58\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：4\,896\n最低投標價格(元)：62.5
+ \n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：612\
+ n主辦券商：兆豐\n投標開始日：2026/11/04\n投標結束日：202
+ 6/11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:940d731ae22e79e4f24e52cf6df3326d17258697@twse-auction-calendar
 DTSTAMP:20470323T002742Z
 DTSTART;VALUE=DATE:20261105
@@ -61484,6 +61498,23 @@ DESCRIPTION:事件：開標\n證券名稱：騏億鑫\n證券代號：7848\
  券商：永豐金\n投標開始日：2026/10/30\n投標結束日：2026/11
  /03\n開標日期：2026/11/05\n撥券日期：2026/11/16\n資料來源：h
  ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:217e3ca0f1d0e9300f905be8355d28dba8172fba@twse-auction-calendar
+DTSTAMP:20340904T161016Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[TWSE競拍] 宏偉(4565) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：宏偉\n證券代號：45
+ 65\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：5\,617\n最低投標價格(元)：75\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：706\n主辦
+ 券商：中國信託\n投標開始日：2026/11/04\n投標結束日：2026
+ /11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61504,6 +61535,57 @@ DESCRIPTION:事件：拆解日\n證券名稱：生合一\n證券代號：12
  13\n投標結束日：2026/10/15\n開標日期：2026/10/19\n撥券日期
  ：2026/10/30\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6bbfbc0bc1d8bac579156a74e1948430d8479242@twse-auction-calendar
+DTSTAMP:20060331T203815Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[TWSE競拍] 耐特(8058) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：耐特\n證券代號：80
+ 58\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：4\,896\n最低投標價格(元)：62.5
+ \n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：612\
+ n主辦券商：兆豐\n投標開始日：2026/11/04\n投標結束日：202
+ 6/11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a6c9747891b9a357f6fa3cf2f49fa990244b045@twse-auction-calendar
+DTSTAMP:20120218T203516Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:[TWSE競拍] 宏偉(4565) 開標
+DESCRIPTION:事件：開標\n證券名稱：宏偉\n證券代號：4565\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：5\,617\n最低投標價格(元)：75\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：706\n主辦券
+ 商：中國信託\n投標開始日：2026/11/04\n投標結束日：2026/11
+ /06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bac192f5ae4275c902ed846a462ab040e7d68c4d@twse-auction-calendar
+DTSTAMP:20241104T021413Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:[TWSE競拍] 耐特(8058) 開標
+DESCRIPTION:事件：開標\n證券名稱：耐特\n證券代號：8058\n
+ 發行市場：集中交易市場\n發行性質：初上市\n競拍方式
+ ：美國標\n競拍數量(張)：4\,896\n最低投標價格(元)：62.5\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：612\n
+ 主辦券商：兆豐\n投標開始日：2026/11/04\n投標結束日：2026
+ /11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61583,6 +61665,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:e105bd867ba9b9c39c1283f18e94417c96cae91b@twse-auction-calendar
+DTSTAMP:20260912T092729Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:[TWSE競拍] 宏偉(4565) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：宏偉\n證券代號：4
+ 565\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：5\,617\n最低投標價格(元)：75\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：706\n主辦
+ 券商：中國信託\n投標開始日：2026/11/04\n投標結束日：2026
+ /11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:452843c66b8e52131848b6c9b8f984d54dcd1842@twse-auction-calendar
 DTSTAMP:20360104T192701Z
 DTSTART;VALUE=DATE:20261119
@@ -61598,6 +61697,23 @@ DESCRIPTION:事件：拆解日\n證券名稱：泰谷五\n證券代號：33
  /10/28\n投標結束日：2026/10/30\n開標日期：2026/11/03\n撥券日
  期：2026/11/12\n資料來源：https://www.twse.com.tw/zh/announcement/au
  ction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f75d1299ae2c8c5b45f5014c23a4d07eb91ea95@twse-auction-calendar
+DTSTAMP:20430708T150315Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:[TWSE競拍] 耐特(8058) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：耐特\n證券代號：8
+ 058\n發行市場：集中交易市場\n發行性質：初上市\n競拍方
+ 式：美國標\n競拍數量(張)：4\,896\n最低投標價格(元)：62.5
+ \n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：612\
+ n主辦券商：兆豐\n投標開始日：2026/11/04\n投標結束日：202
+ 6/11/06\n開標日期：2026/11/10\n撥券日期：2026/11/19\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
