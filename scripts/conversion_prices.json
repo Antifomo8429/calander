@@ -5583,6 +5583,21 @@
     "attempts": 0
   },
   {
+    "company": "聯策科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115431",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/21",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "180",
+    "base_price": "170.5",
+    "premium_rate": 105.57,
+    "attempts": 0
+  },
+  {
     "company": "光譜電工股份有限公司",
     "source": "Auction",
     "seq": "115079",
@@ -5609,5 +5624,18 @@
     "base_price": null,
     "premium_rate": null,
     "attempts": 0
+  },
+  {
+    "company": "立誠光電股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115432",
+    "underwriter": "福邦證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/27",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
   }
 ]
