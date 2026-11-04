@@ -5641,6 +5641,51 @@
     "attempts": 0
   },
   {
+    "company": "世紀鋼鐵結構股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115438",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/29",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "88",
+    "base_price": null,
+    "premium_rate": 106.24,
+    "attempts": 0
+  },
+  {
+    "company": "大華建設股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115439",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/30",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "20.5",
+    "base_price": "19.13",
+    "premium_rate": 107.0,
+    "attempts": 0
+  },
+  {
+    "company": "泰谷光電科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115437",
+    "underwriter": "永豐金證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/10/30",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "45.3",
+    "base_price": "43.53",
+    "premium_rate": 104.07,
+    "attempts": 0
+  },
+  {
     "company": "立誠光電股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115432",
@@ -5651,6 +5696,6 @@
     "bid_end": "",
     "min_price": "",
     "conversion_price": null,
-    "attempts": 4
+    "attempts": 5
   }
 ]
