@@ -5583,6 +5583,21 @@
     "attempts": 0
   },
   {
+    "company": "光譜電工股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115433",
+    "underwriter": "富邦綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/10/21",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "22",
+    "base_price": "21.14",
+    "premium_rate": 104.07,
+    "attempts": 0
+  },
+  {
     "company": "聯策科技股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115431",
@@ -5636,6 +5651,6 @@
     "bid_end": "",
     "min_price": "",
     "conversion_price": null,
-    "attempts": 3
+    "attempts": 4
   }
 ]
