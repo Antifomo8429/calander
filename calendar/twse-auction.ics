@@ -54120,18 +54120,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cb238ddcefbfd628dd3738ed0a178a3f20e63898@twse-auction-calendar
-DTSTAMP:20460107T184053Z
+DTSTAMP:20190507T040302Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:[TWSE競拍] jpp五KY(52845) 投標開始｜轉換價 322.6
 DESCRIPTION:事件：投標開始\n證券名稱：jpp五KY\n證券代號：
  52845\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債
- \n轉換價(元)：322.6（來源：競拍公告）\n拆解日：2026/05/18
- \n競拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標結
- 束日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n轉換價(元)：322.6（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：3\,000\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：300\n主辦券
+ 商：凱基\n投標開始日：2026/04/23\n投標結束日：2026/04/27\n
+ 開標日期：2026/04/29\n撥券日期：2026/05/11\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54241,18 +54241,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6d11cb2eb6caf1cafbdb836e3247100cb7dbd6c9@twse-auction-calendar
-DTSTAMP:20131116T061700Z
+DTSTAMP:20120325T221721Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:[TWSE競拍] jpp五KY(52845) 投標截止｜轉換價 322.6
 DESCRIPTION:事件：投標截止\n證券名稱：jpp五KY\n證券代號：
  52845\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債
- \n轉換價(元)：322.6（來源：競拍公告）\n拆解日：2026/05/18
- \n競拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標結
- 束日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ \n轉換價(元)：322.6（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：3\,000\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：300\n主辦券
+ 商：凱基\n投標開始日：2026/04/23\n投標結束日：2026/04/27\n
+ 開標日期：2026/04/29\n撥券日期：2026/05/11\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54415,18 +54415,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:364189c02d20e78271a99f730262612a2a2effb0@twse-auction-calendar
-DTSTAMP:20320630T015305Z
+DTSTAMP:20420713T103657Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:[TWSE競拍] jpp五KY(52845) 開標｜轉換價 322.6
 DESCRIPTION:事件：開標\n證券名稱：jpp五KY\n證券代號：52845\
  n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：322.6（來源：競拍公告）\n拆解日：2026/05/18\n競
- 拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價格(元)
- ：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標結束
- 日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/11\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：322.6（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：3\,000\n最低投標價格(元)：101\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：300\n主辦券商：
+ 凱基\n投標開始日：2026/04/23\n投標結束日：2026/04/27\n開標
+ 日期：2026/04/29\n撥券日期：2026/05/11\n資料來源：https://www.
+ twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54890,18 +54890,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5025c8123c6318e49253d1ded07a9c8a64f341a3@twse-auction-calendar
-DTSTAMP:20230904T173704Z
+DTSTAMP:20110927T021435Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:[TWSE競拍] jpp五KY(52845) 撥券/掛牌｜轉換價 322.6
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：jpp五KY\n證券代號
  ：52845\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：322.6（來源：競拍公告）\n拆解日：2026/05
- /18\n競拍方式：美國標\n競拍數量(張)：3\,000\n最低投標價
- 格(元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：300\n主辦券商：凱基\n投標開始日：2026/04/23\n投標
- 結束日：2026/04/27\n開標日期：2026/04/29\n撥券日期：2026/05/1
- 1\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：322.6（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：3\,000\n最低投標價格(元)：101\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：300\n主辦
+ 券商：凱基\n投標開始日：2026/04/23\n投標結束日：2026/04/27
+ \n開標日期：2026/04/29\n撥券日期：2026/05/11\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55238,26 +55238,6 @@ DESCRIPTION:事件：投標截止\n證券名稱：新應材一\n證券代
  投標結束日：2026/05/15\n開標日期：2026/05/19\n撥券日期：202
  6/05/28\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
  l
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e7a1595ed437ca7c7ca6c395c3a48722663424b6@twse-auction-calendar
-DTSTAMP:20000701T015806Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-SUMMARY:[TWSE競拍] jpp五KY(52845) 拆解日｜轉換價 322.6
-DESCRIPTION:事件：拆解日\n證券名稱：jpp五KY\n證券代號：528
- 45\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：322.6（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/05/18\n競拍方式：美國標\n競拍數量(張)：3\,000\n最
- 低投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：300\n主辦券商：凱基\n投標開始日：2026/04
- /23\n投標結束日：2026/04/27\n開標日期：2026/04/29\n撥券日期
- ：2026/05/11\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
