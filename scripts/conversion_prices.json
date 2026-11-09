@@ -5671,6 +5671,21 @@
     "attempts": 0
   },
   {
+    "company": "映興電子股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115440",
+    "underwriter": "德信綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/10/30",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "41.2",
+    "base_price": null,
+    "premium_rate": 107.0,
+    "attempts": 0
+  },
+  {
     "company": "泰谷光電科技股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115437",
@@ -5683,6 +5698,21 @@
     "conversion_price": "45.3",
     "base_price": "43.53",
     "premium_rate": 104.07,
+    "attempts": 0
+  },
+  {
+    "company": "華邦電子股份有限公司(第四次)",
+    "source": "UnderwritingNotice",
+    "seq": "115441",
+    "underwriter": "中國信託綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/03",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "140",
+    "base_price": "127.5",
+    "premium_rate": 109.8,
     "attempts": 0
   },
   {

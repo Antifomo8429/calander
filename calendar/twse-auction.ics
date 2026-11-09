@@ -61605,6 +61605,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:addcabb2041d1d2d3381b1e672e434894c58e86a@twse-auction-calendar
+DTSTAMP:20090308T225718Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[TWSE競拍] 宏于電機(7869) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：宏于電機\n證券代
+ 號：7869\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,844\n最低投標價格(元)：1
+ 80.87\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：253\n主辦券商：元大\n投標開始日：2026/11/11\n投標結束
+ 日：2026/11/13\n開標日期：2026/11/17\n撥券日期：2026/11/26\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62b8db6fe4ffa0064bec3698771062245e486057@twse-auction-calendar
+DTSTAMP:20060601T080147Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[TWSE競拍] 華邦電五(23445) 投標開始｜轉換價 140
+DESCRIPTION:事件：投標開始\n證券名稱：華邦電五\n證券代
+ 號：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：140（來源：承銷公告）\n拆解日：2026/1
+ 2/03\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標
+ 價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/1
+ 1/11\n投標結束日：2026/11/13\n開標日期：2026/11/17\n撥券日期
+ ：2026/11/26\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:065d9d353aa7731685a21ee2031e419f3b6268ab@twse-auction-calendar
 DTSTAMP:20391023T100507Z
 DTSTART;VALUE=DATE:20261112
@@ -61642,6 +61678,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:1d6d5a9745ffd24e6b658506c16a71cbaf722ce6@twse-auction-calendar
+DTSTAMP:20021110T054955Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[TWSE競拍] 宏于電機(7869) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：宏于電機\n證券代
+ 號：7869\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,844\n最低投標價格(元)：1
+ 80.87\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：253\n主辦券商：元大\n投標開始日：2026/11/11\n投標結束
+ 日：2026/11/13\n開標日期：2026/11/17\n撥券日期：2026/11/26\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3535d0f868438e518569da75903bb9fddf054a2b@twse-auction-calendar
+DTSTAMP:20230426T065051Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[TWSE競拍] 華邦電五(23445) 投標截止｜轉換價 140
+DESCRIPTION:事件：投標截止\n證券名稱：華邦電五\n證券代
+ 號：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：140（來源：承銷公告）\n拆解日：2026/1
+ 2/03\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標
+ 價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/1
+ 1/11\n投標結束日：2026/11/13\n開標日期：2026/11/17\n撥券日期
+ ：2026/11/26\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:877637f9a44bfdc98b54778c9c39c33e69c47c27@twse-auction-calendar
 DTSTAMP:20470124T211400Z
 DTSTART;VALUE=DATE:20261116
@@ -61673,6 +61745,42 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：騏億鑫\n證券代號
  主辦券商：永豐金\n投標開始日：2026/10/30\n投標結束日：2
  026/11/03\n開標日期：2026/11/05\n撥券日期：2026/11/16\n資料來
  源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9398057c0b4e079416257453b3b1c23615ddae4@twse-auction-calendar
+DTSTAMP:20290817T081754Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[TWSE競拍] 宏于電機(7869) 開標
+DESCRIPTION:事件：開標\n證券名稱：宏于電機\n證券代號：78
+ 69\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,844\n最低投標價格(元)：180.87\n
+ 最低每標單投標數量(張)：1\n最高投(得)標數量(張)：253\n
+ 主辦券商：元大\n投標開始日：2026/11/11\n投標結束日：2026
+ /11/13\n開標日期：2026/11/17\n撥券日期：2026/11/26\n資料來源
+ ：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a92e072631cfcb224043564cd42efbed8250af30@twse-auction-calendar
+DTSTAMP:20000531T160108Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[TWSE競拍] 華邦電五(23445) 開標｜轉換價 140
+DESCRIPTION:事件：開標\n證券名稱：華邦電五\n證券代號：23
+ 445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：140（來源：承銷公告）\n拆解日：2026/12/03\n
+ 競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標價格(
+ 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
+ 張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/11/11\n
+ 投標結束日：2026/11/13\n開標日期：2026/11/17\n撥券日期：202
+ 6/11/26\n資料來源：https://www.twse.com.tw/zh/announcement/auction.htm
+ l
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61771,6 +61879,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:0f8c4d5d6e992c02a2e30516ad9cbc52fc9d97b8@twse-auction-calendar
+DTSTAMP:20380322T212555Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[TWSE競拍] 宏于電機(7869) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：宏于電機\n證券代
+ 號：7869\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍
+ 方式：美國標\n競拍數量(張)：1\,844\n最低投標價格(元)：1
+ 80.87\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：253\n主辦券商：元大\n投標開始日：2026/11/11\n投標結束
+ 日：2026/11/13\n開標日期：2026/11/17\n撥券日期：2026/11/26\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:624b2ed94421ee0ceae3e26f2ac69f3a061bab82@twse-auction-calendar
+DTSTAMP:20141120T195439Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[TWSE競拍] 華邦電五(23445) 撥券/掛牌｜轉換價 140
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：華邦電五\n證券代
+ 號：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
+ 司債\n轉換價(元)：140（來源：承銷公告）\n拆解日：2026/1
+ 2/03\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標
+ 價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/1
+ 1/11\n投標結束日：2026/11/13\n開標日期：2026/11/17\n撥券日期
+ ：2026/11/26\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f2bf37e37749eb33de858ce4a52fb7ae76b3cd78@twse-auction-calendar
 DTSTAMP:20051205T192930Z
 DTSTART;VALUE=DATE:20261202
@@ -61786,6 +61930,26 @@ DESCRIPTION:事件：拆解日\n證券名稱：濱川七\n證券代號：15
  開始日：2026/11/10\n投標結束日：2026/11/12\n開標日期：2026/1
  1/16\n撥券日期：2026/11/25\n資料來源：https://www.twse.com.tw/zh/
  announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ef4f034d2987dc1ef94d97854f30b48866503177@twse-auction-calendar
+DTSTAMP:20241104T064940Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:[TWSE競拍] 華邦電五(23445) 拆解日｜轉換價 140
+DESCRIPTION:事件：拆解日\n證券名稱：華邦電五\n證券代號
+ ：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：140（來源：承銷公告）\n拆解日說明：掛
+ 牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆
+ 解日：2026/12/03\n競拍方式：美國標\n競拍數量(張)：34\,000\
+ n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,400\n主辦券商：中國信託\n投標開
+ 始日：2026/11/11\n投標結束日：2026/11/13\n開標日期：2026/11/1
+ 7\n撥券日期：2026/11/26\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
