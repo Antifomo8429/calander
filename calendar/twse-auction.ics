@@ -61552,19 +61552,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e514df0a8f0f1826f51889308ceaed7c7bdb2829@twse-auction-calendar
-DTSTAMP:20451030T004948Z
+DTSTAMP:20170418T053857Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:[TWSE競拍] 濱川七(15697) 投標開始
+SUMMARY:[TWSE競拍] 濱川七(15697) 投標開始｜轉換價 92.5
 DESCRIPTION:事件：投標開始\n證券名稱：濱川七\n證券代號
  ：15697\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/12/02\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
- /11/10\n投標結束日：2026/11/12\n開標日期：2026/11/16\n撥券日
- 期：2026/11/25\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：92.5（來源：競拍公告）\n拆解日：2026/12/
+ 02\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：340\n主辦券商：台新\n投標開始日：2026/11/10\n投標
+ 結束日：2026/11/12\n開標日期：2026/11/16\n撥券日期：2026/11/2
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61660,19 +61659,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:00e615db77ff46c724d9c53c4475f20e31d1b668@twse-auction-calendar
-DTSTAMP:20150428T170553Z
+DTSTAMP:20350602T063012Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:[TWSE競拍] 濱川七(15697) 投標截止
+SUMMARY:[TWSE競拍] 濱川七(15697) 投標截止｜轉換價 92.5
 DESCRIPTION:事件：投標截止\n證券名稱：濱川七\n證券代號
  ：15697\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/12/02\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
- /11/10\n投標結束日：2026/11/12\n開標日期：2026/11/16\n撥券日
- 期：2026/11/25\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：92.5（來源：競拍公告）\n拆解日：2026/12/
+ 02\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：340\n主辦券商：台新\n投標開始日：2026/11/10\n投標
+ 結束日：2026/11/12\n開標日期：2026/11/16\n撥券日期：2026/11/2
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61715,19 +61713,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:877637f9a44bfdc98b54778c9c39c33e69c47c27@twse-auction-calendar
-DTSTAMP:20470124T211400Z
+DTSTAMP:20240209T092355Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:[TWSE競拍] 濱川七(15697) 開標
+SUMMARY:[TWSE競拍] 濱川七(15697) 開標｜轉換價 92.5
 DESCRIPTION:事件：開標\n證券名稱：濱川七\n證券代號：15697
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
- ：2026/12/02\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低
- 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026/11/
- 10\n投標結束日：2026/11/12\n開標日期：2026/11/16\n撥券日期
- ：2026/11/25\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
+ 換價(元)：92.5（來源：競拍公告）\n拆解日：2026/12/02\n競
+ 拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價格(元)
+ ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
+ ：340\n主辦券商：台新\n投標開始日：2026/11/10\n投標結束
+ 日：2026/11/12\n開標日期：2026/11/16\n撥券日期：2026/11/25\n資
+ 料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61861,19 +61858,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3cbe5ed54ae2293f178c2cacbdfca7799a5acd73@twse-auction-calendar
-DTSTAMP:20061215T064242Z
+DTSTAMP:20080222T091826Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:[TWSE競拍] 濱川七(15697) 撥券/掛牌
+SUMMARY:[TWSE競拍] 濱川七(15697) 撥券/掛牌｜轉換價 92.5
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：濱川七\n證券代號
  ：15697\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/12/02\n競拍方式：美國標\n競拍數量(張)：3\,400\n
- 最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高
- 投(得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026
- /11/10\n投標結束日：2026/11/12\n開標日期：2026/11/16\n撥券日
- 期：2026/11/25\n資料來源：https://www.twse.com.tw/zh/announcement/au
- ction.html
+ 債\n轉換價(元)：92.5（來源：競拍公告）\n拆解日：2026/12/
+ 02\n競拍方式：美國標\n競拍數量(張)：3\,400\n最低投標價
+ 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
+ 量(張)：340\n主辦券商：台新\n投標開始日：2026/11/10\n投標
+ 結束日：2026/11/12\n開標日期：2026/11/16\n撥券日期：2026/11/2
+ 5\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61916,20 +61912,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f2bf37e37749eb33de858ce4a52fb7ae76b3cd78@twse-auction-calendar
-DTSTAMP:20051205T192930Z
+DTSTAMP:20220204T124844Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:[TWSE競拍] 濱川七(15697) 拆解日
+SUMMARY:[TWSE競拍] 濱川七(15697) 拆解日｜轉換價 92.5
 DESCRIPTION:事件：拆解日\n證券名稱：濱川七\n證券代號：15
  697\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
- 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
- 交易日\n拆解日：2026/12/02\n競拍方式：美國標\n競拍數量(
- 張)：3\,400\n最低投標價格(元)：100\n最低每標單投標數量(
- 張)：1\n最高投(得)標數量(張)：340\n主辦券商：台新\n投標
- 開始日：2026/11/10\n投標結束日：2026/11/12\n開標日期：2026/1
- 1/16\n撥券日期：2026/11/25\n資料來源：https://www.twse.com.tw/zh/
- announcement/auction.html
+ 轉換價(元)：92.5（來源：競拍公告）\n拆解日說明：掛牌
+ 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
+ 日：2026/12/02\n競拍方式：美國標\n競拍數量(張)：3\,400\n最
+ 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：340\n主辦券商：台新\n投標開始日：2026/11
+ /10\n投標結束日：2026/11/12\n開標日期：2026/11/16\n撥券日期
+ ：2026/11/25\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
+ on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

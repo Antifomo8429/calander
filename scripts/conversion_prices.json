@@ -5701,6 +5701,19 @@
     "attempts": 0
   },
   {
+    "company": "宜特科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115444",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/03",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
+  },
+  {
     "company": "華邦電子股份有限公司(第四次)",
     "source": "UnderwritingNotice",
     "seq": "115441",
@@ -5713,6 +5726,34 @@
     "conversion_price": "140",
     "base_price": "127.5",
     "premium_rate": 109.8,
+    "attempts": 0
+  },
+  {
+    "company": "事欣科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115449",
+    "underwriter": "統一綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/04",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
+  },
+  {
+    "company": "濱川企業股份有限公司",
+    "source": "Auction",
+    "seq": "115081",
+    "underwriter": "台新綜合證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "",
+    "bid_start": "2026/11/10",
+    "bid_end": "2026/11/12",
+    "min_price": "100.00",
+    "conversion_price": "92.5",
+    "base_price": "90.42",
+    "premium_rate": 102.3,
     "attempts": 0
   },
   {
