@@ -5710,8 +5710,10 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null,
-    "attempts": 1
+    "conversion_price": "112",
+    "attempts": 0,
+    "base_price": "106.5",
+    "premium_rate": 105.16
   },
   {
     "company": "華邦電子股份有限公司(第四次)",
@@ -5738,8 +5740,10 @@
     "bid_start": "",
     "bid_end": "",
     "min_price": "",
-    "conversion_price": null,
-    "attempts": 1
+    "conversion_price": "88",
+    "attempts": 0,
+    "base_price": null,
+    "premium_rate": 106.02
   },
   {
     "company": "濱川企業股份有限公司",

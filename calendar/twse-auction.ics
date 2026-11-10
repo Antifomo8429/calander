@@ -54310,18 +54310,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:410b8160b09e4f5cc4420c6a23928d7f01749bf9@twse-auction-calendar
-DTSTAMP:20450325T172804Z
+DTSTAMP:20480801T065555Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:[TWSE競拍] 金雨一(45031) 投標開始｜轉換價 46
 DESCRIPTION:事件：投標開始\n證券名稱：金雨一\n證券代號
  ：45031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：46（來源：競拍公告）\n拆解日：2026/05/20
- \n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標結
- 束日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/13\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：46（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：4\,250\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券
+ 商：元大\n投標開始日：2026/04/27\n投標結束日：2026/04/29\n
+ 開標日期：2026/05/04\n撥券日期：2026/05/13\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54467,18 +54467,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ad3d3efaf064fc5153ceeba39b8de48afaa4f7e3@twse-auction-calendar
-DTSTAMP:20121018T094302Z
+DTSTAMP:20390608T190345Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:[TWSE競拍] 金雨一(45031) 投標截止｜轉換價 46
 DESCRIPTION:事件：投標截止\n證券名稱：金雨一\n證券代號
  ：45031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：46（來源：競拍公告）\n拆解日：2026/05/20
- \n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標結
- 束日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/13\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：46（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：4\,250\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券
+ 商：元大\n投標開始日：2026/04/27\n投標結束日：2026/04/29\n
+ 開標日期：2026/05/04\n撥券日期：2026/05/13\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54574,18 +54574,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:0c2af16db8fb7d4fc28640679c5d0db520bbbb57@twse-auction-calendar
-DTSTAMP:20230423T145329Z
+DTSTAMP:20210723T142641Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 SUMMARY:[TWSE競拍] 金雨一(45031) 開標｜轉換價 46
 DESCRIPTION:事件：開標\n證券名稱：金雨一\n證券代號：45031
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：46（來源：競拍公告）\n拆解日：2026/05/20\n競拍
- 方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(元)：1
- 01\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：42
- 5\n主辦券商：元大\n投標開始日：2026/04/27\n投標結束日：2
- 026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/13\n資料來
- 源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：46（來源：競拍公告）\n競拍方式：美國標\n競
+ 拍數量(張)：4\,250\n最低投標價格(元)：101\n最低每標單投
+ 標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券商：元
+ 大\n投標開始日：2026/04/27\n投標結束日：2026/04/29\n開標日
+ 期：2026/05/04\n撥券日期：2026/05/13\n資料來源：https://www.tws
+ e.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55101,18 +55101,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:159a05c1b0638345a2bd2fbe7555a6408f2a9b93@twse-auction-calendar
-DTSTAMP:20080601T060113Z
+DTSTAMP:20010318T223206Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:[TWSE競拍] 金雨一(45031) 撥券/掛牌｜轉換價 46
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：金雨一\n證券代號
  ：45031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：46（來源：競拍公告）\n拆解日：2026/05/20
- \n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(
- 元)：101\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：425\n主辦券商：元大\n投標開始日：2026/04/27\n投標結
- 束日：2026/04/29\n開標日期：2026/05/04\n撥券日期：2026/05/13\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：46（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：4\,250\n最低投標價格(元)：101\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券
+ 商：元大\n投標開始日：2026/04/27\n投標結束日：2026/04/29\n
+ 開標日期：2026/05/04\n撥券日期：2026/05/13\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55326,26 +55326,6 @@ DESCRIPTION:事件：開標\n證券名稱：新盛力一\n證券代號：49
  張)：595\n主辦券商：台新\n投標開始日：2026/05/14\n投標結
  束日：2026/05/18\n開標日期：2026/05/20\n撥券日期：2026/05/29\n
  資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:d9d4b29dec3de879ba572bf94f7c3bf7013027d3@twse-auction-calendar
-DTSTAMP:20230701T010842Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:[TWSE競拍] 金雨一(45031) 拆解日｜轉換價 46
-DESCRIPTION:事件：拆解日\n證券名稱：金雨一\n證券代號：45
- 031\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：46（來源：競拍公告）\n拆解日說明：掛牌日
- 起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解日
- ：2026/05/20\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低
- 投標價格(元)：101\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：425\n主辦券商：元大\n投標開始日：2026/04/
- 27\n投標結束日：2026/04/29\n開標日期：2026/05/04\n撥券日期
- ：2026/05/13\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
