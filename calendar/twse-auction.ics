@@ -54362,18 +54362,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d4462c2478fd9b77430eb8ac6855d4114951d41a@twse-auction-calendar
-DTSTAMP:20371211T041724Z
+DTSTAMP:20210926T052814Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:[TWSE競拍] 晟德九(41239) 投標開始｜轉換價 42
 DESCRIPTION:事件：投標開始\n證券名稱：晟德九\n證券代號
  ：41239\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：42（來源：競拍公告）\n拆解日：2026/05/21
- \n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(
- 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：425\n主辦券商：台新\n投標開始日：2026/04/28\n投標結
- 束日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/14\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：42（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：4\,250\n最低投標價格(元)：100\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券
+ 商：台新\n投標開始日：2026/04/28\n投標結束日：2026/04/30\n
+ 開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54397,18 +54397,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f7b56780641362ee61a8a0e3dc6c76eef64ba2e9@twse-auction-calendar
-DTSTAMP:20100223T010154Z
+DTSTAMP:20310905T085409Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:[TWSE競拍] 鉅橡六(80746) 投標開始｜轉換價 80.5
 DESCRIPTION:事件：投標開始\n證券名稱：鉅橡六\n證券代號
  ：80746\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：80.5（來源：競拍公告）\n拆解日：2026/05/
- 21\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：福邦\n投標開始日：2026/04/28\n投標
- 結束日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/1
- 4\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：80.5（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦
+ 券商：福邦\n投標開始日：2026/04/28\n投標結束日：2026/04/30
+ \n開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54485,18 +54485,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:76ddedb16b1c5a648abf8a5fabb2a87bdfad8783@twse-auction-calendar
-DTSTAMP:20180118T131306Z
+DTSTAMP:20130722T061742Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:[TWSE競拍] 晟德九(41239) 投標截止｜轉換價 42
 DESCRIPTION:事件：投標截止\n證券名稱：晟德九\n證券代號
  ：41239\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：42（來源：競拍公告）\n拆解日：2026/05/21
- \n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(
- 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：425\n主辦券商：台新\n投標開始日：2026/04/28\n投標結
- 束日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/14\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：42（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：4\,250\n最低投標價格(元)：100\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券
+ 商：台新\n投標開始日：2026/04/28\n投標結束日：2026/04/30\n
+ 開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54538,18 +54538,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:03086e3ab161ef0bc710b8ec0f58706e93e994f4@twse-auction-calendar
-DTSTAMP:20480203T013517Z
+DTSTAMP:20111213T100336Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:[TWSE競拍] 鉅橡六(80746) 投標截止｜轉換價 80.5
 DESCRIPTION:事件：投標截止\n證券名稱：鉅橡六\n證券代號
  ：80746\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：80.5（來源：競拍公告）\n拆解日：2026/05/
- 21\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：福邦\n投標開始日：2026/04/28\n投標
- 結束日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/1
- 4\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：80.5（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦
+ 券商：福邦\n投標開始日：2026/04/28\n投標結束日：2026/04/30
+ \n開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54610,18 +54610,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:db1c894527e80479e9cbcbb50fc6320ee58af99a@twse-auction-calendar
-DTSTAMP:20221117T000449Z
+DTSTAMP:20091030T151827Z
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
 SUMMARY:[TWSE競拍] 晟德九(41239) 開標｜轉換價 42
 DESCRIPTION:事件：開標\n證券名稱：晟德九\n證券代號：41239
  \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
- 換價(元)：42（來源：競拍公告）\n拆解日：2026/05/21\n競拍
- 方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(元)：1
- 00\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)：42
- 5\n主辦券商：台新\n投標開始日：2026/04/28\n投標結束日：2
- 026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來
- 源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：42（來源：競拍公告）\n競拍方式：美國標\n競
+ 拍數量(張)：4\,250\n最低投標價格(元)：100\n最低每標單投
+ 標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券商：台
+ 新\n投標開始日：2026/04/28\n投標結束日：2026/04/30\n開標日
+ 期：2026/05/05\n撥券日期：2026/05/14\n資料來源：https://www.tws
+ e.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -54645,18 +54645,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8c1a3188523bd87e9b488722df097fe6c784a333@twse-auction-calendar
-DTSTAMP:20210430T033609Z
+DTSTAMP:20010615T032122Z
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
 SUMMARY:[TWSE競拍] 鉅橡六(80746) 開標｜轉換價 80.5
 DESCRIPTION:事件：開標\n證券名稱：鉅橡六\n證券代號：80746
  \n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n轉
- 換價(元)：80.5（來源：競拍公告）\n拆解日：2026/05/21\n競
- 拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價格(元)
- ：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(張)
- ：255\n主辦券商：福邦\n投標開始日：2026/04/28\n投標結束
- 日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/14\n資
- 料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 換價(元)：80.5（來源：競拍公告）\n競拍方式：美國標\n
+ 競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低每標單
+ 投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦券商：
+ 福邦\n投標開始日：2026/04/28\n投標結束日：2026/04/30\n開標
+ 日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：https://www.
+ twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55137,18 +55137,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d2ebe7b0bd97879a40c59d6dad9d782bc1f2095b@twse-auction-calendar
-DTSTAMP:20320123T112438Z
+DTSTAMP:20030220T144218Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:[TWSE競拍] 晟德九(41239) 撥券/掛牌｜轉換價 42
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：晟德九\n證券代號
  ：41239\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：42（來源：競拍公告）\n拆解日：2026/05/21
- \n競拍方式：美國標\n競拍數量(張)：4\,250\n最低投標價格(
- 元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
- 張)：425\n主辦券商：台新\n投標開始日：2026/04/28\n投標結
- 束日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/14\n
- 資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：42（來源：競拍公告）\n競拍方式：美國
+ 標\n競拍數量(張)：4\,250\n最低投標價格(元)：100\n最低每
+ 標單投標數量(張)：1\n最高投(得)標數量(張)：425\n主辦券
+ 商：台新\n投標開始日：2026/04/28\n投標結束日：2026/04/30\n
+ 開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：https:
+ //www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55189,18 +55189,18 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1f666a1aa44bac0ab973c275dde30362c60cd797@twse-auction-calendar
-DTSTAMP:20071120T222720Z
+DTSTAMP:20200506T000849Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:[TWSE競拍] 鉅橡六(80746) 撥券/掛牌｜轉換價 80.5
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：鉅橡六\n證券代號
  ：80746\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：80.5（來源：競拍公告）\n拆解日：2026/05/
- 21\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
- 格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數
- 量(張)：255\n主辦券商：福邦\n投標開始日：2026/04/28\n投標
- 結束日：2026/04/30\n開標日期：2026/05/05\n撥券日期：2026/05/1
- 4\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
+ 債\n轉換價(元)：80.5（來源：競拍公告）\n競拍方式：美
+ 國標\n競拍數量(張)：2\,550\n最低投標價格(元)：100\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：255\n主辦
+ 券商：福邦\n投標開始日：2026/04/28\n投標結束日：2026/04/30
+ \n開標日期：2026/05/05\n撥券日期：2026/05/14\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55396,46 +55396,6 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：崑鼎二\n證券代號
  量(張)：1\,700\n主辦券商：國泰\n投標開始日：2026/05/06\n投
  標結束日：2026/05/08\n開標日期：2026/05/12\n撥券日期：2026/0
  5/21\n資料來源：https://www.twse.com.tw/zh/announcement/auction.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:8a964bd2f8664f40f4abb6f2862cd86caf1572b9@twse-auction-calendar
-DTSTAMP:20231019T212817Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:[TWSE競拍] 晟德九(41239) 拆解日｜轉換價 42
-DESCRIPTION:事件：拆解日\n證券名稱：晟德九\n證券代號：41
- 239\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：42（來源：競拍公告）\n拆解日說明：掛牌日
- 起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解日
- ：2026/05/21\n競拍方式：美國標\n競拍數量(張)：4\,250\n最低
- 投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投(
- 得)標數量(張)：425\n主辦券商：台新\n投標開始日：2026/04/
- 28\n投標結束日：2026/04/30\n開標日期：2026/05/05\n撥券日期
- ：2026/05/14\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
-URL:https://www.twse.com.tw/zh/announcement/auction.html
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:137e004cccefe4127e2789af5e896e89cfeddc7f@twse-auction-calendar
-DTSTAMP:20371106T210416Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-SUMMARY:[TWSE競拍] 鉅橡六(80746) 拆解日｜轉換價 80.5
-DESCRIPTION:事件：拆解日\n證券名稱：鉅橡六\n證券代號：80
- 746\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司債\n
- 轉換價(元)：80.5（來源：競拍公告）\n拆解日說明：掛牌
- 日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆解
- 日：2026/05/21\n競拍方式：美國標\n競拍數量(張)：2\,550\n最
- 低投標價格(元)：100\n最低每標單投標數量(張)：1\n最高投
- (得)標數量(張)：255\n主辦券商：福邦\n投標開始日：2026/04
- /28\n投標結束日：2026/04/30\n開標日期：2026/05/05\n撥券日期
- ：2026/05/14\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
- on.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
