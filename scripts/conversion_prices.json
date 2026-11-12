@@ -5746,6 +5746,21 @@
     "premium_rate": 106.02
   },
   {
+    "company": "正文科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115451",
+    "underwriter": "凱基證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/04",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "38",
+    "base_price": "33.6",
+    "premium_rate": 113.1,
+    "attempts": 0
+  },
+  {
     "company": "濱川企業股份有限公司",
     "source": "Auction",
     "seq": "115081",
@@ -5771,7 +5786,7 @@
     "bid_end": "2026/11/13",
     "min_price": "100.00",
     "conversion_price": null,
-    "attempts": 3
+    "attempts": 4
   },
   {
     "company": "立誠光電股份有限公司",

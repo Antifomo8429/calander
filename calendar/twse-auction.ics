@@ -61687,6 +61687,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5f153b61432f1494e579789c487d0b9cdbec90b0@twse-auction-calendar
+DTSTAMP:20340805T050710Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[TWSE競拍] 騰勢(7889) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：騰勢\n證券代號：78
+ 89\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,404\n最低投標價格(元)：43.86\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：185\n主
+ 辦券商：凱基\n投標開始日：2026/11/16\n投標結束日：2026/11
+ /18\n開標日期：2026/11/20\n撥券日期：2026/12/01\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:e9398057c0b4e079416257453b3b1c23615ddae4@twse-auction-calendar
 DTSTAMP:20290817T081754Z
 DTSTART;VALUE=DATE:20261117
@@ -61738,6 +61755,23 @@ DESCRIPTION:事件：拆解日\n證券名稱：光譜四\n證券代號：53
  27\n投標結束日：2026/10/29\n開標日期：2026/11/02\n撥券日期
  ：2026/11/11\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc372ec17e0c5836a281cbafb4dd46ea2b67069@twse-auction-calendar
+DTSTAMP:20270329T060739Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[TWSE競拍] 騰勢(7889) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：騰勢\n證券代號：78
+ 89\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,404\n最低投標價格(元)：43.86\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：185\n主
+ 辦券商：凱基\n投標開始日：2026/11/16\n投標結束日：2026/11
+ /18\n開標日期：2026/11/20\n撥券日期：2026/12/01\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61797,6 +61831,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5968f286d6b62acd5646ddab27c7ec926ce667a8@twse-auction-calendar
+DTSTAMP:20301126T142736Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:[TWSE競拍] 騰勢(7889) 開標
+DESCRIPTION:事件：開標\n證券名稱：騰勢\n證券代號：7889\n
+ 發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：美
+ 國標\n競拍數量(張)：1\,404\n最低投標價格(元)：43.86\n最低
+ 每標單投標數量(張)：1\n最高投(得)標數量(張)：185\n主辦
+ 券商：凱基\n投標開始日：2026/11/16\n投標結束日：2026/11/18
+ \n開標日期：2026/11/20\n撥券日期：2026/12/01\n資料來源：http
+ s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:3cbe5ed54ae2293f178c2cacbdfca7799a5acd73@twse-auction-calendar
 DTSTAMP:20080222T091826Z
 DTSTART;VALUE=DATE:20261125
@@ -61846,6 +61897,23 @@ DESCRIPTION:事件：撥券/掛牌\n證券名稱：華邦電五\n證券代
  1/11\n投標結束日：2026/11/13\n開標日期：2026/11/17\n撥券日期
  ：2026/11/26\n資料來源：https://www.twse.com.tw/zh/announcement/aucti
  on.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ccae6fb1f434cb070ad5a676d21c0e26773a1b93@twse-auction-calendar
+DTSTAMP:20410211T081159Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[TWSE競拍] 騰勢(7889) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：騰勢\n證券代號：7
+ 889\n發行市場：櫃檯買賣\n發行性質：初上櫃\n競拍方式：
+ 美國標\n競拍數量(張)：1\,404\n最低投標價格(元)：43.86\n最
+ 低每標單投標數量(張)：1\n最高投(得)標數量(張)：185\n主
+ 辦券商：凱基\n投標開始日：2026/11/16\n投標結束日：2026/11
+ /18\n開標日期：2026/11/20\n撥券日期：2026/12/01\n資料來源：h
+ ttps://www.twse.com.tw/zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
