@@ -61721,6 +61721,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:4443c30ce52d010e6b843ee1000be3b06c5128ce@twse-auction-calendar
+DTSTAMP:20020829T090121Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:[TWSE競拍] 永擎一(77111) 投標開始
+DESCRIPTION:事件：投標開始\n證券名稱：永擎一\n證券代號
+ ：77111\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/12/09\n競拍方式：美國標\n競拍數量(張)：32\,165\
+ n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,216\n主辦券商：元大\n投標開始日
+ ：2026/11/17\n投標結束日：2026/11/19\n開標日期：2026/11/23\n撥
+ 券日期：2026/12/02\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:a92e072631cfcb224043564cd42efbed8250af30@twse-auction-calendar
 DTSTAMP:20000531T160108Z
 DTSTART;VALUE=DATE:20261117
@@ -61794,6 +61813,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:aeecc65457ed84cfec117333d33bd7b42d1066ba@twse-auction-calendar
+DTSTAMP:20220804T054116Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:[TWSE競拍] 永擎一(77111) 投標截止
+DESCRIPTION:事件：投標截止\n證券名稱：永擎一\n證券代號
+ ：77111\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/12/09\n競拍方式：美國標\n競拍數量(張)：32\,165\
+ n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,216\n主辦券商：元大\n投標開始日
+ ：2026/11/17\n投標結束日：2026/11/19\n開標日期：2026/11/23\n撥
+ 券日期：2026/12/02\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:452843c66b8e52131848b6c9b8f984d54dcd1842@twse-auction-calendar
 DTSTAMP:20360104T192701Z
 DTSTART;VALUE=DATE:20261119
@@ -61843,6 +61881,25 @@ DESCRIPTION:事件：開標\n證券名稱：騰勢\n證券代號：7889\n
  券商：凱基\n投標開始日：2026/11/16\n投標結束日：2026/11/18
  \n開標日期：2026/11/20\n撥券日期：2026/12/01\n資料來源：http
  s://www.twse.com.tw/zh/announcement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d91e08fed350cbfc842d29b5188e502e305a83@twse-auction-calendar
+DTSTAMP:20160606T193118Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[TWSE競拍] 永擎一(77111) 開標
+DESCRIPTION:事件：開標\n證券名稱：永擎一\n證券代號：77111
+ \n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n轉
+ 換價(元)：尚未取得（承銷商公會公告未上架）\n拆解日
+ ：2026/12/09\n競拍方式：美國標\n競拍數量(張)：32\,165\n最
+ 低投標價格(元)：102\n最低每標單投標數量(張)：1\n最高投
+ (得)標數量(張)：3\,216\n主辦券商：元大\n投標開始日：2026
+ /11/17\n投標結束日：2026/11/19\n開標日期：2026/11/23\n撥券日
+ 期：2026/12/02\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61919,6 +61976,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:0c355d83e7e8fc359c394475cd2d15b65842ee69@twse-auction-calendar
+DTSTAMP:20010602T043041Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[TWSE競拍] 永擎一(77111) 撥券/掛牌
+DESCRIPTION:事件：撥券/掛牌\n證券名稱：永擎一\n證券代號
+ ：77111\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
+ 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
+ 解日：2026/12/09\n競拍方式：美國標\n競拍數量(張)：32\,165\
+ n最低投標價格(元)：102\n最低每標單投標數量(張)：1\n最
+ 高投(得)標數量(張)：3\,216\n主辦券商：元大\n投標開始日
+ ：2026/11/17\n投標結束日：2026/11/19\n開標日期：2026/11/23\n撥
+ 券日期：2026/12/02\n資料來源：https://www.twse.com.tw/zh/announcem
+ ent/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:f2bf37e37749eb33de858ce4a52fb7ae76b3cd78@twse-auction-calendar
 DTSTAMP:20220204T124844Z
 DTSTART;VALUE=DATE:20261202
@@ -61954,6 +62030,26 @@ DESCRIPTION:事件：拆解日\n證券名稱：華邦電五\n證券代號
  始日：2026/11/11\n投標結束日：2026/11/13\n開標日期：2026/11/1
  7\n撥券日期：2026/11/26\n資料來源：https://www.twse.com.tw/zh/ann
  ouncement/auction.html
+URL:https://www.twse.com.tw/zh/announcement/auction.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e4b4b8ec75523ae0202ce654ecb1978a23fc84@twse-auction-calendar
+DTSTAMP:20110524T101738Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:[TWSE競拍] 永擎一(77111) 拆解日
+DESCRIPTION:事件：拆解日\n證券名稱：永擎一\n證券代號：77
+ 111\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
+ 轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆解
+ 日說明：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個
+ 交易日\n拆解日：2026/12/09\n競拍方式：美國標\n競拍數量(
+ 張)：32\,165\n最低投標價格(元)：102\n最低每標單投標數量(
+ 張)：1\n最高投(得)標數量(張)：3\,216\n主辦券商：元大\n投
+ 標開始日：2026/11/17\n投標結束日：2026/11/19\n開標日期：202
+ 6/11/23\n撥券日期：2026/12/02\n資料來源：https://www.twse.com.tw/
+ zh/announcement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
