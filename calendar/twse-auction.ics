@@ -61522,13 +61522,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:62b8db6fe4ffa0064bec3698771062245e486057@twse-auction-calendar
-DTSTAMP:20060601T080147Z
+DTSTAMP:20310406T095610Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:[TWSE競拍] 華邦電五(23445) 投標開始｜轉換價 140
+SUMMARY:[TWSE競拍] 華邦電五(23445) 投標開始｜轉換價 134
 DESCRIPTION:事件：投標開始\n證券名稱：華邦電五\n證券代
  號：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：140（來源：承銷公告）\n拆解日：2026/1
+ 司債\n轉換價(元)：134（來源：承銷公告）\n拆解日：2026/1
  2/03\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標
  價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
  數量(張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/1
@@ -61594,13 +61594,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3535d0f868438e518569da75903bb9fddf054a2b@twse-auction-calendar
-DTSTAMP:20230426T065051Z
+DTSTAMP:20010413T234736Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:[TWSE競拍] 華邦電五(23445) 投標截止｜轉換價 140
+SUMMARY:[TWSE競拍] 華邦電五(23445) 投標截止｜轉換價 134
 DESCRIPTION:事件：投標截止\n證券名稱：華邦電五\n證券代
  號：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：140（來源：承銷公告）\n拆解日：2026/1
+ 司債\n轉換價(元)：134（來源：承銷公告）\n拆解日：2026/1
  2/03\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標
  價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
  數量(張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/1
@@ -61700,13 +61700,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a92e072631cfcb224043564cd42efbed8250af30@twse-auction-calendar
-DTSTAMP:20000531T160108Z
+DTSTAMP:20311220T230455Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:[TWSE競拍] 華邦電五(23445) 開標｜轉換價 140
+SUMMARY:[TWSE競拍] 華邦電五(23445) 開標｜轉換價 134
 DESCRIPTION:事件：開標\n證券名稱：華邦電五\n證券代號：23
  445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司債\n
- 轉換價(元)：140（來源：承銷公告）\n拆解日：2026/12/03\n
+ 轉換價(元)：134（來源：承銷公告）\n拆解日：2026/12/03\n
  競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標價格(
  元)：100\n最低每標單投標數量(張)：1\n最高投(得)標數量(
  張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/11/11\n
@@ -61756,19 +61756,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a14b3b35fa503257e11b8dbf4d8cc33297768b0e@twse-auction-calendar
-DTSTAMP:20421120T125124Z
+DTSTAMP:20260602T194137Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:[TWSE競拍] 全球傳動三(45403) 投標開始
+SUMMARY:[TWSE競拍] 全球傳動三(45403) 投標開始｜轉換價 55.6
 DESCRIPTION:事件：投標開始\n證券名稱：全球傳動三\n證券
  代號：45403\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/12/11\n競拍方式：美國標\n競拍數量(張)：
- 2\,550\n最低投標價格(元)：100.5\n最低每標單投標數量(張)
- ：1\n最高投(得)標數量(張)：255\n主辦券商：第一金證\n投
- 標開始日：2026/11/19\n投標結束日：2026/11/23\n開標日期：202
- 6/11/25\n撥券日期：2026/12/04\n資料來源：https://www.twse.com.tw/
- zh/announcement/auction.html
+ 公司債\n轉換價(元)：55.6（來源：競拍公告）\n拆解日：20
+ 26/12/11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投
+ 標價格(元)：100.5\n最低每標單投標數量(張)：1\n最高投(得
+ )標數量(張)：255\n主辦券商：第一金證\n投標開始日：2026/
+ 11/19\n投標結束日：2026/11/23\n開標日期：2026/11/25\n撥券日
+ 期：2026/12/04\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61864,19 +61864,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:45cc91a67f455f8e68011febec20c1e0be858a2b@twse-auction-calendar
-DTSTAMP:20290930T134758Z
+DTSTAMP:20400730T082414Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:[TWSE競拍] 全球傳動三(45403) 投標截止
+SUMMARY:[TWSE競拍] 全球傳動三(45403) 投標截止｜轉換價 55.6
 DESCRIPTION:事件：投標截止\n證券名稱：全球傳動三\n證券
  代號：45403\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/12/11\n競拍方式：美國標\n競拍數量(張)：
- 2\,550\n最低投標價格(元)：100.5\n最低每標單投標數量(張)
- ：1\n最高投(得)標數量(張)：255\n主辦券商：第一金證\n投
- 標開始日：2026/11/19\n投標結束日：2026/11/23\n開標日期：202
- 6/11/25\n撥券日期：2026/12/04\n資料來源：https://www.twse.com.tw/
- zh/announcement/auction.html
+ 公司債\n轉換價(元)：55.6（來源：競拍公告）\n拆解日：20
+ 26/12/11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投
+ 標價格(元)：100.5\n最低每標單投標數量(張)：1\n最高投(得
+ )標數量(張)：255\n主辦券商：第一金證\n投標開始日：2026/
+ 11/19\n投標結束日：2026/11/23\n開標日期：2026/11/25\n撥券日
+ 期：2026/12/04\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61901,19 +61901,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:55c7b6f6e77cf18daeb44a9505491c28f2a54102@twse-auction-calendar
-DTSTAMP:20130508T230245Z
+DTSTAMP:20030417T110148Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:[TWSE競拍] 全球傳動三(45403) 開標
+SUMMARY:[TWSE競拍] 全球傳動三(45403) 開標｜轉換價 55.6
 DESCRIPTION:事件：開標\n證券名稱：全球傳動三\n證券代號
  ：45403\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公司
- 債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n拆
- 解日：2026/12/11\n競拍方式：美國標\n競拍數量(張)：2\,550\n
- 最低投標價格(元)：100.5\n最低每標單投標數量(張)：1\n最
- 高投(得)標數量(張)：255\n主辦券商：第一金證\n投標開始
- 日：2026/11/19\n投標結束日：2026/11/23\n開標日期：2026/11/25\n
- 撥券日期：2026/12/04\n資料來源：https://www.twse.com.tw/zh/announ
- cement/auction.html
+ 債\n轉換價(元)：55.6（來源：競拍公告）\n拆解日：2026/12/
+ 11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投標價
+ 格(元)：100.5\n最低每標單投標數量(張)：1\n最高投(得)標
+ 數量(張)：255\n主辦券商：第一金證\n投標開始日：2026/11/1
+ 9\n投標結束日：2026/11/23\n開標日期：2026/11/25\n撥券日期：
+ 2026/12/04\n資料來源：https://www.twse.com.tw/zh/announcement/auction.
+ html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -61955,13 +61955,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:624b2ed94421ee0ceae3e26f2ac69f3a061bab82@twse-auction-calendar
-DTSTAMP:20141120T195439Z
+DTSTAMP:20300127T154607Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:[TWSE競拍] 華邦電五(23445) 撥券/掛牌｜轉換價 140
+SUMMARY:[TWSE競拍] 華邦電五(23445) 撥券/掛牌｜轉換價 134
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：華邦電五\n證券代
  號：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公
- 司債\n轉換價(元)：140（來源：承銷公告）\n拆解日：2026/1
+ 司債\n轉換價(元)：134（來源：承銷公告）\n拆解日：2026/1
  2/03\n競拍方式：美國標\n競拍數量(張)：34\,000\n最低投標
  價格(元)：100\n最低每標單投標數量(張)：1\n最高投(得)標
  數量(張)：3\,400\n主辦券商：中國信託\n投標開始日：2026/1
@@ -62029,13 +62029,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ef4f034d2987dc1ef94d97854f30b48866503177@twse-auction-calendar
-DTSTAMP:20241104T064940Z
+DTSTAMP:20460527T053036Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:[TWSE競拍] 華邦電五(23445) 拆解日｜轉換價 140
+SUMMARY:[TWSE競拍] 華邦電五(23445) 拆解日｜轉換價 134
 DESCRIPTION:事件：拆解日\n證券名稱：華邦電五\n證券代號
  ：23445\n發行市場：櫃檯買賣\n發行性質：無擔保轉換公司
- 債\n轉換價(元)：140（來源：承銷公告）\n拆解日說明：掛
+ 債\n轉換價(元)：134（來源：承銷公告）\n拆解日說明：掛
  牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日\n拆
  解日：2026/12/03\n競拍方式：美國標\n競拍數量(張)：34\,000\
  n最低投標價格(元)：100\n最低每標單投標數量(張)：1\n最
@@ -62049,19 +62049,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ba6331a7786f297966fe510d261826bdd009a3@twse-auction-calendar
-DTSTAMP:20210901T101050Z
+DTSTAMP:20210809T051546Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:[TWSE競拍] 全球傳動三(45403) 撥券/掛牌
+SUMMARY:[TWSE競拍] 全球傳動三(45403) 撥券/掛牌｜轉換價 55.6
 DESCRIPTION:事件：撥券/掛牌\n證券名稱：全球傳動三\n證券
  代號：45403\n發行市場：櫃檯買賣\n發行性質：有擔保轉換
- 公司債\n轉換價(元)：尚未取得（承銷商公會公告未上架
- ）\n拆解日：2026/12/11\n競拍方式：美國標\n競拍數量(張)：
- 2\,550\n最低投標價格(元)：100.5\n最低每標單投標數量(張)
- ：1\n最高投(得)標數量(張)：255\n主辦券商：第一金證\n投
- 標開始日：2026/11/19\n投標結束日：2026/11/23\n開標日期：202
- 6/11/25\n撥券日期：2026/12/04\n資料來源：https://www.twse.com.tw/
- zh/announcement/auction.html
+ 公司債\n轉換價(元)：55.6（來源：競拍公告）\n拆解日：20
+ 26/12/11\n競拍方式：美國標\n競拍數量(張)：2\,550\n最低投
+ 標價格(元)：100.5\n最低每標單投標數量(張)：1\n最高投(得
+ )標數量(張)：255\n主辦券商：第一金證\n投標開始日：2026/
+ 11/19\n投標結束日：2026/11/23\n開標日期：2026/11/25\n撥券日
+ 期：2026/12/04\n資料來源：https://www.twse.com.tw/zh/announcement/au
+ ction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -62088,20 +62088,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:46f1deaf11ff9a5f2bee8ac7db5d16707e88acd1@twse-auction-calendar
-DTSTAMP:20100117T193711Z
+DTSTAMP:20420416T025959Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:[TWSE競拍] 全球傳動三(45403) 拆解日
+SUMMARY:[TWSE競拍] 全球傳動三(45403) 拆解日｜轉換價 55.6
 DESCRIPTION:事件：拆解日\n證券名稱：全球傳動三\n證券代
  號：45403\n發行市場：櫃檯買賣\n發行性質：有擔保轉換公
- 司債\n轉換價(元)：尚未取得（承銷商公會公告未上架）\n
- 拆解日說明：掛牌日起算（掛牌日為第 1 個交易日）的第
-  6 個交易日\n拆解日：2026/12/11\n競拍方式：美國標\n競拍
- 數量(張)：2\,550\n最低投標價格(元)：100.5\n最低每標單投
- 標數量(張)：1\n最高投(得)標數量(張)：255\n主辦券商：第
- 一金證\n投標開始日：2026/11/19\n投標結束日：2026/11/23\n開
- 標日期：2026/11/25\n撥券日期：2026/12/04\n資料來源：https://w
- ww.twse.com.tw/zh/announcement/auction.html
+ 司債\n轉換價(元)：55.6（來源：競拍公告）\n拆解日說明
+ ：掛牌日起算（掛牌日為第 1 個交易日）的第 6 個交易日
+ \n拆解日：2026/12/11\n競拍方式：美國標\n競拍數量(張)：2\,
+ 550\n最低投標價格(元)：100.5\n最低每標單投標數量(張)：1\
+ n最高投(得)標數量(張)：255\n主辦券商：第一金證\n投標開
+ 始日：2026/11/19\n投標結束日：2026/11/23\n開標日期：2026/11/2
+ 5\n撥券日期：2026/12/04\n資料來源：https://www.twse.com.tw/zh/ann
+ ouncement/auction.html
 URL:https://www.twse.com.tw/zh/announcement/auction.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
