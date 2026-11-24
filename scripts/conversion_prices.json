@@ -5849,6 +5849,21 @@
     "attempts": 0
   },
   {
+    "company": "永擎電子股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115462",
+    "underwriter": "元大證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/19",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "550",
+    "base_price": "537.67",
+    "premium_rate": 102.29,
+    "attempts": 0
+  },
+  {
     "company": "立誠光電股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115432",
