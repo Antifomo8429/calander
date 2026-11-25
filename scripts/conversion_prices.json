@@ -5864,6 +5864,19 @@
     "attempts": 0
   },
   {
+    "company": "威健實業股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115463",
+    "underwriter": "華南永昌綜合證券股份有限公司",
+    "issue_type": "無擔保轉換公司債",
+    "announce_date": "2026/11/20",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": null,
+    "attempts": 1
+  },
+  {
     "company": "立誠光電股份有限公司",
     "source": "UnderwritingNotice",
     "seq": "115432",
