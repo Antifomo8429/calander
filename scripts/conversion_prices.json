@@ -5874,7 +5874,22 @@
     "bid_end": "",
     "min_price": "",
     "conversion_price": null,
-    "attempts": 2
+    "attempts": 3
+  },
+  {
+    "company": "全球傳動科技股份有限公司",
+    "source": "UnderwritingNotice",
+    "seq": "115464",
+    "underwriter": "第一金證券股份有限公司",
+    "issue_type": "有擔保轉換公司債",
+    "announce_date": "2026/11/23",
+    "bid_start": "",
+    "bid_end": "",
+    "min_price": "",
+    "conversion_price": "55.6",
+    "base_price": "54",
+    "premium_rate": 103.0,
+    "attempts": 0
   },
   {
     "company": "立誠光電股份有限公司",
